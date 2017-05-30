@@ -1,0 +1,35 @@
+Steps to Setup CUnit in GNU/Linux:
+
+
+Step 1: Download CUnit package from Source Forge.
+
+Step 2: Find where you saved the package on your system, and uncompress it:
+
+		tar xjf CUnit-2.1-2-src.tar.bz2
+
+Step 3: Go into the CUnit-2.1.2 directory.
+
+		cd CUnit-2.1.2
+
+Step 4: Run the following sequence of commands:
+
+		1. aclocal  (if necessary)
+    	2. autoreconf -vif (if necessary)
+    	3. automake (if necessary)
+    	4. chmod u+x configure (if necessary)
+   		5. ./configure --prefix <Your choice of directory for installation>
+    	6. make clean && make
+    	7. make install
+
+
+Step 5: Goto the directory $HOME/local. Verify that you have the following sub-directories: doc, include, lib, and share. Each of these should have the products you seek.
+
+Step 6: Add the LD_LIBRARY_PATH to your ~/.bashrc file, thus making it available each/every time you log in. Something like:
+
+		export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:$HOME/PATH_OF_INSTALLATION
+		
+If ./configure is called without any directory, then make will require sudo access. PATH_OF_INSTALLATION of library for linking will be /usr/local/lib
+
+Step 7. To build an application using CUnit, something like this is used:
+
+		gcc -Wall -I$HOME/PATH_OF_INSTALLATION MyProg.c -L$HOME/PATH_OF_INSTALLATION -lcunit -o myprog

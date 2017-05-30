@@ -1,0 +1,1386 @@
+Archive member included because of file (symbol)
+
+/home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-exit.o)
+                              /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (exit)
+/home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-impure.o)
+                              /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-exit.o) (_global_impure_ptr)
+/home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-init.o)
+                              /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__libc_init_array)
+/home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memset.o)
+                              /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (memset)
+/home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+                              /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-exit.o) (_exit)
+/home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+                              _build/pstorage.o (__aeabi_uidiv)
+/home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_divsi3.o)
+                              _build/pstorage.o (__aeabi_idiv)
+/home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_dvmd_tls.o)
+                              /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcmp.o)
+                              _build/device_manager_peripheral.o (memcmp)
+/home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcpy-stub.o)
+                              _build/pstorage.o (memcpy)
+/home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-strlen.o)
+                              _build/main.o (strlen)
+
+Allocating common symbols
+Common symbol       size              file
+
+__stdin             0x68              _build/retarget.o
+__stdout            0x68              _build/retarget.o
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+ .data          0x0000000000000000        0x4 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .text          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .text          0x0000000000000000        0x0 _build/app_button.o
+ .data          0x0000000000000000        0x0 _build/app_button.o
+ .bss           0x0000000000000000        0x0 _build/app_button.o
+ .text.app_button_disable
+                0x0000000000000000       0x34 _build/app_button.o
+ .text.app_button_is_pushed
+                0x0000000000000000       0x2c _build/app_button.o
+ .text          0x0000000000000000        0x0 _build/app_error.o
+ .data          0x0000000000000000        0x0 _build/app_error.o
+ .bss           0x0000000000000000        0x0 _build/app_error.o
+ .text          0x0000000000000000        0x0 _build/app_fifo.o
+ .data          0x0000000000000000        0x0 _build/app_fifo.o
+ .bss           0x0000000000000000        0x0 _build/app_fifo.o
+ .text.app_fifo_init
+                0x0000000000000000       0x28 _build/app_fifo.o
+ .text.app_fifo_put
+                0x0000000000000000       0x28 _build/app_fifo.o
+ .text.app_fifo_get
+                0x0000000000000000       0x24 _build/app_fifo.o
+ .text.app_fifo_flush
+                0x0000000000000000        0x8 _build/app_fifo.o
+ .text.app_fifo_read
+                0x0000000000000000       0x50 _build/app_fifo.o
+ .text.app_fifo_write
+                0x0000000000000000       0x54 _build/app_fifo.o
+ .comment       0x0000000000000000       0x81 _build/app_fifo.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/app_fifo.o
+ .text          0x0000000000000000        0x0 _build/app_timer.o
+ .data          0x0000000000000000        0x0 _build/app_timer.o
+ .bss           0x0000000000000000        0x0 _build/app_timer.o
+ .text.app_timer_stop_all
+                0x0000000000000000       0xc0 _build/app_timer.o
+ .text.app_timer_cnt_get
+                0x0000000000000000       0x14 _build/app_timer.o
+ .text.app_timer_cnt_diff_compute
+                0x0000000000000000        0xc _build/app_timer.o
+ .text          0x0000000000000000        0x0 _build/app_trace.o
+ .data          0x0000000000000000        0x0 _build/app_trace.o
+ .bss           0x0000000000000000        0x0 _build/app_trace.o
+ .comment       0x0000000000000000       0x81 _build/app_trace.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/app_trace.o
+ .text          0x0000000000000000        0x0 _build/nrf_assert.o
+ .data          0x0000000000000000        0x0 _build/nrf_assert.o
+ .bss           0x0000000000000000        0x0 _build/nrf_assert.o
+ .comment       0x0000000000000000       0x81 _build/nrf_assert.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/nrf_assert.o
+ .text          0x0000000000000000        0x0 _build/retarget.o
+ .data          0x0000000000000000        0x0 _build/retarget.o
+ .bss           0x0000000000000000        0x0 _build/retarget.o
+ .text._write   0x0000000000000000       0x1c _build/retarget.o
+ .text._read    0x0000000000000000       0x14 _build/retarget.o
+ .comment       0x0000000000000000       0x81 _build/retarget.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/retarget.o
+ COMMON         0x0000000000000000       0xd0 _build/retarget.o
+ .text          0x0000000000000000        0x0 _build/sensorsim.o
+ .data          0x0000000000000000        0x0 _build/sensorsim.o
+ .bss           0x0000000000000000        0x0 _build/sensorsim.o
+ .text.sensorsim_increment
+                0x0000000000000000       0x1c _build/sensorsim.o
+ .text.sensorsim_decrement
+                0x0000000000000000       0x1c _build/sensorsim.o
+ .text          0x0000000000000000        0x0 _build/app_uart_fifo.o
+ .data          0x0000000000000000        0x0 _build/app_uart_fifo.o
+ .bss           0x0000000000000000        0x0 _build/app_uart_fifo.o
+ .text.uart_event_handler
+                0x0000000000000000       0xbc _build/app_uart_fifo.o
+ .text.app_uart_init
+                0x0000000000000000       0xa4 _build/app_uart_fifo.o
+ .text.app_uart_flush
+                0x0000000000000000       0x1c _build/app_uart_fifo.o
+ .text.app_uart_get
+                0x0000000000000000       0x34 _build/app_uart_fifo.o
+ .text.app_uart_put
+                0x0000000000000000       0x28 _build/app_uart_fifo.o
+ .text.app_uart_close
+                0x0000000000000000        0xc _build/app_uart_fifo.o
+ .rodata        0x0000000000000000       0x20 _build/app_uart_fifo.o
+ .bss.tx_buffer
+                0x0000000000000000        0x4 _build/app_uart_fifo.o
+ .bss.m_event_handler
+                0x0000000000000000        0x4 _build/app_uart_fifo.o
+ .bss.rx_buffer
+                0x0000000000000000        0x4 _build/app_uart_fifo.o
+ .bss.m_tx_fifo
+                0x0000000000000000       0x10 _build/app_uart_fifo.o
+ .bss.m_rx_fifo
+                0x0000000000000000       0x10 _build/app_uart_fifo.o
+ .bss.tx_tmp    0x0000000000000000        0x1 _build/app_uart_fifo.o
+ .comment       0x0000000000000000       0x81 _build/app_uart_fifo.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/app_uart_fifo.o
+ .text          0x0000000000000000        0x0 _build/nrf_delay.o
+ .data          0x0000000000000000        0x0 _build/nrf_delay.o
+ .bss           0x0000000000000000        0x0 _build/nrf_delay.o
+ .text.nrf_delay_ms
+                0x0000000000000000       0x3c _build/nrf_delay.o
+ .comment       0x0000000000000000       0x81 _build/nrf_delay.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/nrf_delay.o
+ .text          0x0000000000000000        0x0 _build/nrf_drv_common.o
+ .data          0x0000000000000000        0x0 _build/nrf_drv_common.o
+ .bss           0x0000000000000000        0x0 _build/nrf_drv_common.o
+ .text          0x0000000000000000        0x0 _build/nrf_drv_gpiote.o
+ .data          0x0000000000000000        0x0 _build/nrf_drv_gpiote.o
+ .bss           0x0000000000000000        0x0 _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_uninit
+                0x0000000000000000      0x108 _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_out_init
+                0x0000000000000000       0xd0 _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_out_uninit
+                0x0000000000000000       0x48 _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_out_set
+                0x0000000000000000       0x14 _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_out_clear
+                0x0000000000000000       0x14 _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_out_toggle
+                0x0000000000000000       0x2c _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_out_task_enable
+                0x0000000000000000       0x3c _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_out_task_disable
+                0x0000000000000000       0x24 _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_out_task_addr_get
+                0x0000000000000000       0x1c _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_out_task_force
+                0x0000000000000000       0x34 _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_out_task_trigger
+                0x0000000000000000       0x20 _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_in_event_disable
+                0x0000000000000000       0x58 _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_in_uninit
+                0x0000000000000000       0xa0 _build/nrf_drv_gpiote.o
+ .text.nrf_drv_gpiote_in_event_addr_get
+                0x0000000000000000       0x20 _build/nrf_drv_gpiote.o
+ .text          0x0000000000000000        0x0 _build/nrf_drv_uart.o
+ .data          0x0000000000000000        0x0 _build/nrf_drv_uart.o
+ .bss           0x0000000000000000        0x0 _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_init
+                0x0000000000000000      0x110 _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_uninit
+                0x0000000000000000       0xb4 _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_tx
+                0x0000000000000000       0xb4 _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_rx
+                0x0000000000000000      0x104 _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_rx_enable
+                0x0000000000000000       0x2c _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_rx_disable
+                0x0000000000000000       0x18 _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_errorsrc_get
+                0x0000000000000000       0x1c _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_tx_abort
+                0x0000000000000000       0x3c _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_rx_abort
+                0x0000000000000000       0x1c _build/nrf_drv_uart.o
+ .rodata.m_default_config
+                0x0000000000000000       0x20 _build/nrf_drv_uart.o
+ .text          0x0000000000000000        0x0 _build/pstorage.o
+ .data          0x0000000000000000        0x0 _build/pstorage.o
+ .bss           0x0000000000000000        0x0 _build/pstorage.o
+ .text          0x0000000000000000        0x0 _build/bsp.o
+ .data          0x0000000000000000        0x0 _build/bsp.o
+ .bss           0x0000000000000000        0x0 _build/bsp.o
+ .text.bsp_buttons_state_get
+                0x0000000000000000       0x40 _build/bsp.o
+ .text.bsp_indication_text_set
+                0x0000000000000000      0x39c _build/bsp.o
+ .rodata.bsp_indication_text_set
+                0x0000000000000000       0x60 _build/bsp.o
+ .text.bsp_buttons_enable
+                0x0000000000000000        0x8 _build/bsp.o
+ .text.bsp_buttons_disable
+                0x0000000000000000        0x8 _build/bsp.o
+ .text          0x0000000000000000        0x0 _build/bsp_btn_ble.o
+ .data          0x0000000000000000        0x0 _build/bsp_btn_ble.o
+ .bss           0x0000000000000000        0x0 _build/bsp_btn_ble.o
+ .text          0x0000000000000000        0x0 _build/main.o
+ .data          0x0000000000000000        0x0 _build/main.o
+ .bss           0x0000000000000000        0x0 _build/main.o
+ .text          0x0000000000000000        0x0 _build/ble_advdata.o
+ .data          0x0000000000000000        0x0 _build/ble_advdata.o
+ .bss           0x0000000000000000        0x0 _build/ble_advdata.o
+ .text          0x0000000000000000        0x0 _build/ble_advertising.o
+ .data          0x0000000000000000        0x0 _build/ble_advertising.o
+ .bss           0x0000000000000000        0x0 _build/ble_advertising.o
+ .text.ble_advertising_peer_addr_reply
+                0x0000000000000000       0x3c _build/ble_advertising.o
+ .text.ble_advertising_whitelist_reply
+                0x0000000000000000       0xd8 _build/ble_advertising.o
+ .text          0x0000000000000000        0x0 _build/ble_bas.o
+ .data          0x0000000000000000        0x0 _build/ble_bas.o
+ .bss           0x0000000000000000        0x0 _build/ble_bas.o
+ .text          0x0000000000000000        0x0 _build/ble_bps.o
+ .data          0x0000000000000000        0x0 _build/ble_bps.o
+ .bss           0x0000000000000000        0x0 _build/ble_bps.o
+ .text          0x0000000000000000        0x0 _build/ble_conn_params.o
+ .data          0x0000000000000000        0x0 _build/ble_conn_params.o
+ .bss           0x0000000000000000        0x0 _build/ble_conn_params.o
+ .text.ble_conn_params_stop
+                0x0000000000000000       0x10 _build/ble_conn_params.o
+ .text.ble_conn_params_change_conn_params
+                0x0000000000000000       0x74 _build/ble_conn_params.o
+ .text          0x0000000000000000        0x0 _build/ble_dis.o
+ .data          0x0000000000000000        0x0 _build/ble_dis.o
+ .bss           0x0000000000000000        0x0 _build/ble_dis.o
+ .text          0x0000000000000000        0x0 _build/ble_srv_common.o
+ .data          0x0000000000000000        0x0 _build/ble_srv_common.o
+ .bss           0x0000000000000000        0x0 _build/ble_srv_common.o
+ .text.sd_ble_gatts_characteristic_add
+                0x0000000000000000        0x4 _build/ble_srv_common.o
+ .text.sd_ble_gatts_descriptor_add
+                0x0000000000000000        0x4 _build/ble_srv_common.o
+ .text.characteristic_add
+                0x0000000000000000      0x36c _build/ble_srv_common.o
+ .rodata.characteristic_add
+                0x0000000000000000       0x78 _build/ble_srv_common.o
+ .text.descriptor_add
+                0x0000000000000000      0x170 _build/ble_srv_common.o
+ .rodata.descriptor_add
+                0x0000000000000000       0x30 _build/ble_srv_common.o
+ .text          0x0000000000000000        0x0 _build/device_manager_peripheral.o
+ .data          0x0000000000000000        0x0 _build/device_manager_peripheral.o
+ .bss           0x0000000000000000        0x0 _build/device_manager_peripheral.o
+ .text.sd_ble_gap_authenticate
+                0x0000000000000000        0x4 _build/device_manager_peripheral.o
+ .text.dm_security_setup_req
+                0x0000000000000000       0x5c _build/device_manager_peripheral.o
+ .text.dm_security_status_req
+                0x0000000000000000       0x74 _build/device_manager_peripheral.o
+ .text.dm_whitelist_create
+                0x0000000000000000       0xe4 _build/device_manager_peripheral.o
+ .text.dm_device_add
+                0x0000000000000000        0x8 _build/device_manager_peripheral.o
+ .text.dm_device_delete
+                0x0000000000000000       0xc8 _build/device_manager_peripheral.o
+ .text.dm_device_delete_all
+                0x0000000000000000       0xb8 _build/device_manager_peripheral.o
+ .text.dm_service_context_set
+                0x0000000000000000       0xbc _build/device_manager_peripheral.o
+ .text.dm_service_context_get
+                0x0000000000000000       0xd4 _build/device_manager_peripheral.o
+ .text.dm_service_context_delete
+                0x0000000000000000       0x5c _build/device_manager_peripheral.o
+ .text.dm_application_context_set
+                0x0000000000000000        0x8 _build/device_manager_peripheral.o
+ .text.dm_application_context_get
+                0x0000000000000000        0x8 _build/device_manager_peripheral.o
+ .text.dm_application_context_delete
+                0x0000000000000000        0x8 _build/device_manager_peripheral.o
+ .text.dm_application_instance_set
+                0x0000000000000000       0x3c _build/device_manager_peripheral.o
+ .text.dm_handle_initialize
+                0x0000000000000000       0x1c _build/device_manager_peripheral.o
+ .text.dm_peer_addr_set
+                0x0000000000000000       0xb4 _build/device_manager_peripheral.o
+ .text.dm_peer_addr_get
+                0x0000000000000000       0x84 _build/device_manager_peripheral.o
+ .text.dm_distributed_keys_get
+                0x0000000000000000       0xbc _build/device_manager_peripheral.o
+ .text.dm_handle_get
+                0x0000000000000000       0x48 _build/device_manager_peripheral.o
+ .bss.m_local_id_info
+                0x0000000000000000       0x18 _build/device_manager_peripheral.o
+ .rodata.m_context_init_len
+                0x0000000000000000        0x4 _build/device_manager_peripheral.o
+ .text          0x0000000000000000        0x0 _build/system_nrf51.o
+ .data          0x0000000000000000        0x0 _build/system_nrf51.o
+ .bss           0x0000000000000000        0x0 _build/system_nrf51.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0x10 _build/system_nrf51.o
+ .data.SystemCoreClock
+                0x0000000000000000        0x4 _build/system_nrf51.o
+ .text          0x0000000000000000        0x0 _build/softdevice_handler.o
+ .data          0x0000000000000000        0x0 _build/softdevice_handler.o
+ .bss           0x0000000000000000        0x0 _build/softdevice_handler.o
+ .text.sd_softdevice_disable
+                0x0000000000000000        0x4 _build/softdevice_handler.o
+ .text.softdevice_handler_isEnabled
+                0x0000000000000000        0xc _build/softdevice_handler.o
+ .text.softdevice_handler_sd_disable
+                0x0000000000000000       0x18 _build/softdevice_handler.o
+ .data          0x0000000000000000        0x0 _build/gcc_startup_nrf51.o
+ .bss           0x0000000000000000        0x0 _build/gcc_startup_nrf51.o
+ .ARM.extab     0x0000000000000000        0x0 _build/gcc_startup_nrf51.o
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcmp.o)
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcmp.o)
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcmp.o)
+ .text          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-strlen.o)
+ .text          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+ .jcr           0x0000000000000000        0x4 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+ .text          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x000000000001c000 0x0000000000024000 xr
+RAM              0x0000000020002800 0x0000000000005800 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a
+LOAD _build/app_button.o
+LOAD _build/app_error.o
+LOAD _build/app_fifo.o
+LOAD _build/app_timer.o
+LOAD _build/app_trace.o
+LOAD _build/nrf_assert.o
+LOAD _build/retarget.o
+LOAD _build/sensorsim.o
+LOAD _build/app_uart_fifo.o
+LOAD _build/nrf_delay.o
+LOAD _build/nrf_drv_common.o
+LOAD _build/nrf_drv_gpiote.o
+LOAD _build/nrf_drv_uart.o
+LOAD _build/pstorage.o
+LOAD _build/bsp.o
+LOAD _build/bsp_btn_ble.o
+LOAD _build/main.o
+LOAD _build/ble_advdata.o
+LOAD _build/ble_advertising.o
+LOAD _build/ble_bas.o
+LOAD _build/ble_bps.o
+LOAD _build/ble_conn_params.o
+LOAD _build/ble_dis.o
+LOAD _build/ble_srv_common.o
+LOAD _build/device_manager_peripheral.o
+LOAD _build/system_nrf51.o
+LOAD _build/softdevice_handler.o
+LOAD _build/gcc_startup_nrf51.o
+START GROUP
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a
+END GROUP
+START GROUP
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a
+END GROUP
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+START GROUP
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a
+END GROUP
+
+.fs_data_out    0x0000000000000000        0x0
+                0x0000000000000000                PROVIDE (__start_fs_data, .)
+ *(fs_data)
+                0x0000000000000000                PROVIDE (__stop_fs_data, .)
+
+.text           0x000000000001c000     0x77f8
+ *(.Vectors)
+ .Vectors       0x000000000001c000       0xc0 _build/gcc_startup_nrf51.o
+                0x000000000001c000                __Vectors
+ *(.text*)
+ .text          0x000000000001c0c0       0x60 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+ .text          0x000000000001c120       0x78 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+                0x000000000001c120                _mainCRTStartup
+                0x000000000001c120                _start
+ .text.exit     0x000000000001c198       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-exit.o)
+                0x000000000001c198                exit
+ .text.__libc_init_array
+                0x000000000001c1c4       0x4c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-init.o)
+                0x000000000001c1c4                __libc_init_array
+ .text.memset   0x000000000001c210       0x10 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memset.o)
+                0x000000000001c210                memset
+ .text._exit    0x000000000001c220        0x4 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+                0x000000000001c220                _exit
+ .text.detection_delay_timeout_handler
+                0x000000000001c224       0xa4 _build/app_button.o
+ .text.gpiote_event_handler
+                0x000000000001c2c8       0x5c _build/app_button.o
+ .text.app_button_init
+                0x000000000001c324       0xac _build/app_button.o
+                0x000000000001c324                app_button_init
+ .text.app_button_enable
+                0x000000000001c3d0       0x30 _build/app_button.o
+                0x000000000001c3d0                app_button_enable
+ .text.app_error_handler
+                0x000000000001c400       0x18 _build/app_error.o
+                0x000000000001c400                app_error_handler
+ .text.rtc1_stop
+                0x000000000001c418       0x7c _build/app_timer.o
+ .text.RTC1_IRQHandler
+                0x000000000001c494       0xe8 _build/app_timer.o
+                0x000000000001c494                RTC1_IRQHandler
+ .text.SWI0_IRQHandler
+                0x000000000001c57c      0x458 _build/app_timer.o
+                0x000000000001c57c                SWI0_IRQHandler
+ .text.app_timer_init
+                0x000000000001c9d4       0xe4 _build/app_timer.o
+                0x000000000001c9d4                app_timer_init
+ .text.app_timer_create
+                0x000000000001cab8       0x34 _build/app_timer.o
+                0x000000000001cab8                app_timer_create
+ .text.app_timer_start
+                0x000000000001caec      0x104 _build/app_timer.o
+                0x000000000001caec                app_timer_start
+ .text.app_timer_stop
+                0x000000000001cbf0       0xd0 _build/app_timer.o
+                0x000000000001cbf0                app_timer_stop
+ .text.sensorsim_init
+                0x000000000001ccc0       0x18 _build/sensorsim.o
+                0x000000000001ccc0                sensorsim_init
+ .text.sensorsim_measure
+                0x000000000001ccd8       0x40 _build/sensorsim.o
+                0x000000000001ccd8                sensorsim_measure
+ .text.nrf_drv_common_irq_enable
+                0x000000000001cd18       0x7c _build/nrf_drv_common.o
+                0x000000000001cd18                nrf_drv_common_irq_enable
+ .text.nrf_drv_gpiote_init
+                0x000000000001cd94       0x68 _build/nrf_drv_gpiote.o
+                0x000000000001cd94                nrf_drv_gpiote_init
+ .text.nrf_drv_gpiote_is_init
+                0x000000000001cdfc       0x14 _build/nrf_drv_gpiote.o
+                0x000000000001cdfc                nrf_drv_gpiote_is_init
+ .text.nrf_drv_gpiote_in_init
+                0x000000000001ce10      0x16c _build/nrf_drv_gpiote.o
+                0x000000000001ce10                nrf_drv_gpiote_in_init
+ .text.nrf_drv_gpiote_in_event_enable
+                0x000000000001cf7c       0xa4 _build/nrf_drv_gpiote.o
+                0x000000000001cf7c                nrf_drv_gpiote_in_event_enable
+ .text.nrf_drv_gpiote_in_is_set
+                0x000000000001d020       0x14 _build/nrf_drv_gpiote.o
+                0x000000000001d020                nrf_drv_gpiote_in_is_set
+ .text.GPIOTE_IRQHandler
+                0x000000000001d034      0x3b0 _build/nrf_drv_gpiote.o
+                0x000000000001d034                GPIOTE_IRQHandler
+ .text.UART0_IRQHandler
+                0x000000000001d3e4      0x164 _build/nrf_drv_uart.o
+                0x000000000001d3e4                UART0_IRQHandler
+ .text.sd_flash_write
+                0x000000000001d548        0x4 _build/pstorage.o
+ .text.sd_flash_page_erase
+                0x000000000001d54c        0x4 _build/pstorage.o
+ .text.flash_api_err_code_process
+                0x000000000001d550       0x60 _build/pstorage.o
+ .text.state_entry_action_run
+                0x000000000001d5b0      0x1ac _build/pstorage.o
+ .text.clear_operation_execute
+                0x000000000001d75c      0x140 _build/pstorage.o
+ .text.unlikely.cmd_queue_enqueue
+                0x000000000001d89c       0x8c _build/pstorage.o
+ .text.tail_restore_state_run
+                0x000000000001d928       0xb4 _build/pstorage.o
+ .text.state_write_data_swap_entry_run
+                0x000000000001d9dc       0xa8 _build/pstorage.o
+ .text.state_restore_head_entry_run
+                0x000000000001da84       0xb0 _build/pstorage.o
+ .text.data_to_swap_write_state_run
+                0x000000000001db34       0xa0 _build/pstorage.o
+ .text.state_restore_tail_entry_run
+                0x000000000001dbd4       0xc4 _build/pstorage.o
+ .text.state_erase_data_page_entry_run
+                0x000000000001dc98       0x70 _build/pstorage.o
+ .text.swap_erase_state_run
+                0x000000000001dd08       0xd4 _build/pstorage.o
+ .text.state_swap_erase_entry_run
+                0x000000000001dddc       0x9c _build/pstorage.o
+ .text.store_cmd_flash_write_execute
+                0x000000000001de78      0x114 _build/pstorage.o
+ .text.head_restore_state_run
+                0x000000000001df8c      0x208 _build/pstorage.o
+ .text.data_page_erase_state_run
+                0x000000000001e194      0x230 _build/pstorage.o
+ .text.command_end_procedure_run
+                0x000000000001e3c4       0xb8 _build/pstorage.o
+ .text.pstorage_sys_event_handler
+                0x000000000001e47c      0x1cc _build/pstorage.o
+                0x000000000001e47c                pstorage_sys_event_handler
+ .text.pstorage_init
+                0x000000000001e648      0x14c _build/pstorage.o
+                0x000000000001e648                pstorage_init
+ .text.pstorage_register
+                0x000000000001e794       0xe4 _build/pstorage.o
+                0x000000000001e794                pstorage_register
+ .text.pstorage_block_identifier_get
+                0x000000000001e878       0x50 _build/pstorage.o
+                0x000000000001e878                pstorage_block_identifier_get
+ .text.pstorage_store
+                0x000000000001e8c8       0x88 _build/pstorage.o
+                0x000000000001e8c8                pstorage_store
+ .text.pstorage_update
+                0x000000000001e950       0x88 _build/pstorage.o
+                0x000000000001e950                pstorage_update
+ .text.pstorage_load
+                0x000000000001e9d8       0xa8 _build/pstorage.o
+                0x000000000001e9d8                pstorage_load
+ .text.pstorage_clear
+                0x000000000001ea80       0x98 _build/pstorage.o
+                0x000000000001ea80                pstorage_clear
+ .text.pstorage_access_status_get
+                0x000000000001eb18       0x28 _build/pstorage.o
+                0x000000000001eb18                pstorage_access_status_get
+ .text.alert_timer_handler
+                0x000000000001eb40       0x28 _build/bsp.o
+ .text.bsp_button_event_handler
+                0x000000000001eb68       0xcc _build/bsp.o
+ .text.leds_timer_handler
+                0x000000000001ec34      0x31c _build/bsp.o
+ .text.button_timer_handler
+                0x000000000001ef50       0x48 _build/bsp.o
+ .text.bsp_button_is_pressed
+                0x000000000001ef98       0x30 _build/bsp.o
+                0x000000000001ef98                bsp_button_is_pressed
+ .text.bsp_indication_set
+                0x000000000001efc8      0x39c _build/bsp.o
+                0x000000000001efc8                bsp_indication_set
+ .text.bsp_init
+                0x000000000001f364       0xb8 _build/bsp.o
+                0x000000000001f364                bsp_init
+ .text.bsp_event_to_button_action_assign
+                0x000000000001f41c       0x58 _build/bsp.o
+                0x000000000001f41c                bsp_event_to_button_action_assign
+ .text.bsp_wakeup_buttons_set
+                0x000000000001f474       0x90 _build/bsp.o
+                0x000000000001f474                bsp_wakeup_buttons_set
+ .text.bsp_btn_ble_sleep_mode_prepare
+                0x000000000001f504       0x1c _build/bsp_btn_ble.o
+                0x000000000001f504                bsp_btn_ble_sleep_mode_prepare
+ .text.bsp_btn_ble_on_ble_evt
+                0x000000000001f520       0xbc _build/bsp_btn_ble.o
+                0x000000000001f520                bsp_btn_ble_on_ble_evt
+ .text.bsp_btn_ble_init
+                0x000000000001f5dc       0x98 _build/bsp_btn_ble.o
+                0x000000000001f5dc                bsp_btn_ble_init
+ .text.sd_ble_gap_disconnect
+                0x000000000001f674        0x4 _build/main.o
+ .text.sd_ble_gap_appearance_set
+                0x000000000001f678        0x4 _build/main.o
+ .text.sd_ble_gap_ppcp_set
+                0x000000000001f67c        0x4 _build/main.o
+ .text.sd_ble_gap_device_name_set
+                0x000000000001f680        0x4 _build/main.o
+ .text.sd_ble_enable
+                0x000000000001f684        0x4 _build/main.o
+ .text.sd_power_system_off
+                0x000000000001f688        0x4 _build/main.o
+ .text.sd_app_evt_wait
+                0x000000000001f68c        0x4 _build/main.o
+ .text.conn_params_error_handler
+                0x000000000001f690        0xc _build/main.o
+ .text.battery_level_meas_timeout_handler
+                0x000000000001f69c       0x44 _build/main.o
+ .text.sys_evt_dispatch
+                0x000000000001f6e0       0x10 _build/main.o
+ .text.ble_evt_dispatch
+                0x000000000001f6f0       0x98 _build/main.o
+ .text.on_conn_params_evt
+                0x000000000001f788       0x28 _build/main.o
+ .text.blood_pressure_measurement_send
+                0x000000000001f7b0      0x120 _build/main.o
+ .text.bsp_event_handler
+                0x000000000001f8d0       0x80 _build/main.o
+ .text.device_manager_evt_handler
+                0x000000000001f950       0x4c _build/main.o
+ .text.on_adv_evt
+                0x000000000001f99c       0x50 _build/main.o
+ .text.on_bps_evt
+                0x000000000001f9ec      0x130 _build/main.o
+ .text.assert_nrf_callback
+                0x000000000001fb1c       0x14 _build/main.o
+                0x000000000001fb1c                assert_nrf_callback
+ .text.startup.main
+                0x000000000001fb30      0x460 _build/main.o
+                0x000000000001fb30                main
+ .text.sd_ble_gap_address_get
+                0x000000000001ff90        0x4 _build/ble_advdata.o
+ .text.sd_ble_gap_adv_data_set
+                0x000000000001ff94        0x4 _build/ble_advdata.o
+ .text.sd_ble_gap_appearance_get
+                0x000000000001ff98        0x4 _build/ble_advdata.o
+ .text.sd_ble_gap_device_name_get
+                0x000000000001ff9c        0x4 _build/ble_advdata.o
+ .text.sd_ble_uuid_encode
+                0x000000000001ffa0        0x4 _build/ble_advdata.o
+ .text.name_encode
+                0x000000000001ffa4       0x8c _build/ble_advdata.o
+ .text.uuid_list_sized_encode
+                0x0000000000020030       0xe4 _build/ble_advdata.o
+ .text.adv_data_encode
+                0x0000000000020114      0x538 _build/ble_advdata.o
+                0x0000000000020114                adv_data_encode
+ .text.ble_advdata_set
+                0x000000000002064c      0x4ec _build/ble_advdata.o
+                0x000000000002064c                ble_advdata_set
+ .text.sd_ble_gap_adv_start
+                0x0000000000020b38        0x4 _build/ble_advertising.o
+ .text.sd_ble_gap_adv_stop
+                0x0000000000020b3c        0x4 _build/ble_advertising.o
+ .text.ble_advertising_init
+                0x0000000000020b40      0x14c _build/ble_advertising.o
+                0x0000000000020b40                ble_advertising_init
+ .text.ble_advertising_start
+                0x0000000000020c8c      0x2b4 _build/ble_advertising.o
+                0x0000000000020c8c                ble_advertising_start
+ .text.ble_advertising_on_ble_evt
+                0x0000000000020f40       0xb4 _build/ble_advertising.o
+                0x0000000000020f40                ble_advertising_on_ble_evt
+ .text.ble_advertising_on_sys_evt
+                0x0000000000020ff4      0x2cc _build/ble_advertising.o
+                0x0000000000020ff4                ble_advertising_on_sys_evt
+ .text.ble_advertising_restart_without_whitelist
+                0x00000000000212c0      0x2f4 _build/ble_advertising.o
+                0x00000000000212c0                ble_advertising_restart_without_whitelist
+ .text.sd_ble_gatts_service_add
+                0x00000000000215b4        0x4 _build/ble_bas.o
+ .text.sd_ble_gatts_characteristic_add
+                0x00000000000215b8        0x4 _build/ble_bas.o
+ .text.sd_ble_gatts_descriptor_add
+                0x00000000000215bc        0x4 _build/ble_bas.o
+ .text.sd_ble_gatts_value_set
+                0x00000000000215c0        0x4 _build/ble_bas.o
+ .text.sd_ble_gatts_hvx
+                0x00000000000215c4        0x4 _build/ble_bas.o
+ .text.ble_bas_on_ble_evt
+                0x00000000000215c8       0x60 _build/ble_bas.o
+                0x00000000000215c8                ble_bas_on_ble_evt
+ .text.ble_bas_init
+                0x0000000000021628      0x1cc _build/ble_bas.o
+                0x0000000000021628                ble_bas_init
+ .text.ble_bas_battery_level_update
+                0x00000000000217f4       0x8c _build/ble_bas.o
+                0x00000000000217f4                ble_bas_battery_level_update
+ .text.sd_ble_gatts_service_add
+                0x0000000000021880        0x4 _build/ble_bps.o
+ .text.sd_ble_gatts_characteristic_add
+                0x0000000000021884        0x4 _build/ble_bps.o
+ .text.sd_ble_gatts_value_get
+                0x0000000000021888        0x4 _build/ble_bps.o
+ .text.sd_ble_gatts_hvx
+                0x000000000002188c        0x4 _build/ble_bps.o
+ .text.ble_bps_on_ble_evt
+                0x0000000000021890       0x74 _build/ble_bps.o
+                0x0000000000021890                ble_bps_on_ble_evt
+ .text.ble_bps_init
+                0x0000000000021904      0x2b0 _build/ble_bps.o
+                0x0000000000021904                ble_bps_init
+ .text.ble_bps_measurement_send
+                0x0000000000021bb4      0x13c _build/ble_bps.o
+                0x0000000000021bb4                ble_bps_measurement_send
+ .text.ble_bps_is_indication_enabled
+                0x0000000000021cf0       0x3c _build/ble_bps.o
+                0x0000000000021cf0                ble_bps_is_indication_enabled
+ .text.sd_ble_gap_conn_param_update
+                0x0000000000021d2c        0x4 _build/ble_conn_params.o
+ .text.sd_ble_gap_disconnect
+                0x0000000000021d30        0x4 _build/ble_conn_params.o
+ .text.sd_ble_gap_ppcp_set
+                0x0000000000021d34        0x4 _build/ble_conn_params.o
+ .text.sd_ble_gap_ppcp_get
+                0x0000000000021d38        0x4 _build/ble_conn_params.o
+ .text.update_timeout_handler
+                0x0000000000021d3c       0x7c _build/ble_conn_params.o
+ .text.conn_params_negotiation
+                0x0000000000021db8       0x8c _build/ble_conn_params.o
+ .text.ble_conn_params_init
+                0x0000000000021e44       0x78 _build/ble_conn_params.o
+                0x0000000000021e44                ble_conn_params_init
+ .text.ble_conn_params_on_ble_evt
+                0x0000000000021ebc       0xac _build/ble_conn_params.o
+                0x0000000000021ebc                ble_conn_params_on_ble_evt
+ .text.sd_ble_gatts_service_add
+                0x0000000000021f68        0x4 _build/ble_dis.o
+ .text.sd_ble_gatts_characteristic_add
+                0x0000000000021f6c        0x4 _build/ble_dis.o
+ .text.char_add
+                0x0000000000021f70       0xcc _build/ble_dis.o
+ .text.ble_dis_init
+                0x000000000002203c      0x2f0 _build/ble_dis.o
+                0x000000000002203c                ble_dis_init
+ .text.ble_srv_report_ref_encode
+                0x000000000002232c        0xc _build/ble_srv_common.o
+                0x000000000002232c                ble_srv_report_ref_encode
+ .text.ble_srv_ascii_to_utf8
+                0x0000000000022338       0x14 _build/ble_srv_common.o
+                0x0000000000022338                ble_srv_ascii_to_utf8
+ .text.sd_ble_gap_sec_params_reply
+                0x000000000002234c        0x4 _build/device_manager_peripheral.o
+ .text.sd_ble_gap_sec_info_reply
+                0x0000000000022350        0x4 _build/device_manager_peripheral.o
+ .text.sd_ble_gatts_service_changed
+                0x0000000000022354        0x4 _build/device_manager_peripheral.o
+ .text.sd_ble_gatts_sys_attr_set
+                0x0000000000022358        0x4 _build/device_manager_peripheral.o
+ .text.sd_ble_gatts_sys_attr_get
+                0x000000000002235c        0x4 _build/device_manager_peripheral.o
+ .text.storage_operation_dummy_handler
+                0x0000000000022360        0x4 _build/device_manager_peripheral.o
+ .text.no_service_context_store
+                0x0000000000022364        0x4 _build/device_manager_peripheral.o
+ .text.gattc_context_store
+                0x0000000000022368        0x4 _build/device_manager_peripheral.o
+ .text.no_service_context_load
+                0x000000000002236c        0x4 _build/device_manager_peripheral.o
+ .text.gattc_context_load
+                0x0000000000022370        0x4 _build/device_manager_peripheral.o
+ .text.no_service_context_apply
+                0x0000000000022374        0x4 _build/device_manager_peripheral.o
+ .text.gattc_context_apply
+                0x0000000000022378        0x4 _build/device_manager_peripheral.o
+ .text.gatts_context_apply
+                0x000000000002237c       0xec _build/device_manager_peripheral.o
+ .text.gatts_context_store
+                0x0000000000022468       0xd0 _build/device_manager_peripheral.o
+ .text.gatts_context_load
+                0x0000000000022538       0x3c _build/device_manager_peripheral.o
+ .text.dm_pstorage_cb_handler
+                0x0000000000022574      0x150 _build/device_manager_peripheral.o
+ .text.gattsc_context_load
+                0x00000000000226c4       0x3c _build/device_manager_peripheral.o
+ .text.gattsc_context_apply
+                0x0000000000022700       0xec _build/device_manager_peripheral.o
+ .text.gattsc_context_store
+                0x00000000000227ec       0xd0 _build/device_manager_peripheral.o
+ .text.dm_init  0x00000000000228bc      0x138 _build/device_manager_peripheral.o
+                0x00000000000228bc                dm_init
+ .text.dm_register
+                0x00000000000229f4       0x7c _build/device_manager_peripheral.o
+                0x00000000000229f4                dm_register
+ .text.bond_data_load
+                0x0000000000022a70       0x50 _build/device_manager_peripheral.o
+                0x0000000000022a70                bond_data_load
+ .text.dm_ble_evt_handler
+                0x0000000000022ac0      0x6a0 _build/device_manager_peripheral.o
+                0x0000000000022ac0                dm_ble_evt_handler
+ .text.SystemInit
+                0x0000000000023160       0x8c _build/system_nrf51.o
+                0x0000000000023160                SystemInit
+ .text.sd_nvic_EnableIRQ
+                0x00000000000231ec        0x4 _build/softdevice_handler.o
+ .text.sd_evt_get
+                0x00000000000231f0        0x4 _build/softdevice_handler.o
+ .text.sd_softdevice_enable
+                0x00000000000231f4        0x4 _build/softdevice_handler.o
+ .text.sd_ble_evt_get
+                0x00000000000231f8        0x4 _build/softdevice_handler.o
+ .text.softdevice_assertion_handler
+                0x00000000000231fc        0xc _build/softdevice_handler.o
+                0x00000000000231fc                softdevice_assertion_handler
+ .text.intern_softdevice_events_execute
+                0x0000000000023208       0xd0 _build/softdevice_handler.o
+                0x0000000000023208                intern_softdevice_events_execute
+ .text.softdevice_handler_init
+                0x00000000000232d8       0x4c _build/softdevice_handler.o
+                0x00000000000232d8                softdevice_handler_init
+ .text.softdevice_ble_evt_handler_set
+                0x0000000000023324       0x14 _build/softdevice_handler.o
+                0x0000000000023324                softdevice_ble_evt_handler_set
+ .text.softdevice_sys_evt_handler_set
+                0x0000000000023338       0x14 _build/softdevice_handler.o
+                0x0000000000023338                softdevice_sys_evt_handler_set
+ .text.SWI2_IRQHandler
+                0x000000000002334c       0x28 _build/softdevice_handler.o
+                0x000000000002334c                SWI2_IRQHandler
+ .text          0x0000000000023374       0x54 _build/gcc_startup_nrf51.o
+                0x0000000000023374                Reset_Handler
+                0x00000000000233bc                NMI_Handler
+                0x00000000000233be                HardFault_Handler
+                0x00000000000233c0                SVC_Handler
+                0x00000000000233c2                PendSV_Handler
+                0x00000000000233c4                SysTick_Handler
+                0x00000000000233c6                TIMER2_IRQHandler
+                0x00000000000233c6                SPI0_TWI0_IRQHandler
+                0x00000000000233c6                RTC0_IRQHandler
+                0x00000000000233c6                POWER_CLOCK_IRQHandler
+                0x00000000000233c6                RADIO_IRQHandler
+                0x00000000000233c6                LPCOMP_IRQHandler
+                0x00000000000233c6                SWI4_IRQHandler
+                0x00000000000233c6                TEMP_IRQHandler
+                0x00000000000233c6                QDEC_IRQHandler
+                0x00000000000233c6                SWI5_IRQHandler
+                0x00000000000233c6                TIMER0_IRQHandler
+                0x00000000000233c6                TIMER1_IRQHandler
+                0x00000000000233c6                ECB_IRQHandler
+                0x00000000000233c6                Default_Handler
+                0x00000000000233c6                ADC_IRQHandler
+                0x00000000000233c6                SWI3_IRQHandler
+                0x00000000000233c6                CCM_AAR_IRQHandler
+                0x00000000000233c6                WDT_IRQHandler
+                0x00000000000233c6                RNG_IRQHandler
+                0x00000000000233c6                SPI1_TWI1_IRQHandler
+                0x00000000000233c6                SWI1_IRQHandler
+ .text          0x00000000000233c8       0x9c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+                0x00000000000233c8                __udivsi3
+                0x00000000000233c8                __aeabi_uidiv
+                0x0000000000023450                __aeabi_uidivmod
+ .text          0x0000000000023464       0xc0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_divsi3.o)
+                0x0000000000023464                __aeabi_idiv
+                0x0000000000023464                __divsi3
+                0x0000000000023510                __aeabi_idivmod
+ .text          0x0000000000023524        0x4 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_dvmd_tls.o)
+                0x0000000000023524                __aeabi_ldiv0
+                0x0000000000023524                __aeabi_idiv0
+ .text.memcmp   0x0000000000023528       0x1e /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcmp.o)
+                0x0000000000023528                memcmp
+ .text.memcpy   0x0000000000023546       0x12 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcpy-stub.o)
+                0x0000000000023546                memcpy
+ .text.strlen   0x0000000000023558        0xe /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-strlen.o)
+                0x0000000000023558                strlen
+ *(.init)
+ *fill*         0x0000000000023566        0x2 
+ .init          0x0000000000023568        0x4 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+                0x0000000000023568                _init
+ .init          0x000000000002356c        0x8 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+ *(.fini)
+ .fini          0x0000000000023574        0x4 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+                0x0000000000023574                _fini
+ .fini          0x0000000000023578        0x8 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.str1.1
+                0x0000000000023580        0x2 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-impure.o)
+ *fill*         0x0000000000023582        0x2 
+ .rodata._global_impure_ptr
+                0x0000000000023584        0x4 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-impure.o)
+                0x0000000000023584                _global_impure_ptr
+ .rodata.m_detection_delay_timer_id
+                0x0000000000023588        0x4 _build/app_button.o
+ .rodata.swap_sub_state_sm_lut.5947
+                0x000000000002358c       0x14 _build/pstorage.o
+ .rodata.swap_sub_state_sm_lut.5872
+                0x00000000000235a0       0x14 _build/pstorage.o
+ .rodata.leds_timer_handler
+                0x00000000000235b4       0x60 _build/bsp.o
+ .rodata.bsp_indication_set
+                0x0000000000023614       0x60 _build/bsp.o
+ .rodata.m_button_timer_id
+                0x0000000000023674        0x4 _build/bsp.o
+ .rodata.m_buttons_list
+                0x0000000000023678       0x10 _build/bsp.o
+ .rodata.m_leds_timer_id
+                0x0000000000023688        0x4 _build/bsp.o
+ .rodata.app_buttons
+                0x000000000002368c       0x20 _build/bsp.o
+ .rodata.m_alert_timer_id
+                0x00000000000236ac        0x4 _build/bsp.o
+ .rodata.str1.4
+                0x00000000000236b0        0x8 _build/main.o
+ .rodata.m_battery_timer_id
+                0x00000000000236b8        0x4 _build/main.o
+ .rodata.m_conn_params_timer_id
+                0x00000000000236bc        0x4 _build/ble_conn_params.o
+ .rodata.dm_ble_evt_handler
+                0x00000000000236c0      0x108 _build/device_manager_peripheral.o
+ .rodata.m_service_context_apply
+                0x00000000000237c8       0x10 _build/device_manager_peripheral.o
+                0x00000000000237c8                m_service_context_apply
+ .rodata.m_service_context_store
+                0x00000000000237d8       0x10 _build/device_manager_peripheral.o
+                0x00000000000237d8                m_service_context_store
+ .rodata.m_service_context_load
+                0x00000000000237e8       0x10 _build/device_manager_peripheral.o
+                0x00000000000237e8                m_service_context_load
+ *(.eh_frame*)
+ .eh_frame      0x00000000000237f8        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+                0x00000000000237f8                . = ALIGN (0x4)
+
+.glue_7         0x00000000000237f8        0x0
+ .glue_7        0x0000000000000000        0x0 linker stubs
+
+.glue_7t        0x00000000000237f8        0x0
+ .glue_7t       0x0000000000000000        0x0 linker stubs
+
+.vfp11_veneer   0x00000000000237f8        0x0
+ .vfp11_veneer  0x0000000000000000        0x0 linker stubs
+
+.v4_bx          0x00000000000237f8        0x0
+ .v4_bx         0x0000000000000000        0x0 linker stubs
+
+.iplt           0x00000000000237f8        0x0
+ .iplt          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+
+.ARM.extab      0x00000000000237f8        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00000000000237f8                . = ALIGN (0x4)
+                0x00000000000237f8                __exidx_start = .
+
+.ARM.exidx      0x00000000000237f8        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00000000000237f8        0x8 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.exidx     0x0000000000023800        0x0 _build/gcc_startup_nrf51.o
+                                          0x8 (size before relaxing)
+                0x0000000000023800                . = ALIGN (0x4)
+                0x0000000000023800                __exidx_end = .
+                0x0000000000023800                __etext = .
+
+.rel.dyn        0x0000000000023800        0x0
+ .rel.iplt      0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+
+.data           0x0000000020002800       0x84 load address 0x0000000000023800
+                0x0000000020002800                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.impure_data
+                0x0000000020002800       0x60 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-impure.o)
+ .data.m_adv_uuids
+                0x0000000020002860        0xc _build/main.o
+ .data.m_conn_handle
+                0x000000002000286c        0x2 _build/main.o
+ *fill*         0x000000002000286e        0x2 
+ .data.s_time_stamp.8359
+                0x0000000020002870        0x8 _build/main.o
+ .data.current_slave_link_conn_handle.7132
+                0x0000000020002878        0x2 _build/ble_advertising.o
+                0x000000002000287c                . = ALIGN (0x4)
+ *fill*         0x000000002000287a        0x2 
+                0x000000002000287c                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x000000002000287c                PROVIDE (__preinit_array_end, .)
+                0x000000002000287c                . = ALIGN (0x4)
+                0x000000002000287c                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x000000002000287c        0x4 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+                0x0000000020002880                PROVIDE (__init_array_end, .)
+                0x0000000020002880                . = ALIGN (0x4)
+                0x0000000020002880                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x0000000020002880        0x4 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+                0x0000000020002884                PROVIDE (__fini_array_end, .)
+ *(.jcr)
+ .jcr           0x0000000020002884        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+                0x0000000020002884                . = ALIGN (0x4)
+                0x0000000020002884                __data_end__ = .
+
+.igot.plt       0x0000000020002884        0x0 load address 0x0000000000023884
+ .igot.plt      0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+
+.bss            0x0000000020002884      0x83c load address 0x0000000000023884
+                0x0000000020002884                . = ALIGN (0x4)
+                0x0000000020002884                __bss_start__ = .
+ *(.bss*)
+ .bss           0x0000000020002884       0x1c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+ .bss.m_detection_delay
+                0x00000000200028a0        0x4 _build/app_button.o
+ .bss.mp_buttons
+                0x00000000200028a4        0x4 _build/app_button.o
+ .bss.m_button_count
+                0x00000000200028a8        0x1 _build/app_button.o
+ *fill*         0x00000000200028a9        0x3 
+ .bss.m_detection_delay_timer_id_data
+                0x00000000200028ac       0x20 _build/app_button.o
+ .bss.m_pin_state
+                0x00000000200028cc        0x4 _build/app_button.o
+ .bss.m_pin_transition
+                0x00000000200028d0        0x4 _build/app_button.o
+ .bss.m_ticks_latest
+                0x00000000200028d4        0x4 _build/app_timer.o
+ .bss.mp_timer_id_head
+                0x00000000200028d8        0x4 _build/app_timer.o
+ .bss.m_evt_schedule_func
+                0x00000000200028dc        0x4 _build/app_timer.o
+ .bss.m_user_array_size
+                0x00000000200028e0        0x1 _build/app_timer.o
+ *fill*         0x00000000200028e1        0x3 
+ .bss.mp_users  0x00000000200028e4        0x4 _build/app_timer.o
+ .bss.m_ticks_elapsed_q_read_ind
+                0x00000000200028e8        0x1 _build/app_timer.o
+ .bss.m_ticks_elapsed_q_write_ind
+                0x00000000200028e9        0x1 _build/app_timer.o
+ .bss.m_rtc1_reset
+                0x00000000200028ea        0x1 _build/app_timer.o
+ *fill*         0x00000000200028eb        0x1 
+ .bss.m_ticks_elapsed
+                0x00000000200028ec        0x8 _build/app_timer.o
+ .bss.m_rtc1_running
+                0x00000000200028f4        0x1 _build/app_timer.o
+ *fill*         0x00000000200028f5        0x3 
+ .bss.m_cb      0x00000000200028f8       0x48 _build/nrf_drv_gpiote.o
+ .bss.m_cb      0x0000000020002940       0x18 _build/nrf_drv_uart.o
+ .bss.m_cmd_queue
+                0x0000000020002958       0xcc _build/pstorage.o
+ .bss.m_num_of_bytes_written
+                0x0000000020002a24        0x4 _build/pstorage.o
+ .bss.m_tail_word_size
+                0x0000000020002a28        0x4 _build/pstorage.o
+ .bss.m_app_table
+                0x0000000020002a2c        0xc _build/pstorage.o
+ .bss.m_next_app_instance
+                0x0000000020002a38        0x2 _build/pstorage.o
+ *fill*         0x0000000020002a3a        0x2 
+ .bss.m_flags   0x0000000020002a3c        0x4 _build/pstorage.o
+ .bss.m_swap_sub_state
+                0x0000000020002a40        0x1 _build/pstorage.o
+ .bss.m_state   0x0000000020002a41        0x1 _build/pstorage.o
+ *fill*         0x0000000020002a42        0x2 
+ .bss.m_next_page_addr
+                0x0000000020002a44        0x4 _build/pstorage.o
+ .bss.m_app_data_size
+                0x0000000020002a48        0x4 _build/pstorage.o
+ .bss.m_num_of_command_retries
+                0x0000000020002a4c        0x4 _build/pstorage.o
+ .bss.m_head_word_size
+                0x0000000020002a50        0x4 _build/pstorage.o
+ .bss.m_current_page_id
+                0x0000000020002a54        0x4 _build/pstorage.o
+ .bss.m_leds_timer_id_data
+                0x0000000020002a58       0x20 _build/bsp.o
+ .bss.m_alert_mask
+                0x0000000020002a78        0x4 _build/bsp.o
+ .bss.m_indication_type
+                0x0000000020002a7c        0x4 _build/bsp.o
+ .bss.release_event_at_push.5903
+                0x0000000020002a80        0x4 _build/bsp.o
+ .bss.current_long_push_pin_no.5902
+                0x0000000020002a84        0x1 _build/bsp.o
+ *fill*         0x0000000020002a85        0x3 
+ .bss.m_app_ticks_per_100ms
+                0x0000000020002a88        0x4 _build/bsp.o
+ .bss.m_registered_callback
+                0x0000000020002a8c        0x4 _build/bsp.o
+ .bss.m_button_timer_id_data
+                0x0000000020002a90       0x20 _build/bsp.o
+ .bss.m_stable_state
+                0x0000000020002ab0        0x1 _build/bsp.o
+ *fill*         0x0000000020002ab1        0x3 
+ .bss.m_alert_timer_id_data
+                0x0000000020002ab4       0x20 _build/bsp.o
+ .bss.m_events_list
+                0x0000000020002ad4        0xc _build/bsp.o
+ .bss.m_error_handler
+                0x0000000020002ae0        0x4 _build/bsp_btn_ble.o
+ .bss.m_num_connections
+                0x0000000020002ae4        0x4 _build/bsp_btn_ble.o
+ .bss.m_bps_meas_sim_val
+                0x0000000020002ae8       0x40 _build/main.o
+ .bss.m_battery_timer_id_data
+                0x0000000020002b28       0x20 _build/main.o
+ .bss.m_battery_sim_state
+                0x0000000020002b48        0x8 _build/main.o
+ .bss.m_battery_sim_cfg
+                0x0000000020002b50       0x10 _build/main.o
+ .bss.m_app_handle
+                0x0000000020002b60        0x1 _build/main.o
+ *fill*         0x0000000020002b61        0x3 
+ .bss.m_bps     0x0000000020002b64       0x1c _build/main.o
+ .bss.APP_TIMER_BUF.8365
+                0x0000000020002b80      0x1c8 _build/main.o
+ .bss.s_ndx.8360
+                0x0000000020002d48        0x1 _build/main.o
+ .bss.m_bps_meas_ind_conf_pending
+                0x0000000020002d49        0x1 _build/main.o
+ *fill*         0x0000000020002d4a        0x2 
+ .bss.BLE_EVT_BUFFER.8467
+                0x0000000020002d4c       0x48 _build/main.o
+ .bss.m_bas     0x0000000020002d94       0x18 _build/main.o
+ .bss.m_advdata
+                0x0000000020002dac       0x38 _build/ble_advertising.o
+ .bss.m_manuf_specific_data
+                0x0000000020002de4        0xc _build/ble_advertising.o
+ .bss.m_evt_handler
+                0x0000000020002df0        0x4 _build/ble_advertising.o
+ .bss.m_manuf_data_array
+                0x0000000020002df4       0x20 _build/ble_advertising.o
+ .bss.m_whitelist_temporarily_disabled
+                0x0000000020002e14        0x1 _build/ble_advertising.o
+ *fill*         0x0000000020002e15        0x3 
+ .bss.m_error_handler
+                0x0000000020002e18        0x4 _build/ble_advertising.o
+ .bss.m_peer_address
+                0x0000000020002e1c        0x8 _build/ble_advertising.o
+ .bss.m_adv_modes_config
+                0x0000000020002e24       0x24 _build/ble_advertising.o
+ .bss.mp_whitelist_addr
+                0x0000000020002e48       0x20 _build/ble_advertising.o
+ .bss.m_tx_power_level
+                0x0000000020002e68        0x1 _build/ble_advertising.o
+ *fill*         0x0000000020002e69        0x3 
+ .bss.m_whitelist
+                0x0000000020002e6c       0x10 _build/ble_advertising.o
+ .bss.m_service_data_array
+                0x0000000020002e7c       0x20 _build/ble_advertising.o
+ .bss.m_peer_addr_reply_expected
+                0x0000000020002e9c        0x1 _build/ble_advertising.o
+ .bss.m_whitelist_reply_expected
+                0x0000000020002e9d        0x1 _build/ble_advertising.o
+ *fill*         0x0000000020002e9e        0x2 
+ .bss.mp_whitelist_irk
+                0x0000000020002ea0       0x20 _build/ble_advertising.o
+ .bss.m_adv_mode_current
+                0x0000000020002ec0        0x1 _build/ble_advertising.o
+ .bss.m_advertising_start_pending
+                0x0000000020002ec1        0x1 _build/ble_advertising.o
+ *fill*         0x0000000020002ec2        0x2 
+ .bss.m_slave_conn_int
+                0x0000000020002ec4        0x4 _build/ble_advertising.o
+ .bss.m_service_data
+                0x0000000020002ec8        0xc _build/ble_advertising.o
+ .bss.m_adv_evt
+                0x0000000020002ed4        0x1 _build/ble_advertising.o
+ .bss.m_change_param
+                0x0000000020002ed5        0x1 _build/ble_conn_params.o
+ *fill*         0x0000000020002ed6        0x2 
+ .bss.m_current_conn_params
+                0x0000000020002ed8        0x8 _build/ble_conn_params.o
+ .bss.m_update_count
+                0x0000000020002ee0        0x1 _build/ble_conn_params.o
+ *fill*         0x0000000020002ee1        0x3 
+ .bss.m_conn_params_config
+                0x0000000020002ee4       0x1c _build/ble_conn_params.o
+ .bss.m_conn_params_timer_id_data
+                0x0000000020002f00       0x20 _build/ble_conn_params.o
+ .bss.m_conn_handle
+                0x0000000020002f20        0x2 _build/ble_conn_params.o
+ *fill*         0x0000000020002f22        0x2 
+ .bss.m_preferred_conn_params
+                0x0000000020002f24        0x8 _build/ble_conn_params.o
+ .bss.sw_rev_handles
+                0x0000000020002f2c        0x8 _build/ble_dis.o
+ .bss.model_num_handles
+                0x0000000020002f34        0x8 _build/ble_dis.o
+ .bss.sys_id_handles
+                0x0000000020002f3c        0x8 _build/ble_dis.o
+ .bss.manufact_name_handles
+                0x0000000020002f44        0x8 _build/ble_dis.o
+ .bss.reg_cert_data_list_handles
+                0x0000000020002f4c        0x8 _build/ble_dis.o
+ .bss.pnp_id_handles
+                0x0000000020002f54        0x8 _build/ble_dis.o
+ .bss.hw_rev_handles
+                0x0000000020002f5c        0x8 _build/ble_dis.o
+ .bss.serial_num_handles
+                0x0000000020002f64        0x8 _build/ble_dis.o
+ .bss.fw_rev_handles
+                0x0000000020002f6c        0x8 _build/ble_dis.o
+ .bss.service_handle
+                0x0000000020002f74        0x2 _build/ble_dis.o
+ *fill*         0x0000000020002f76        0x2 
+ .bss.m_irk_index_table
+                0x0000000020002f78        0x8 _build/device_manager_peripheral.o
+ .bss.m_module_initialized
+                0x0000000020002f80        0x1 _build/device_manager_peripheral.o
+ *fill*         0x0000000020002f81        0x3 
+ .bss.m_connection_table
+                0x0000000020002f84        0xc _build/device_manager_peripheral.o
+ .bss.m_peer_table
+                0x0000000020002f90       0xc4 _build/device_manager_peripheral.o
+ .bss.m_storage_handle
+                0x0000000020003054        0x8 _build/device_manager_peripheral.o
+ .bss.m_bond_table
+                0x000000002000305c       0x1c _build/device_manager_peripheral.o
+ .bss.m_gatts_table
+                0x0000000020003078       0x24 _build/device_manager_peripheral.o
+ .bss.m_peer_addr_update
+                0x000000002000309c        0x4 _build/device_manager_peripheral.o
+ .bss.m_application_table
+                0x00000000200030a0        0xc _build/device_manager_peripheral.o
+ .bss.m_softdevice_enabled
+                0x00000000200030ac        0x1 _build/softdevice_handler.o
+ *fill*         0x00000000200030ad        0x1 
+ .bss.m_ble_evt_buffer_size
+                0x00000000200030ae        0x2 _build/softdevice_handler.o
+ .bss.mp_ble_evt_buffer
+                0x00000000200030b0        0x4 _build/softdevice_handler.o
+ .bss.m_sys_evt_handler
+                0x00000000200030b4        0x4 _build/softdevice_handler.o
+ .bss.m_ble_evt_handler
+                0x00000000200030b8        0x4 _build/softdevice_handler.o
+ .bss.m_evt_schedule_func
+                0x00000000200030bc        0x4 _build/softdevice_handler.o
+ *(COMMON)
+                0x00000000200030c0                . = ALIGN (0x4)
+                0x00000000200030c0                __bss_end__ = .
+
+.heap           0x00000000200030c0      0x800
+                0x00000000200030c0                __end__ = .
+                0x00000000200030c0                end = __end__
+ *(.heap*)
+ .heap          0x00000000200030c0      0x800 _build/gcc_startup_nrf51.o
+                0x00000000200030c0                __HeapBase
+                0x00000000200038c0                __HeapLimit = .
+
+.stack_dummy    0x00000000200030c0      0x800
+ *(.stack*)
+ .stack         0x00000000200030c0      0x800 _build/gcc_startup_nrf51.o
+                0x0000000020008000                __StackTop = (ORIGIN (RAM) + 0x5800)
+                0x0000000020007800                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x0000000020008000                PROVIDE (__stack, __StackTop)
+                0x0000000000000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(_build/nrf51422_xxac_s130.out elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x28
+ .ARM.attributes
+                0x0000000000000000       0x1e /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x1b /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.attributes
+                0x0000000000000065       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000091       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000000000bd       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000000e9       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000115       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000141       0x31 _build/app_button.o
+ .ARM.attributes
+                0x0000000000000172       0x31 _build/app_error.o
+ .ARM.attributes
+                0x00000000000001a3       0x31 _build/app_timer.o
+ .ARM.attributes
+                0x00000000000001d4       0x31 _build/sensorsim.o
+ .ARM.attributes
+                0x0000000000000205       0x31 _build/nrf_drv_common.o
+ .ARM.attributes
+                0x0000000000000236       0x31 _build/nrf_drv_gpiote.o
+ .ARM.attributes
+                0x0000000000000267       0x31 _build/nrf_drv_uart.o
+ .ARM.attributes
+                0x0000000000000298       0x31 _build/pstorage.o
+ .ARM.attributes
+                0x00000000000002c9       0x31 _build/bsp.o
+ .ARM.attributes
+                0x00000000000002fa       0x31 _build/bsp_btn_ble.o
+ .ARM.attributes
+                0x000000000000032b       0x31 _build/main.o
+ .ARM.attributes
+                0x000000000000035c       0x31 _build/ble_advdata.o
+ .ARM.attributes
+                0x000000000000038d       0x31 _build/ble_advertising.o
+ .ARM.attributes
+                0x00000000000003be       0x31 _build/ble_bas.o
+ .ARM.attributes
+                0x00000000000003ef       0x31 _build/ble_bps.o
+ .ARM.attributes
+                0x0000000000000420       0x31 _build/ble_conn_params.o
+ .ARM.attributes
+                0x0000000000000451       0x31 _build/ble_dis.o
+ .ARM.attributes
+                0x0000000000000482       0x31 _build/ble_srv_common.o
+ .ARM.attributes
+                0x00000000000004b3       0x31 _build/device_manager_peripheral.o
+ .ARM.attributes
+                0x00000000000004e4       0x31 _build/system_nrf51.o
+ .ARM.attributes
+                0x0000000000000515       0x31 _build/softdevice_handler.o
+ .ARM.attributes
+                0x0000000000000546       0x1b _build/gcc_startup_nrf51.o
+ .ARM.attributes
+                0x0000000000000561       0x1e /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000000000000057f       0x1e /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x000000000000059d       0x1e /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000000005bb       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x00000000000005e7       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000000000000613       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x000000000000063f       0x1e /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+
+.comment        0x0000000000000000       0x80
+ .comment       0x0000000000000000       0x80 _build/app_button.o
+                                         0x81 (size before relaxing)
+ .comment       0x0000000000000000       0x81 _build/app_error.o
+ .comment       0x0000000000000000       0x81 _build/app_timer.o
+ .comment       0x0000000000000000       0x81 _build/sensorsim.o
+ .comment       0x0000000000000000       0x81 _build/nrf_drv_common.o
+ .comment       0x0000000000000000       0x81 _build/nrf_drv_gpiote.o
+ .comment       0x0000000000000000       0x81 _build/nrf_drv_uart.o
+ .comment       0x0000000000000000       0x81 _build/pstorage.o
+ .comment       0x0000000000000000       0x81 _build/bsp.o
+ .comment       0x0000000000000000       0x81 _build/bsp_btn_ble.o
+ .comment       0x0000000000000000       0x81 _build/main.o
+ .comment       0x0000000000000000       0x81 _build/ble_advdata.o
+ .comment       0x0000000000000000       0x81 _build/ble_advertising.o
+ .comment       0x0000000000000000       0x81 _build/ble_bas.o
+ .comment       0x0000000000000000       0x81 _build/ble_bps.o
+ .comment       0x0000000000000000       0x81 _build/ble_conn_params.o
+ .comment       0x0000000000000000       0x81 _build/ble_dis.o
+ .comment       0x0000000000000000       0x81 _build/ble_srv_common.o
+ .comment       0x0000000000000000       0x81 _build/device_manager_peripheral.o
+ .comment       0x0000000000000000       0x81 _build/system_nrf51.o
+ .comment       0x0000000000000000       0x81 _build/softdevice_handler.o
+
+.debug_frame    0x0000000000000000      0x148
+ .debug_frame   0x0000000000000000       0x28 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000028       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-init.o)
+ .debug_frame   0x0000000000000054       0x20 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000074       0x20 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .debug_frame   0x0000000000000094       0x20 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000000000000b4       0x20 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_divsi3.o)
+ .debug_frame   0x00000000000000d4       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcmp.o)
+ .debug_frame   0x0000000000000100       0x28 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000000128       0x20 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-strlen.o)

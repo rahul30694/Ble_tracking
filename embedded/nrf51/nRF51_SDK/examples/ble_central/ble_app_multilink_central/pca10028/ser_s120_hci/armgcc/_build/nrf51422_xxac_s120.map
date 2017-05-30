@@ -1,0 +1,3126 @@
+Archive member included because of file (symbol)
+
+/home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-exit.o)
+                              /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (exit)
+/home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-impure.o)
+                              /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-exit.o) (_global_impure_ptr)
+/home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-init.o)
+                              /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__libc_init_array)
+/home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memset.o)
+                              /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (memset)
+/home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+                              /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-exit.o) (_exit)
+/home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+                              _build/pstorage_nosd.o (__aeabi_uidiv)
+/home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_dvmd_tls.o)
+                              /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcmp.o)
+                              _build/main.o (memcmp)
+/home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcpy-stub.o)
+                              _build/app_mw_ble_gap.o (memcpy)
+/home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-strlen.o)
+                              _build/ble_srv_common.o (strlen)
+
+Allocating common symbols
+Common symbol       size              file
+
+m_app_user_mem_table
+                    0x60              _build/app_ble_user_mem.o
+m_app_keys_table    0x38              _build/app_ble_gap_sec_keys.o
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+ .data          0x0000000000000000        0x4 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .text          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .text          0x0000000000000000        0x0 _build/app_ble_gap_sec_keys.o
+ .data          0x0000000000000000        0x0 _build/app_ble_gap_sec_keys.o
+ .bss           0x0000000000000000        0x0 _build/app_ble_gap_sec_keys.o
+ .text          0x0000000000000000        0x0 _build/app_ble_user_mem.o
+ .data          0x0000000000000000        0x0 _build/app_ble_user_mem.o
+ .bss           0x0000000000000000        0x0 _build/app_ble_user_mem.o
+ .text.app_ble_user_mem_context_create
+                0x0000000000000000       0x7c _build/app_ble_user_mem.o
+ .text          0x0000000000000000        0x0 _build/app_mw_ble.o
+ .data          0x0000000000000000        0x0 _build/app_mw_ble.o
+ .bss           0x0000000000000000        0x0 _build/app_mw_ble.o
+ .text.uuid_encode_rsp_dec
+                0x0000000000000000       0x28 _build/app_mw_ble.o
+ .text.tx_buffer_count_get_rsp_dec
+                0x0000000000000000       0x24 _build/app_mw_ble.o
+ .text.uuid_decode_rsp_dec
+                0x0000000000000000       0x24 _build/app_mw_ble.o
+ .text.version_get_rsp_dec
+                0x0000000000000000       0x24 _build/app_mw_ble.o
+ .text.opt_get_rsp_dec
+                0x0000000000000000       0x5c _build/app_mw_ble.o
+ .text.opt_set_rsp_dec
+                0x0000000000000000       0x1c _build/app_mw_ble.o
+ .text.user_mem_reply_rsp_dec
+                0x0000000000000000       0x40 _build/app_mw_ble.o
+ .text.sd_ble_uuid_encode
+                0x0000000000000000       0x64 _build/app_mw_ble.o
+ .text.sd_ble_tx_buffer_count_get
+                0x0000000000000000       0x58 _build/app_mw_ble.o
+ .text.sd_ble_uuid_decode
+                0x0000000000000000       0x64 _build/app_mw_ble.o
+ .text.sd_ble_version_get
+                0x0000000000000000       0x58 _build/app_mw_ble.o
+ .text.sd_ble_opt_get
+                0x0000000000000000       0x64 _build/app_mw_ble.o
+ .text.sd_ble_opt_set
+                0x0000000000000000       0x54 _build/app_mw_ble.o
+ .text.sd_ble_user_mem_reply
+                0x0000000000000000       0x90 _build/app_mw_ble.o
+ .bss.m_output_params
+                0x0000000000000000        0x8 _build/app_mw_ble.o
+ .bss.m_uint32_param
+                0x0000000000000000        0x4 _build/app_mw_ble.o
+ .text          0x0000000000000000        0x0 _build/app_mw_ble_gap.o
+ .data          0x0000000000000000        0x0 _build/app_mw_ble_gap.o
+ .bss           0x0000000000000000        0x0 _build/app_mw_ble_gap.o
+ .text.gap_adv_start_rsp_dec
+                0x0000000000000000       0x1c _build/app_mw_ble_gap.o
+ .text.gap_device_name_get_rsp_dec
+                0x0000000000000000       0x28 _build/app_mw_ble_gap.o
+ .text.gap_appearance_get_rsp_dec
+                0x0000000000000000       0x24 _build/app_mw_ble_gap.o
+ .text.gap_device_name_set_rsp_dec
+                0x0000000000000000       0x1c _build/app_mw_ble_gap.o
+ .text.gap_appearance_set_rsp_dec
+                0x0000000000000000       0x1c _build/app_mw_ble_gap.o
+ .text.gap_ppcp_set_rsp_dec
+                0x0000000000000000       0x1c _build/app_mw_ble_gap.o
+ .text.gap_adv_data_set_rsp_dec
+                0x0000000000000000       0x1c _build/app_mw_ble_gap.o
+ .text.gap_conn_param_update_rsp_dec
+                0x0000000000000000       0x1c _build/app_mw_ble_gap.o
+ .text.gap_disconnect_rsp_dec
+                0x0000000000000000       0x1c _build/app_mw_ble_gap.o
+ .text.gap_sec_info_reply_rsp_dec
+                0x0000000000000000       0x1c _build/app_mw_ble_gap.o
+ .text.gap_ppcp_get_reply_rsp_dec
+                0x0000000000000000       0x28 _build/app_mw_ble_gap.o
+ .text.gap_address_get_rsp_dec
+                0x0000000000000000       0x28 _build/app_mw_ble_gap.o
+ .text.gap_address_set_rsp_dec
+                0x0000000000000000       0x20 _build/app_mw_ble_gap.o
+ .text.gap_adv_stop_rsp_dec
+                0x0000000000000000       0x20 _build/app_mw_ble_gap.o
+ .text.gap_auth_key_reply_rsp_dec
+                0x0000000000000000       0x20 _build/app_mw_ble_gap.o
+ .text.gap_conn_sec_get_rsp_dec
+                0x0000000000000000       0x28 _build/app_mw_ble_gap.o
+ .text.gap_rssi_start_rsp_dec
+                0x0000000000000000       0x20 _build/app_mw_ble_gap.o
+ .text.gap_rssi_stop_rsp_dec
+                0x0000000000000000       0x20 _build/app_mw_ble_gap.o
+ .text.gap_tx_power_set_rsp_dec
+                0x0000000000000000       0x20 _build/app_mw_ble_gap.o
+ .text.gap_connect_cancel_rsp_dec
+                0x0000000000000000       0x20 _build/app_mw_ble_gap.o
+ .text.gap_rssi_get_rsp_dec
+                0x0000000000000000       0x28 _build/app_mw_ble_gap.o
+ .text.sd_ble_gap_adv_start
+                0x0000000000000000       0x54 _build/app_mw_ble_gap.o
+ .text.sd_ble_gap_device_name_get
+                0x0000000000000000       0x60 _build/app_mw_ble_gap.o
+ .text.sd_ble_gap_appearance_get
+                0x0000000000000000       0x5c _build/app_mw_ble_gap.o
+ .text.sd_ble_gap_device_name_set
+                0x0000000000000000       0x5c _build/app_mw_ble_gap.o
+ .text.sd_ble_gap_appearance_set
+                0x0000000000000000       0x54 _build/app_mw_ble_gap.o
+ .text.sd_ble_gap_ppcp_set
+                0x0000000000000000       0x54 _build/app_mw_ble_gap.o
+ .text.sd_ble_gap_adv_data_set
+                0x0000000000000000       0x68 _build/app_mw_ble_gap.o
+ .text.sd_ble_gap_conn_param_update
+                0x0000000000000000       0x58 _build/app_mw_ble_gap.o
+ .text.sd_ble_gap_disconnect
+                0x0000000000000000       0x58 _build/app_mw_ble_gap.o
+ .text.sd_ble_gap_sec_info_reply
+                0x0000000000000000       0x68 _build/app_mw_ble_gap.o
+ .text.sd_ble_gap_ppcp_get
+                0x0000000000000000       0x5c _build/app_mw_ble_gap.o
+ .text.sd_ble_gap_address_get
+                0x0000000000000000       0x5c _build/app_mw_ble_gap.o
+ .text.sd_ble_gap_address_set
+                0x0000000000000000       0x58 _build/app_mw_ble_gap.o
+ .text.sd_ble_gap_adv_stop
+                0x0000000000000000       0x50 _build/app_mw_ble_gap.o
+ .text.sd_ble_gap_auth_key_reply
+                0x0000000000000000       0x5c _build/app_mw_ble_gap.o
+ .text.sd_ble_gap_conn_sec_get
+                0x0000000000000000       0x60 _build/app_mw_ble_gap.o
+ .text.sd_ble_gap_rssi_start
+                0x0000000000000000       0x5c _build/app_mw_ble_gap.o
+ .text.sd_ble_gap_rssi_stop
+                0x0000000000000000       0x54 _build/app_mw_ble_gap.o
+ .text.sd_ble_gap_tx_power_set
+                0x0000000000000000       0x54 _build/app_mw_ble_gap.o
+ .text.sd_ble_gap_connect_cancel
+                0x0000000000000000       0x50 _build/app_mw_ble_gap.o
+ .text.sd_ble_gap_rssi_get
+                0x0000000000000000       0x60 _build/app_mw_ble_gap.o
+ .bss.mp_out_params
+                0x0000000000000000        0x4 _build/app_mw_ble_gap.o
+ .text          0x0000000000000000        0x0 _build/app_mw_ble_gattc.o
+ .data          0x0000000000000000        0x0 _build/app_mw_ble_gattc.o
+ .bss           0x0000000000000000        0x0 _build/app_mw_ble_gattc.o
+ .text.gattc_relationships_discover_rsp_dec
+                0x0000000000000000       0x1c _build/app_mw_ble_gattc.o
+ .text.gattc_char_value_by_uuid_read_rsp_dec
+                0x0000000000000000       0x1c _build/app_mw_ble_gattc.o
+ .text.gattc_read_rsp_dec
+                0x0000000000000000       0x1c _build/app_mw_ble_gattc.o
+ .text.gattc_char_values_read_rsp_dec
+                0x0000000000000000       0x1c _build/app_mw_ble_gattc.o
+ .text.gattc_hv_confirm_rsp_dec
+                0x0000000000000000       0x1c _build/app_mw_ble_gattc.o
+ .text.sd_ble_gattc_relationships_discover
+                0x0000000000000000       0x58 _build/app_mw_ble_gattc.o
+ .text.sd_ble_gattc_char_value_by_uuid_read
+                0x0000000000000000       0x5c _build/app_mw_ble_gattc.o
+ .text.sd_ble_gattc_read
+                0x0000000000000000       0x5c _build/app_mw_ble_gattc.o
+ .text.sd_ble_gattc_char_values_read
+                0x0000000000000000       0x5c _build/app_mw_ble_gattc.o
+ .text.sd_ble_gattc_hv_confirm
+                0x0000000000000000       0x58 _build/app_mw_ble_gattc.o
+ .text          0x0000000000000000        0x0 _build/app_mw_ble_gatts.o
+ .data          0x0000000000000000        0x0 _build/app_mw_ble_gatts.o
+ .bss           0x0000000000000000        0x0 _build/app_mw_ble_gatts.o
+ .text.gatts_hvx_rsp_dec
+                0x0000000000000000       0x24 _build/app_mw_ble_gatts.o
+ .text.gatts_service_add_rsp_dec
+                0x0000000000000000       0x24 _build/app_mw_ble_gatts.o
+ .text.gatts_service_changed_rsp_dec
+                0x0000000000000000       0x20 _build/app_mw_ble_gatts.o
+ .text.gatts_include_add_rsp_dec
+                0x0000000000000000       0x28 _build/app_mw_ble_gatts.o
+ .text.gatts_characteristic_add_rsp_dec
+                0x0000000000000000       0x24 _build/app_mw_ble_gatts.o
+ .text.gatts_descriptor_add_rsp_dec
+                0x0000000000000000       0x28 _build/app_mw_ble_gatts.o
+ .text.gatts_rw_authorize_reply_rsp_dec
+                0x0000000000000000       0x20 _build/app_mw_ble_gatts.o
+ .text.gatts_value_get_rsp_dec
+                0x0000000000000000       0x24 _build/app_mw_ble_gatts.o
+ .text.gatts_value_set_rsp_dec
+                0x0000000000000000       0x24 _build/app_mw_ble_gatts.o
+ .text.sd_ble_gatts_hvx
+                0x0000000000000000       0x68 _build/app_mw_ble_gatts.o
+ .text.sd_ble_gatts_service_add
+                0x0000000000000000       0x64 _build/app_mw_ble_gatts.o
+ .text.sd_ble_gatts_service_changed
+                0x0000000000000000       0x5c _build/app_mw_ble_gatts.o
+ .text.sd_ble_gatts_include_add
+                0x0000000000000000       0x64 _build/app_mw_ble_gatts.o
+ .text.sd_ble_gatts_characteristic_add
+                0x0000000000000000       0x70 _build/app_mw_ble_gatts.o
+ .text.sd_ble_gatts_descriptor_add
+                0x0000000000000000       0x64 _build/app_mw_ble_gatts.o
+ .text.sd_ble_gatts_rw_authorize_reply
+                0x0000000000000000       0x58 _build/app_mw_ble_gatts.o
+ .text.sd_ble_gatts_value_get
+                0x0000000000000000       0x64 _build/app_mw_ble_gatts.o
+ .text.sd_ble_gatts_value_set
+                0x0000000000000000       0x64 _build/app_mw_ble_gatts.o
+ .text          0x0000000000000000        0x0 _build/app_mw_ble_l2cap.o
+ .data          0x0000000000000000        0x0 _build/app_mw_ble_l2cap.o
+ .bss           0x0000000000000000        0x0 _build/app_mw_ble_l2cap.o
+ .text.l2cap_cid_register_rsp_dec
+                0x0000000000000000       0x1c _build/app_mw_ble_l2cap.o
+ .text.l2cap_cid_unregister_rsp_dec
+                0x0000000000000000       0x1c _build/app_mw_ble_l2cap.o
+ .text.l2cap_tx_rsp_dec
+                0x0000000000000000       0x1c _build/app_mw_ble_l2cap.o
+ .text.sd_ble_l2cap_cid_register
+                0x0000000000000000       0x54 _build/app_mw_ble_l2cap.o
+ .text.sd_ble_l2cap_cid_unregister
+                0x0000000000000000       0x54 _build/app_mw_ble_l2cap.o
+ .text.sd_ble_l2cap_tx
+                0x0000000000000000       0x5c _build/app_mw_ble_l2cap.o
+ .comment       0x0000000000000000       0x81 _build/app_mw_ble_l2cap.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/app_mw_ble_l2cap.o
+ .text          0x0000000000000000        0x0 _build/app_mw_nrf_soc.o
+ .data          0x0000000000000000        0x0 _build/app_mw_nrf_soc.o
+ .bss           0x0000000000000000        0x0 _build/app_mw_nrf_soc.o
+ .text.mw_temp_get_rsp_dec
+                0x0000000000000000       0x24 _build/app_mw_nrf_soc.o
+ .text.sd_power_system_off
+                0x0000000000000000       0x50 _build/app_mw_nrf_soc.o
+ .text.sd_temp_get
+                0x0000000000000000       0x5c _build/app_mw_nrf_soc.o
+ .bss.mp_out_param
+                0x0000000000000000        0x4 _build/app_mw_nrf_soc.o
+ .comment       0x0000000000000000       0x81 _build/app_mw_nrf_soc.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/app_mw_nrf_soc.o
+ .text          0x0000000000000000        0x0 _build/ble_enable.o
+ .data          0x0000000000000000        0x0 _build/ble_enable.o
+ .bss           0x0000000000000000        0x0 _build/ble_enable.o
+ .text          0x0000000000000000        0x0 _build/ble_event.o
+ .data          0x0000000000000000        0x0 _build/ble_event.o
+ .bss           0x0000000000000000        0x0 _build/ble_event.o
+ .text          0x0000000000000000        0x0 _build/ble_evt_tx_complete.o
+ .data          0x0000000000000000        0x0 _build/ble_evt_tx_complete.o
+ .bss           0x0000000000000000        0x0 _build/ble_evt_tx_complete.o
+ .text          0x0000000000000000        0x0 _build/ble_evt_user_mem_release.o
+ .data          0x0000000000000000        0x0 _build/ble_evt_user_mem_release.o
+ .bss           0x0000000000000000        0x0 _build/ble_evt_user_mem_release.o
+ .text          0x0000000000000000        0x0 _build/ble_evt_user_mem_request.o
+ .data          0x0000000000000000        0x0 _build/ble_evt_user_mem_request.o
+ .bss           0x0000000000000000        0x0 _build/ble_evt_user_mem_request.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_address_get.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_address_get.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_address_get.o
+ .text.ble_gap_address_get_req_enc
+                0x0000000000000000       0x2c _build/ble_gap_address_get.o
+ .text.ble_gap_address_get_rsp_dec
+                0x0000000000000000       0x68 _build/ble_gap_address_get.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_address_get.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gap_address_get.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_address_set.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_address_set.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_address_set.o
+ .text.ble_gap_address_set_req_enc
+                0x0000000000000000       0x78 _build/ble_gap_address_set.o
+ .text.ble_gap_address_set_rsp_dec
+                0x0000000000000000        0xc _build/ble_gap_address_set.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_address_set.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gap_address_set.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_adv_data_set.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_adv_data_set.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_adv_data_set.o
+ .text.ble_gap_adv_data_set_req_enc
+                0x0000000000000000       0x74 _build/ble_gap_adv_data_set.o
+ .text.ble_gap_adv_data_set_rsp_dec
+                0x0000000000000000        0xc _build/ble_gap_adv_data_set.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_adv_data_set.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gap_adv_data_set.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_adv_start.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_adv_start.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_adv_start.o
+ .text.ble_gap_adv_start_req_enc
+                0x0000000000000000       0xcc _build/ble_gap_adv_start.o
+ .text.ble_gap_adv_start_rsp_dec
+                0x0000000000000000        0xc _build/ble_gap_adv_start.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_adv_start.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gap_adv_start.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_adv_stop.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_adv_stop.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_adv_stop.o
+ .text.ble_gap_adv_stop_req_enc
+                0x0000000000000000       0x34 _build/ble_gap_adv_stop.o
+ .text.ble_gap_adv_stop_rsp_dec
+                0x0000000000000000        0xc _build/ble_gap_adv_stop.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_adv_stop.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gap_adv_stop.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_appearance_get.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_appearance_get.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_appearance_get.o
+ .text.ble_gap_appearance_get_req_enc
+                0x0000000000000000       0x2c _build/ble_gap_appearance_get.o
+ .text.ble_gap_appearance_get_rsp_dec
+                0x0000000000000000       0x5c _build/ble_gap_appearance_get.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_appearance_get.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gap_appearance_get.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_appearance_set.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_appearance_set.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_appearance_set.o
+ .text.ble_gap_appearance_set_req_enc
+                0x0000000000000000       0x2c _build/ble_gap_appearance_set.o
+ .text.ble_gap_appearance_set_rsp_dec
+                0x0000000000000000        0xc _build/ble_gap_appearance_set.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_appearance_set.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gap_appearance_set.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_auth_key_reply.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_auth_key_reply.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_auth_key_reply.o
+ .text.ble_gap_auth_key_reply_req_enc
+                0x0000000000000000       0x9c _build/ble_gap_auth_key_reply.o
+ .text.ble_gap_auth_key_reply_rsp_dec
+                0x0000000000000000        0xc _build/ble_gap_auth_key_reply.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_auth_key_reply.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gap_auth_key_reply.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_authenticate.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_authenticate.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_authenticate.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_conn_param_update.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_conn_param_update.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_conn_param_update.o
+ .text.ble_gap_conn_param_update_req_enc
+                0x0000000000000000       0x64 _build/ble_gap_conn_param_update.o
+ .text.ble_gap_conn_param_update_rsp_dec
+                0x0000000000000000        0xc _build/ble_gap_conn_param_update.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_conn_param_update.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gap_conn_param_update.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_conn_sec_get.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_conn_sec_get.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_conn_sec_get.o
+ .text.ble_gap_conn_sec_get_req_enc
+                0x0000000000000000       0x6c _build/ble_gap_conn_sec_get.o
+ .text.ble_gap_conn_sec_get_rsp_dec
+                0x0000000000000000       0x5c _build/ble_gap_conn_sec_get.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_conn_sec_get.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gap_conn_sec_get.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_connect.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_connect.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_connect.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_connect_cancel.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_connect_cancel.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_connect_cancel.o
+ .text.ble_gap_connect_cancel_req_enc
+                0x0000000000000000       0x34 _build/ble_gap_connect_cancel.o
+ .text.ble_gap_connect_cancel_rsp_dec
+                0x0000000000000000        0xc _build/ble_gap_connect_cancel.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_connect_cancel.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gap_connect_cancel.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_device_name_get.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_device_name_get.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_device_name_get.o
+ .text.ble_gap_device_name_get_req_enc
+                0x0000000000000000       0x54 _build/ble_gap_device_name_get.o
+ .text.ble_gap_device_name_get_rsp_dec
+                0x0000000000000000       0x64 _build/ble_gap_device_name_get.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_device_name_get.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gap_device_name_get.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_device_name_set.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_device_name_set.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_device_name_set.o
+ .text.ble_gap_device_name_set_req_enc
+                0x0000000000000000       0x88 _build/ble_gap_device_name_set.o
+ .text.ble_gap_device_name_set_rsp_dec
+                0x0000000000000000        0xc _build/ble_gap_device_name_set.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_device_name_set.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gap_device_name_set.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_disconnect.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_disconnect.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_disconnect.o
+ .text.ble_gap_disconnect_req_enc
+                0x0000000000000000       0x30 _build/ble_gap_disconnect.o
+ .text.ble_gap_disconnect_rsp_dec
+                0x0000000000000000        0xc _build/ble_gap_disconnect.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_disconnect.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gap_disconnect.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_encrypt.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_encrypt.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_encrypt.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_evt_adv_report.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_evt_adv_report.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_evt_adv_report.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_evt_auth_key_request.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_evt_auth_key_request.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_evt_auth_key_request.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_evt_auth_status.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_evt_auth_status.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_evt_auth_status.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_evt_conn_param_update.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_evt_conn_param_update.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_evt_conn_param_update.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_evt_conn_param_update_request.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_evt_conn_param_update_request.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_evt_conn_param_update_request.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_evt_conn_sec_update.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_evt_conn_sec_update.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_evt_conn_sec_update.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_evt_connected.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_evt_connected.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_evt_connected.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_evt_disconnected.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_evt_disconnected.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_evt_disconnected.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_evt_passkey_display.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_evt_passkey_display.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_evt_passkey_display.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_evt_rssi_changed.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_evt_rssi_changed.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_evt_rssi_changed.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_evt_scan_req_report.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_evt_scan_req_report.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_evt_scan_req_report.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_evt_sec_info_request.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_evt_sec_info_request.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_evt_sec_info_request.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_evt_sec_params_request.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_evt_sec_params_request.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_evt_sec_params_request.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_evt_sec_request.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_evt_sec_request.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_evt_sec_request.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_evt_timeout.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_evt_timeout.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_evt_timeout.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_ppcp_get.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_ppcp_get.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_ppcp_get.o
+ .text.ble_gap_ppcp_get_req_enc
+                0x0000000000000000       0x2c _build/ble_gap_ppcp_get.o
+ .text.ble_gap_ppcp_get_rsp_dec
+                0x0000000000000000       0x8c _build/ble_gap_ppcp_get.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_ppcp_get.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gap_ppcp_get.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_ppcp_set.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_ppcp_set.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_ppcp_set.o
+ .text.ble_gap_ppcp_set_req_enc
+                0x0000000000000000       0x5c _build/ble_gap_ppcp_set.o
+ .text.ble_gap_ppcp_set_rsp_dec
+                0x0000000000000000        0xc _build/ble_gap_ppcp_set.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_ppcp_set.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gap_ppcp_set.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_rssi_get.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_rssi_get.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_rssi_get.o
+ .text.ble_gap_rssi_get_req_enc
+                0x0000000000000000       0x58 _build/ble_gap_rssi_get.o
+ .text.ble_gap_rssi_get_rsp_dec
+                0x0000000000000000       0x54 _build/ble_gap_rssi_get.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_rssi_get.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gap_rssi_get.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_rssi_start.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_rssi_start.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_rssi_start.o
+ .text.ble_gap_rssi_start_req_enc
+                0x0000000000000000       0x84 _build/ble_gap_rssi_start.o
+ .text.ble_gap_rssi_start_rsp_dec
+                0x0000000000000000        0xc _build/ble_gap_rssi_start.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_rssi_start.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gap_rssi_start.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_rssi_stop.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_rssi_stop.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_rssi_stop.o
+ .text.ble_gap_rssi_stop_req_enc
+                0x0000000000000000       0x4c _build/ble_gap_rssi_stop.o
+ .text.ble_gap_rssi_stop_rsp_dec
+                0x0000000000000000        0xc _build/ble_gap_rssi_stop.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_rssi_stop.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gap_rssi_stop.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_scan_start.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_scan_start.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_scan_start.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_scan_stop.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_scan_stop.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_scan_stop.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_sec_info_reply.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_sec_info_reply.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_sec_info_reply.o
+ .text.ble_gap_sec_info_reply_req_enc
+                0x0000000000000000       0xec _build/ble_gap_sec_info_reply.o
+ .text.ble_gap_sec_info_reply_rsp_dec
+                0x0000000000000000        0xc _build/ble_gap_sec_info_reply.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_sec_info_reply.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gap_sec_info_reply.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_sec_params_reply.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_sec_params_reply.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_sec_params_reply.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_struct_serialization.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_struct_serialization.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_irk_dec
+                0x0000000000000000       0x28 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_whitelist_t_dec
+                0x0000000000000000       0xc8 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_sec_levels_enc
+                0x0000000000000000       0x28 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_sec_levels_dec
+                0x0000000000000000       0x4c _build/ble_gap_struct_serialization.o
+ .text.ble_gap_sec_keys_enc
+                0x0000000000000000       0x54 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_sec_keys_dec
+                0x0000000000000000       0x54 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_enc_info_enc
+                0x0000000000000000       0x48 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_enc_info_dec
+                0x0000000000000000       0x54 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_evt_auth_status_t_enc
+                0x0000000000000000       0xf0 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_conn_sec_mode_enc
+                0x0000000000000000       0x20 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_conn_sec_mode_dec
+                0x0000000000000000       0x38 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_evt_conn_sec_update_t_enc
+                0x0000000000000000       0x48 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_evt_conn_sec_update_t_dec
+                0x0000000000000000       0x58 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_conn_sec_t_enc
+                0x0000000000000000       0x48 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_conn_sec_t_dec
+                0x0000000000000000       0x58 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_evt_sec_info_request_t_enc
+                0x0000000000000000       0x8c _build/ble_gap_struct_serialization.o
+ .text.ble_gap_evt_connected_t_enc
+                0x0000000000000000       0xc4 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_sec_params_t_dec
+                0x0000000000000000      0x120 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_enable_params_t_dec
+                0x0000000000000000       0x28 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_evt_sec_params_request_t_enc
+                0x0000000000000000       0xd4 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_evt_conn_param_update_t_enc
+                0x0000000000000000       0x44 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_evt_conn_param_update_t_dec
+                0x0000000000000000       0x60 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_evt_conn_param_update_request_t_enc
+                0x0000000000000000       0x44 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_evt_conn_param_update_request_t_dec
+                0x0000000000000000       0x60 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_conn_params_t_dec
+                0x0000000000000000       0x60 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_evt_disconnected_t_enc
+                0x0000000000000000        0x8 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_evt_disconnected_t_dec
+                0x0000000000000000       0x14 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_master_id_t_enc
+                0x0000000000000000       0x38 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_master_id_t_dec
+                0x0000000000000000       0x34 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_scan_params_t_dec
+                0x0000000000000000       0x98 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_evt_sec_request_t_enc
+                0x0000000000000000       0x3c _build/ble_gap_struct_serialization.o
+ .text.ble_gap_sec_kdist_t_enc
+                0x0000000000000000       0x4c _build/ble_gap_struct_serialization.o
+ .text.ble_gap_sec_kdist_t_dec
+                0x0000000000000000       0x58 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_opt_ch_map_t_enc
+                0x0000000000000000       0x40 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_opt_ch_map_t_dec
+                0x0000000000000000       0x40 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_opt_local_conn_latency_t_enc
+                0x0000000000000000       0x4c _build/ble_gap_struct_serialization.o
+ .text.ble_gap_opt_local_conn_latency_t_dec
+                0x0000000000000000       0x4c _build/ble_gap_struct_serialization.o
+ .text.ble_gap_opt_passkey_t_enc
+                0x0000000000000000       0x28 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_opt_passkey_t_dec
+                0x0000000000000000       0x20 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_opt_privacy_t_enc
+                0x0000000000000000       0x3c _build/ble_gap_struct_serialization.o
+ .text.ble_gap_opt_privacy_t_dec
+                0x0000000000000000       0x3c _build/ble_gap_struct_serialization.o
+ .text.ble_gap_opt_scan_req_report_t_enc
+                0x0000000000000000       0x24 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_opt_scan_req_report_t_dec
+                0x0000000000000000       0x34 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_opt_compat_mode_t_enc
+                0x0000000000000000       0x24 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_opt_compat_mode_t_dec
+                0x0000000000000000       0x34 _build/ble_gap_struct_serialization.o
+ .text.ble_gap_adv_ch_mask_t_enc
+                0x0000000000000000       0x2c _build/ble_gap_struct_serialization.o
+ .text.ble_gap_adv_ch_mask_t_dec
+                0x0000000000000000       0x50 _build/ble_gap_struct_serialization.o
+ .text          0x0000000000000000        0x0 _build/ble_gap_tx_power_set.o
+ .data          0x0000000000000000        0x0 _build/ble_gap_tx_power_set.o
+ .bss           0x0000000000000000        0x0 _build/ble_gap_tx_power_set.o
+ .text.ble_gap_tx_power_set_req_enc
+                0x0000000000000000       0x4c _build/ble_gap_tx_power_set.o
+ .text.ble_gap_tx_power_set_rsp_dec
+                0x0000000000000000        0xc _build/ble_gap_tx_power_set.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_tx_power_set.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gap_tx_power_set.o
+ .text          0x0000000000000000        0x0 _build/ble_gattc_char_value_by_uuid_read.o
+ .data          0x0000000000000000        0x0 _build/ble_gattc_char_value_by_uuid_read.o
+ .bss           0x0000000000000000        0x0 _build/ble_gattc_char_value_by_uuid_read.o
+ .text.ble_gattc_char_value_by_uuid_read_req_enc
+                0x0000000000000000       0x90 _build/ble_gattc_char_value_by_uuid_read.o
+ .text.ble_gattc_char_value_by_uuid_read_rsp_dec
+                0x0000000000000000        0xc _build/ble_gattc_char_value_by_uuid_read.o
+ .comment       0x0000000000000000       0x81 _build/ble_gattc_char_value_by_uuid_read.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gattc_char_value_by_uuid_read.o
+ .text          0x0000000000000000        0x0 _build/ble_gattc_char_values_read.o
+ .data          0x0000000000000000        0x0 _build/ble_gattc_char_values_read.o
+ .bss           0x0000000000000000        0x0 _build/ble_gattc_char_values_read.o
+ .text.ble_gattc_char_values_read_req_enc
+                0x0000000000000000       0x74 _build/ble_gattc_char_values_read.o
+ .text.ble_gattc_char_values_read_rsp_dec
+                0x0000000000000000        0xc _build/ble_gattc_char_values_read.o
+ .comment       0x0000000000000000       0x81 _build/ble_gattc_char_values_read.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gattc_char_values_read.o
+ .text          0x0000000000000000        0x0 _build/ble_gattc_characteristics_discover.o
+ .data          0x0000000000000000        0x0 _build/ble_gattc_characteristics_discover.o
+ .bss           0x0000000000000000        0x0 _build/ble_gattc_characteristics_discover.o
+ .text          0x0000000000000000        0x0 _build/ble_gattc_descriptors_discover.o
+ .data          0x0000000000000000        0x0 _build/ble_gattc_descriptors_discover.o
+ .bss           0x0000000000000000        0x0 _build/ble_gattc_descriptors_discover.o
+ .text          0x0000000000000000        0x0 _build/ble_gattc_evt_char_disc_rsp.o
+ .data          0x0000000000000000        0x0 _build/ble_gattc_evt_char_disc_rsp.o
+ .bss           0x0000000000000000        0x0 _build/ble_gattc_evt_char_disc_rsp.o
+ .text          0x0000000000000000        0x0 _build/ble_gattc_evt_char_val_by_uuid_read_rsp.o
+ .data          0x0000000000000000        0x0 _build/ble_gattc_evt_char_val_by_uuid_read_rsp.o
+ .bss           0x0000000000000000        0x0 _build/ble_gattc_evt_char_val_by_uuid_read_rsp.o
+ .text          0x0000000000000000        0x0 _build/ble_gattc_evt_char_vals_read_rsp.o
+ .data          0x0000000000000000        0x0 _build/ble_gattc_evt_char_vals_read_rsp.o
+ .bss           0x0000000000000000        0x0 _build/ble_gattc_evt_char_vals_read_rsp.o
+ .text          0x0000000000000000        0x0 _build/ble_gattc_evt_desc_disc_rsp.o
+ .data          0x0000000000000000        0x0 _build/ble_gattc_evt_desc_disc_rsp.o
+ .bss           0x0000000000000000        0x0 _build/ble_gattc_evt_desc_disc_rsp.o
+ .text          0x0000000000000000        0x0 _build/ble_gattc_evt_hvx.o
+ .data          0x0000000000000000        0x0 _build/ble_gattc_evt_hvx.o
+ .bss           0x0000000000000000        0x0 _build/ble_gattc_evt_hvx.o
+ .text          0x0000000000000000        0x0 _build/ble_gattc_evt_prim_srvc_disc_rsp.o
+ .data          0x0000000000000000        0x0 _build/ble_gattc_evt_prim_srvc_disc_rsp.o
+ .bss           0x0000000000000000        0x0 _build/ble_gattc_evt_prim_srvc_disc_rsp.o
+ .text          0x0000000000000000        0x0 _build/ble_gattc_evt_read_rsp.o
+ .data          0x0000000000000000        0x0 _build/ble_gattc_evt_read_rsp.o
+ .bss           0x0000000000000000        0x0 _build/ble_gattc_evt_read_rsp.o
+ .text          0x0000000000000000        0x0 _build/ble_gattc_evt_rel_disc_rsp.o
+ .data          0x0000000000000000        0x0 _build/ble_gattc_evt_rel_disc_rsp.o
+ .bss           0x0000000000000000        0x0 _build/ble_gattc_evt_rel_disc_rsp.o
+ .text          0x0000000000000000        0x0 _build/ble_gattc_evt_timeout.o
+ .data          0x0000000000000000        0x0 _build/ble_gattc_evt_timeout.o
+ .bss           0x0000000000000000        0x0 _build/ble_gattc_evt_timeout.o
+ .text          0x0000000000000000        0x0 _build/ble_gattc_evt_write_rsp.o
+ .data          0x0000000000000000        0x0 _build/ble_gattc_evt_write_rsp.o
+ .bss           0x0000000000000000        0x0 _build/ble_gattc_evt_write_rsp.o
+ .text          0x0000000000000000        0x0 _build/ble_gattc_hv_confirm.o
+ .data          0x0000000000000000        0x0 _build/ble_gattc_hv_confirm.o
+ .bss           0x0000000000000000        0x0 _build/ble_gattc_hv_confirm.o
+ .text.ble_gattc_hv_confirm_req_enc
+                0x0000000000000000       0x6c _build/ble_gattc_hv_confirm.o
+ .text.ble_gattc_hv_confirm_rsp_dec
+                0x0000000000000000        0xc _build/ble_gattc_hv_confirm.o
+ .comment       0x0000000000000000       0x81 _build/ble_gattc_hv_confirm.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gattc_hv_confirm.o
+ .text          0x0000000000000000        0x0 _build/ble_gattc_primary_services_discover.o
+ .data          0x0000000000000000        0x0 _build/ble_gattc_primary_services_discover.o
+ .bss           0x0000000000000000        0x0 _build/ble_gattc_primary_services_discover.o
+ .text          0x0000000000000000        0x0 _build/ble_gattc_read.o
+ .data          0x0000000000000000        0x0 _build/ble_gattc_read.o
+ .bss           0x0000000000000000        0x0 _build/ble_gattc_read.o
+ .text.ble_gattc_read_req_enc
+                0x0000000000000000       0x3c _build/ble_gattc_read.o
+ .text.ble_gattc_read_rsp_dec
+                0x0000000000000000        0xc _build/ble_gattc_read.o
+ .comment       0x0000000000000000       0x81 _build/ble_gattc_read.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gattc_read.o
+ .text          0x0000000000000000        0x0 _build/ble_gattc_relationships_discover.o
+ .data          0x0000000000000000        0x0 _build/ble_gattc_relationships_discover.o
+ .bss           0x0000000000000000        0x0 _build/ble_gattc_relationships_discover.o
+ .text.ble_gattc_relationships_discover_req_enc
+                0x0000000000000000       0x58 _build/ble_gattc_relationships_discover.o
+ .text.ble_gattc_relationships_discover_rsp_dec
+                0x0000000000000000        0xc _build/ble_gattc_relationships_discover.o
+ .comment       0x0000000000000000       0x81 _build/ble_gattc_relationships_discover.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gattc_relationships_discover.o
+ .text          0x0000000000000000        0x0 _build/ble_gattc_struct_serialization.o
+ .data          0x0000000000000000        0x0 _build/ble_gattc_struct_serialization.o
+ .bss           0x0000000000000000        0x0 _build/ble_gattc_struct_serialization.o
+ .text.ble_gattc_evt_char_val_by_uuid_read_rsp_t_enc
+                0x0000000000000000       0x7c _build/ble_gattc_struct_serialization.o
+ .text.ble_gattc_evt_char_vals_read_rsp_t_enc
+                0x0000000000000000       0x34 _build/ble_gattc_struct_serialization.o
+ .text.ble_gattc_handle_range_t_enc
+                0x0000000000000000       0x20 _build/ble_gattc_struct_serialization.o
+ .text.ble_gattc_handle_range_t_dec
+                0x0000000000000000       0x30 _build/ble_gattc_struct_serialization.o
+ .text.ble_gattc_service_t_enc
+                0x0000000000000000       0x34 _build/ble_gattc_struct_serialization.o
+ .text.ble_gattc_service_t_dec
+                0x0000000000000000       0x3c _build/ble_gattc_struct_serialization.o
+ .text.ble_gattc_include_t_enc
+                0x0000000000000000       0x44 _build/ble_gattc_struct_serialization.o
+ .text.ble_gattc_include_t_dec
+                0x0000000000000000       0x4c _build/ble_gattc_struct_serialization.o
+ .text.ble_gattc_evt_rel_disc_rsp_t_enc
+                0x0000000000000000       0x84 _build/ble_gattc_struct_serialization.o
+ .text.ble_gattc_write_params_t_enc
+                0x0000000000000000       0x68 _build/ble_gattc_struct_serialization.o
+ .text.ble_gattc_write_params_t_dec
+                0x0000000000000000       0x6c _build/ble_gattc_struct_serialization.o
+ .text          0x0000000000000000        0x0 _build/ble_gattc_write.o
+ .data          0x0000000000000000        0x0 _build/ble_gattc_write.o
+ .bss           0x0000000000000000        0x0 _build/ble_gattc_write.o
+ .text          0x0000000000000000        0x0 _build/ble_gatts_characteristic_add.o
+ .data          0x0000000000000000        0x0 _build/ble_gatts_characteristic_add.o
+ .bss           0x0000000000000000        0x0 _build/ble_gatts_characteristic_add.o
+ .text.ble_gatts_characteristic_add_req_enc
+                0x0000000000000000       0xa4 _build/ble_gatts_characteristic_add.o
+ .text.ble_gatts_characteristic_add_rsp_dec
+                0x0000000000000000       0x5c _build/ble_gatts_characteristic_add.o
+ .comment       0x0000000000000000       0x81 _build/ble_gatts_characteristic_add.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gatts_characteristic_add.o
+ .text          0x0000000000000000        0x0 _build/ble_gatts_descriptor_add.o
+ .data          0x0000000000000000        0x0 _build/ble_gatts_descriptor_add.o
+ .bss           0x0000000000000000        0x0 _build/ble_gatts_descriptor_add.o
+ .text.ble_gatts_descriptor_add_req_enc
+                0x0000000000000000       0x70 _build/ble_gatts_descriptor_add.o
+ .text.ble_gatts_descriptor_add_rsp_dec
+                0x0000000000000000       0x60 _build/ble_gatts_descriptor_add.o
+ .comment       0x0000000000000000       0x81 _build/ble_gatts_descriptor_add.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gatts_descriptor_add.o
+ .text          0x0000000000000000        0x0 _build/ble_gatts_evt_hvc.o
+ .data          0x0000000000000000        0x0 _build/ble_gatts_evt_hvc.o
+ .bss           0x0000000000000000        0x0 _build/ble_gatts_evt_hvc.o
+ .text          0x0000000000000000        0x0 _build/ble_gatts_evt_rw_authorize_request.o
+ .data          0x0000000000000000        0x0 _build/ble_gatts_evt_rw_authorize_request.o
+ .bss           0x0000000000000000        0x0 _build/ble_gatts_evt_rw_authorize_request.o
+ .text          0x0000000000000000        0x0 _build/ble_gatts_evt_sc_confirm.o
+ .data          0x0000000000000000        0x0 _build/ble_gatts_evt_sc_confirm.o
+ .bss           0x0000000000000000        0x0 _build/ble_gatts_evt_sc_confirm.o
+ .text          0x0000000000000000        0x0 _build/ble_gatts_evt_sys_attr_missing.o
+ .data          0x0000000000000000        0x0 _build/ble_gatts_evt_sys_attr_missing.o
+ .bss           0x0000000000000000        0x0 _build/ble_gatts_evt_sys_attr_missing.o
+ .text          0x0000000000000000        0x0 _build/ble_gatts_evt_timeout.o
+ .data          0x0000000000000000        0x0 _build/ble_gatts_evt_timeout.o
+ .bss           0x0000000000000000        0x0 _build/ble_gatts_evt_timeout.o
+ .text          0x0000000000000000        0x0 _build/ble_gatts_evt_write.o
+ .data          0x0000000000000000        0x0 _build/ble_gatts_evt_write.o
+ .bss           0x0000000000000000        0x0 _build/ble_gatts_evt_write.o
+ .text          0x0000000000000000        0x0 _build/ble_gatts_hvx.o
+ .data          0x0000000000000000        0x0 _build/ble_gatts_hvx.o
+ .bss           0x0000000000000000        0x0 _build/ble_gatts_hvx.o
+ .text.ble_gatts_hvx_req_enc
+                0x0000000000000000       0xcc _build/ble_gatts_hvx.o
+ .text.ble_gatts_hvx_rsp_dec
+                0x0000000000000000       0x5c _build/ble_gatts_hvx.o
+ .comment       0x0000000000000000       0x81 _build/ble_gatts_hvx.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gatts_hvx.o
+ .text          0x0000000000000000        0x0 _build/ble_gatts_include_add.o
+ .data          0x0000000000000000        0x0 _build/ble_gatts_include_add.o
+ .bss           0x0000000000000000        0x0 _build/ble_gatts_include_add.o
+ .text.ble_gatts_include_add_req_enc
+                0x0000000000000000       0x94 _build/ble_gatts_include_add.o
+ .text.ble_gatts_include_add_rsp_dec
+                0x0000000000000000       0x5c _build/ble_gatts_include_add.o
+ .comment       0x0000000000000000       0x81 _build/ble_gatts_include_add.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gatts_include_add.o
+ .text          0x0000000000000000        0x0 _build/ble_gatts_rw_authorize_reply.o
+ .data          0x0000000000000000        0x0 _build/ble_gatts_rw_authorize_reply.o
+ .bss           0x0000000000000000        0x0 _build/ble_gatts_rw_authorize_reply.o
+ .text.ble_gatts_rw_authorize_reply_req_enc
+                0x0000000000000000       0x74 _build/ble_gatts_rw_authorize_reply.o
+ .text.ble_gatts_rw_authorize_reply_rsp_dec
+                0x0000000000000000        0xc _build/ble_gatts_rw_authorize_reply.o
+ .comment       0x0000000000000000       0x81 _build/ble_gatts_rw_authorize_reply.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gatts_rw_authorize_reply.o
+ .text          0x0000000000000000        0x0 _build/ble_gatts_service_add.o
+ .data          0x0000000000000000        0x0 _build/ble_gatts_service_add.o
+ .bss           0x0000000000000000        0x0 _build/ble_gatts_service_add.o
+ .text.ble_gatts_service_add_req_enc
+                0x0000000000000000       0x5c _build/ble_gatts_service_add.o
+ .text.ble_gatts_service_add_rsp_dec
+                0x0000000000000000       0x5c _build/ble_gatts_service_add.o
+ .comment       0x0000000000000000       0x81 _build/ble_gatts_service_add.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gatts_service_add.o
+ .text          0x0000000000000000        0x0 _build/ble_gatts_service_changed.o
+ .data          0x0000000000000000        0x0 _build/ble_gatts_service_changed.o
+ .bss           0x0000000000000000        0x0 _build/ble_gatts_service_changed.o
+ .text.ble_gatts_service_changed_req_enc
+                0x0000000000000000       0x84 _build/ble_gatts_service_changed.o
+ .text.ble_gatts_service_changed_rsp_dec
+                0x0000000000000000        0xc _build/ble_gatts_service_changed.o
+ .comment       0x0000000000000000       0x81 _build/ble_gatts_service_changed.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gatts_service_changed.o
+ .text          0x0000000000000000        0x0 _build/ble_gatts_struct_serialization.o
+ .data          0x0000000000000000        0x0 _build/ble_gatts_struct_serialization.o
+ .bss           0x0000000000000000        0x0 _build/ble_gatts_struct_serialization.o
+ .text.ser_ble_gatts_char_pf_dec
+                0x0000000000000000       0x54 _build/ble_gatts_struct_serialization.o
+ .text.ser_ble_gatts_char_pf_enc
+                0x0000000000000000       0x54 _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_attr_md_enc
+                0x0000000000000000       0x6c _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_attr_md_dec
+                0x0000000000000000       0x78 _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_char_md_enc
+                0x0000000000000000       0xf0 _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_char_md_dec
+                0x0000000000000000      0x12c _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_attr_enc
+                0x0000000000000000       0x7c _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_attr_dec
+                0x0000000000000000       0x74 _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_char_handles_enc
+                0x0000000000000000       0x44 _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_char_handles_dec
+                0x0000000000000000       0x48 _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_hvx_params_t_enc
+                0x0000000000000000       0x9c _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_hvx_params_t_dec
+                0x0000000000000000       0x58 _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_attr_context_t_enc
+                0x0000000000000000       0x6c _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_attr_context_t_dec
+                0x0000000000000000       0x70 _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_evt_write_t_enc
+                0x0000000000000000       0x88 _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_evt_read_t_enc
+                0x0000000000000000       0x44 _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_evt_rw_authorize_request_t_enc
+                0x0000000000000000       0x7c _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_read_authorize_params_t_enc
+                0x0000000000000000       0x50 _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_read_authorize_params_t_dec
+                0x0000000000000000       0x78 _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_write_authorize_params_t_enc
+                0x0000000000000000        0x8 _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_write_authorize_params_t_dec
+                0x0000000000000000       0x18 _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_rw_authorize_reply_params_t_enc
+                0x0000000000000000       0x88 _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_rw_authorize_reply_params_t_dec
+                0x0000000000000000       0xbc _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_enable_params_t_dec
+                0x0000000000000000       0x28 _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_value_t_enc
+                0x0000000000000000       0x38 _build/ble_gatts_struct_serialization.o
+ .text.ble_gatts_value_t_dec
+                0x0000000000000000       0x4c _build/ble_gatts_struct_serialization.o
+ .text          0x0000000000000000        0x0 _build/ble_gatts_sys_attr_get.o
+ .data          0x0000000000000000        0x0 _build/ble_gatts_sys_attr_get.o
+ .bss           0x0000000000000000        0x0 _build/ble_gatts_sys_attr_get.o
+ .text          0x0000000000000000        0x0 _build/ble_gatts_sys_attr_set.o
+ .data          0x0000000000000000        0x0 _build/ble_gatts_sys_attr_set.o
+ .bss           0x0000000000000000        0x0 _build/ble_gatts_sys_attr_set.o
+ .text          0x0000000000000000        0x0 _build/ble_gatts_value_get.o
+ .data          0x0000000000000000        0x0 _build/ble_gatts_value_get.o
+ .bss           0x0000000000000000        0x0 _build/ble_gatts_value_get.o
+ .text.ble_gatts_value_get_req_enc
+                0x0000000000000000       0xb4 _build/ble_gatts_value_get.o
+ .text.ble_gatts_value_get_rsp_dec
+                0x0000000000000000       0x58 _build/ble_gatts_value_get.o
+ .comment       0x0000000000000000       0x81 _build/ble_gatts_value_get.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gatts_value_get.o
+ .text          0x0000000000000000        0x0 _build/ble_gatts_value_set.o
+ .data          0x0000000000000000        0x0 _build/ble_gatts_value_set.o
+ .bss           0x0000000000000000        0x0 _build/ble_gatts_value_set.o
+ .text.ble_gatts_value_set_req_enc
+                0x0000000000000000       0x64 _build/ble_gatts_value_set.o
+ .text.ble_gatts_value_set_rsp_dec
+                0x0000000000000000       0x54 _build/ble_gatts_value_set.o
+ .comment       0x0000000000000000       0x81 _build/ble_gatts_value_set.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_gatts_value_set.o
+ .text          0x0000000000000000        0x0 _build/ble_l2cap_cid_register.o
+ .data          0x0000000000000000        0x0 _build/ble_l2cap_cid_register.o
+ .bss           0x0000000000000000        0x0 _build/ble_l2cap_cid_register.o
+ .text.ble_l2cap_cid_register_req_enc
+                0x0000000000000000       0x40 _build/ble_l2cap_cid_register.o
+ .text.ble_l2cap_cid_register_rsp_dec
+                0x0000000000000000        0xc _build/ble_l2cap_cid_register.o
+ .comment       0x0000000000000000       0x81 _build/ble_l2cap_cid_register.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_l2cap_cid_register.o
+ .text          0x0000000000000000        0x0 _build/ble_l2cap_cid_unregister.o
+ .data          0x0000000000000000        0x0 _build/ble_l2cap_cid_unregister.o
+ .bss           0x0000000000000000        0x0 _build/ble_l2cap_cid_unregister.o
+ .text.ble_l2cap_cid_unregister_req_enc
+                0x0000000000000000       0x40 _build/ble_l2cap_cid_unregister.o
+ .text.ble_l2cap_cid_unregister_rsp_dec
+                0x0000000000000000        0xc _build/ble_l2cap_cid_unregister.o
+ .comment       0x0000000000000000       0x81 _build/ble_l2cap_cid_unregister.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_l2cap_cid_unregister.o
+ .text          0x0000000000000000        0x0 _build/ble_l2cap_evt_rx.o
+ .data          0x0000000000000000        0x0 _build/ble_l2cap_evt_rx.o
+ .bss           0x0000000000000000        0x0 _build/ble_l2cap_evt_rx.o
+ .text          0x0000000000000000        0x0 _build/ble_l2cap_tx.o
+ .data          0x0000000000000000        0x0 _build/ble_l2cap_tx.o
+ .bss           0x0000000000000000        0x0 _build/ble_l2cap_tx.o
+ .text.ble_l2cap_tx_req_enc
+                0x0000000000000000       0x88 _build/ble_l2cap_tx.o
+ .text.ble_l2cap_tx_rsp_dec
+                0x0000000000000000        0xc _build/ble_l2cap_tx.o
+ .comment       0x0000000000000000       0x81 _build/ble_l2cap_tx.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_l2cap_tx.o
+ .text          0x0000000000000000        0x0 _build/ble_opt_get.o
+ .data          0x0000000000000000        0x0 _build/ble_opt_get.o
+ .bss           0x0000000000000000        0x0 _build/ble_opt_get.o
+ .text.ble_opt_get_req_enc
+                0x0000000000000000       0x58 _build/ble_opt_get.o
+ .text.ble_opt_get_rsp_dec
+                0x0000000000000000       0xe4 _build/ble_opt_get.o
+ .comment       0x0000000000000000       0x81 _build/ble_opt_get.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_opt_get.o
+ .text          0x0000000000000000        0x0 _build/ble_opt_set.o
+ .data          0x0000000000000000        0x0 _build/ble_opt_set.o
+ .bss           0x0000000000000000        0x0 _build/ble_opt_set.o
+ .text.ble_opt_set_req_enc
+                0x0000000000000000       0xe8 _build/ble_opt_set.o
+ .rodata.ble_opt_set_req_enc
+                0x0000000000000000       0x98 _build/ble_opt_set.o
+ .text.ble_opt_set_rsp_dec
+                0x0000000000000000       0x28 _build/ble_opt_set.o
+ .comment       0x0000000000000000       0x81 _build/ble_opt_set.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_opt_set.o
+ .text          0x0000000000000000        0x0 _build/ble_serialization.o
+ .data          0x0000000000000000        0x0 _build/ble_serialization.o
+ .bss           0x0000000000000000        0x0 _build/ble_serialization.o
+ .text.ser_ble_cmd_rsp_status_code_enc
+                0x0000000000000000       0x34 _build/ble_serialization.o
+ .text.uint32_t_dec
+                0x0000000000000000       0x40 _build/ble_serialization.o
+ .text.len8data_enc
+                0x0000000000000000       0x50 _build/ble_serialization.o
+ .text.len8data_dec
+                0x0000000000000000       0x80 _build/ble_serialization.o
+ .text.len16data_enc
+                0x0000000000000000       0x58 _build/ble_serialization.o
+ .text.count16_cond_data16_enc
+                0x0000000000000000       0x64 _build/ble_serialization.o
+ .text.count16_cond_data16_dec
+                0x0000000000000000       0xa0 _build/ble_serialization.o
+ .text.cond_len16_cond_data_dec
+                0x0000000000000000       0xb4 _build/ble_serialization.o
+ .text.op_status_enc
+                0x0000000000000000       0x44 _build/ble_serialization.o
+ .text.op_status_cond_uint16_enc
+                0x0000000000000000       0x90 _build/ble_serialization.o
+ .text.buf_enc  0x0000000000000000       0x50 _build/ble_serialization.o
+ .text.buf_dec  0x0000000000000000       0x70 _build/ble_serialization.o
+ .text.uint8_vector_enc
+                0x0000000000000000       0x40 _build/ble_serialization.o
+ .text          0x0000000000000000        0x0 _build/ble_struct_serialization.o
+ .data          0x0000000000000000        0x0 _build/ble_struct_serialization.o
+ .bss           0x0000000000000000        0x0 _build/ble_struct_serialization.o
+ .text.ble_uuid_t_enc
+                0x0000000000000000       0x20 _build/ble_struct_serialization.o
+ .text.ble_uuid128_t_dec
+                0x0000000000000000       0x28 _build/ble_struct_serialization.o
+ .text.ble_l2cap_header_t_enc
+                0x0000000000000000       0x34 _build/ble_struct_serialization.o
+ .text.ble_l2cap_header_t_dec
+                0x0000000000000000       0x34 _build/ble_struct_serialization.o
+ .text.ble_l2cap_evt_rx_t_enc
+                0x0000000000000000       0x54 _build/ble_struct_serialization.o
+ .text.ble_enable_params_t_dec
+                0x0000000000000000       0x34 _build/ble_struct_serialization.o
+ .text.ble_common_opt_radio_cpu_mutex_t_enc
+                0x0000000000000000       0x28 _build/ble_struct_serialization.o
+ .text.ble_common_opt_radio_cpu_mutex_t_dec
+                0x0000000000000000       0x38 _build/ble_struct_serialization.o
+ .text          0x0000000000000000        0x0 _build/ble_tx_buffer_count_get.o
+ .data          0x0000000000000000        0x0 _build/ble_tx_buffer_count_get.o
+ .bss           0x0000000000000000        0x0 _build/ble_tx_buffer_count_get.o
+ .text.ble_tx_buffer_count_get_req_enc
+                0x0000000000000000       0x4c _build/ble_tx_buffer_count_get.o
+ .text.ble_tx_buffer_count_get_rsp_dec
+                0x0000000000000000       0x5c _build/ble_tx_buffer_count_get.o
+ .comment       0x0000000000000000       0x81 _build/ble_tx_buffer_count_get.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_tx_buffer_count_get.o
+ .text          0x0000000000000000        0x0 _build/ble_user_mem_reply.o
+ .data          0x0000000000000000        0x0 _build/ble_user_mem_reply.o
+ .bss           0x0000000000000000        0x0 _build/ble_user_mem_reply.o
+ .text.ble_user_mem_reply_req_enc
+                0x0000000000000000       0x74 _build/ble_user_mem_reply.o
+ .text.ble_user_mem_reply_rsp_dec
+                0x0000000000000000        0xc _build/ble_user_mem_reply.o
+ .comment       0x0000000000000000       0x81 _build/ble_user_mem_reply.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_user_mem_reply.o
+ .text          0x0000000000000000        0x0 _build/ble_uuid_decode.o
+ .data          0x0000000000000000        0x0 _build/ble_uuid_decode.o
+ .bss           0x0000000000000000        0x0 _build/ble_uuid_decode.o
+ .text.ble_uuid_decode_req_enc
+                0x0000000000000000       0x74 _build/ble_uuid_decode.o
+ .text.ble_uuid_decode_rsp_dec
+                0x0000000000000000       0x5c _build/ble_uuid_decode.o
+ .comment       0x0000000000000000       0x81 _build/ble_uuid_decode.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_uuid_decode.o
+ .text          0x0000000000000000        0x0 _build/ble_uuid_encode.o
+ .data          0x0000000000000000        0x0 _build/ble_uuid_encode.o
+ .bss           0x0000000000000000        0x0 _build/ble_uuid_encode.o
+ .text.ble_uuid_encode_req_enc
+                0x0000000000000000       0x64 _build/ble_uuid_encode.o
+ .text.ble_uuid_encode_rsp_dec
+                0x0000000000000000       0x78 _build/ble_uuid_encode.o
+ .comment       0x0000000000000000       0x81 _build/ble_uuid_encode.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_uuid_encode.o
+ .text          0x0000000000000000        0x0 _build/ble_uuid_vs_add.o
+ .data          0x0000000000000000        0x0 _build/ble_uuid_vs_add.o
+ .bss           0x0000000000000000        0x0 _build/ble_uuid_vs_add.o
+ .text          0x0000000000000000        0x0 _build/ble_version_get.o
+ .data          0x0000000000000000        0x0 _build/ble_version_get.o
+ .bss           0x0000000000000000        0x0 _build/ble_version_get.o
+ .text.ble_version_get_req_enc
+                0x0000000000000000       0x30 _build/ble_version_get.o
+ .text.ble_version_get_rsp_dec
+                0x0000000000000000       0x6c _build/ble_version_get.o
+ .comment       0x0000000000000000       0x81 _build/ble_version_get.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_version_get.o
+ .text          0x0000000000000000        0x0 _build/cond_field_serialization.o
+ .data          0x0000000000000000        0x0 _build/cond_field_serialization.o
+ .bss           0x0000000000000000        0x0 _build/cond_field_serialization.o
+ .text          0x0000000000000000        0x0 _build/power_system_off.o
+ .data          0x0000000000000000        0x0 _build/power_system_off.o
+ .bss           0x0000000000000000        0x0 _build/power_system_off.o
+ .text.power_system_off_req_enc
+                0x0000000000000000       0x24 _build/power_system_off.o
+ .comment       0x0000000000000000       0x81 _build/power_system_off.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/power_system_off.o
+ .text          0x0000000000000000        0x0 _build/ser_app_hal_nrf51.o
+ .data          0x0000000000000000        0x0 _build/ser_app_hal_nrf51.o
+ .bss           0x0000000000000000        0x0 _build/ser_app_hal_nrf51.o
+ .text.sd_ppi_channel_enable_get
+                0x0000000000000000       0x14 _build/ser_app_hal_nrf51.o
+ .text.sd_ppi_channel_enable_set
+                0x0000000000000000       0x10 _build/ser_app_hal_nrf51.o
+ .text.sd_ppi_channel_assign
+                0x0000000000000000       0x1c _build/ser_app_hal_nrf51.o
+ .text          0x0000000000000000        0x0 _build/ser_app_power_system_off.o
+ .data          0x0000000000000000        0x0 _build/ser_app_power_system_off.o
+ .bss           0x0000000000000000        0x0 _build/ser_app_power_system_off.o
+ .text.ser_app_power_system_off_set
+                0x0000000000000000        0xc _build/ser_app_power_system_off.o
+ .text          0x0000000000000000        0x0 _build/ser_hal_transport.o
+ .data          0x0000000000000000        0x0 _build/ser_hal_transport.o
+ .bss           0x0000000000000000        0x0 _build/ser_hal_transport.o
+ .text.ser_hal_transport_close
+                0x0000000000000000       0x28 _build/ser_hal_transport.o
+ .text.ser_hal_transport_tx_pkt_free
+                0x0000000000000000       0x30 _build/ser_hal_transport.o
+ .text          0x0000000000000000        0x0 _build/ser_phy_hci.o
+ .data          0x0000000000000000        0x0 _build/ser_phy_hci.o
+ .bss           0x0000000000000000        0x0 _build/ser_phy_hci.o
+ .text.ser_phy_close
+                0x0000000000000000       0x24 _build/ser_phy_hci.o
+ .text          0x0000000000000000        0x0 _build/ser_phy_hci_slip.o
+ .data          0x0000000000000000        0x0 _build/ser_phy_hci_slip.o
+ .bss           0x0000000000000000        0x0 _build/ser_phy_hci_slip.o
+ .text.ser_phy_hci_slip_close
+                0x0000000000000000       0x14 _build/ser_phy_hci_slip.o
+ .text          0x0000000000000000        0x0 _build/ser_sd_transport.o
+ .data          0x0000000000000000        0x0 _build/ser_sd_transport.o
+ .bss           0x0000000000000000        0x0 _build/ser_sd_transport.o
+ .text.ser_sd_transport_close
+                0x0000000000000000       0x2c _build/ser_sd_transport.o
+ .text.ser_sd_transport_ot_rsp_wait_handler_set
+                0x0000000000000000        0xc _build/ser_sd_transport.o
+ .text.ser_sd_transport_tx_free
+                0x0000000000000000        0x8 _build/ser_sd_transport.o
+ .text          0x0000000000000000        0x0 _build/ser_softdevice_handler.o
+ .data          0x0000000000000000        0x0 _build/ser_softdevice_handler.o
+ .bss           0x0000000000000000        0x0 _build/ser_softdevice_handler.o
+ .text.sd_ble_evt_mailbox_length_get
+                0x0000000000000000       0x14 _build/ser_softdevice_handler.o
+ .text.sd_softdevice_disable
+                0x0000000000000000        0x8 _build/ser_softdevice_handler.o
+ .text          0x0000000000000000        0x0 _build/temp_get.o
+ .data          0x0000000000000000        0x0 _build/temp_get.o
+ .bss           0x0000000000000000        0x0 _build/temp_get.o
+ .text.temp_get_req_enc
+                0x0000000000000000       0x3c _build/temp_get.o
+ .text.temp_get_rsp_dec
+                0x0000000000000000       0x64 _build/temp_get.o
+ .comment       0x0000000000000000       0x81 _build/temp_get.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/temp_get.o
+ .text          0x0000000000000000        0x0 _build/app_error.o
+ .data          0x0000000000000000        0x0 _build/app_error.o
+ .bss           0x0000000000000000        0x0 _build/app_error.o
+ .text          0x0000000000000000        0x0 _build/app_mailbox.o
+ .data          0x0000000000000000        0x0 _build/app_mailbox.o
+ .bss           0x0000000000000000        0x0 _build/app_mailbox.o
+ .text.app_mailbox_sized_put
+                0x0000000000000000       0x80 _build/app_mailbox.o
+ .text.app_mailbox_sized_get
+                0x0000000000000000       0x6c _build/app_mailbox.o
+ .text.app_mailbox_mode_set
+                0x0000000000000000        0x8 _build/app_mailbox.o
+ .text          0x0000000000000000        0x0 _build/app_scheduler.o
+ .data          0x0000000000000000        0x0 _build/app_scheduler.o
+ .bss           0x0000000000000000        0x0 _build/app_scheduler.o
+ .text.app_sched_init
+                0x0000000000000000       0x4c _build/app_scheduler.o
+ .text.app_sched_event_put
+                0x0000000000000000       0xc4 _build/app_scheduler.o
+ .text.app_sched_execute
+                0x0000000000000000       0x78 _build/app_scheduler.o
+ .bss.m_queue_event_headers
+                0x0000000000000000        0x4 _build/app_scheduler.o
+ .bss.m_queue_event_data
+                0x0000000000000000        0x4 _build/app_scheduler.o
+ .bss.m_queue_event_size
+                0x0000000000000000        0x2 _build/app_scheduler.o
+ .bss.m_queue_start_index
+                0x0000000000000000        0x1 _build/app_scheduler.o
+ .bss.m_queue_end_index
+                0x0000000000000000        0x1 _build/app_scheduler.o
+ .bss.m_queue_size
+                0x0000000000000000        0x2 _build/app_scheduler.o
+ .comment       0x0000000000000000       0x81 _build/app_scheduler.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/app_scheduler.o
+ .text          0x0000000000000000        0x0 _build/app_timer.o
+ .data          0x0000000000000000        0x0 _build/app_timer.o
+ .bss           0x0000000000000000        0x0 _build/app_timer.o
+ .text.app_timer_init
+                0x0000000000000000       0xe4 _build/app_timer.o
+ .text.app_timer_create
+                0x0000000000000000       0x34 _build/app_timer.o
+ .text.app_timer_start
+                0x0000000000000000      0x104 _build/app_timer.o
+ .text.app_timer_stop
+                0x0000000000000000       0xd0 _build/app_timer.o
+ .text.app_timer_stop_all
+                0x0000000000000000       0xc0 _build/app_timer.o
+ .text.app_timer_cnt_get
+                0x0000000000000000       0x14 _build/app_timer.o
+ .text.app_timer_cnt_diff_compute
+                0x0000000000000000        0xc _build/app_timer.o
+ .text          0x0000000000000000        0x0 _build/app_util_platform.o
+ .data          0x0000000000000000        0x0 _build/app_util_platform.o
+ .bss           0x0000000000000000        0x0 _build/app_util_platform.o
+ .text          0x0000000000000000        0x0 _build/crc16.o
+ .data          0x0000000000000000        0x0 _build/crc16.o
+ .bss           0x0000000000000000        0x0 _build/crc16.o
+ .text          0x0000000000000000        0x0 _build/nrf_assert.o
+ .data          0x0000000000000000        0x0 _build/nrf_assert.o
+ .bss           0x0000000000000000        0x0 _build/nrf_assert.o
+ .comment       0x0000000000000000       0x81 _build/nrf_assert.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/nrf_assert.o
+ .text          0x0000000000000000        0x0 _build/app_uart.o
+ .data          0x0000000000000000        0x0 _build/app_uart.o
+ .bss           0x0000000000000000        0x0 _build/app_uart.o
+ .text.app_uart_get
+                0x0000000000000000       0x20 _build/app_uart.o
+ .text.app_uart_flush
+                0x0000000000000000        0x4 _build/app_uart.o
+ .text.app_uart_close
+                0x0000000000000000        0xc _build/app_uart.o
+ .text          0x0000000000000000        0x0 _build/ble_flash.o
+ .data          0x0000000000000000        0x0 _build/ble_flash.o
+ .bss           0x0000000000000000        0x0 _build/ble_flash.o
+ .text.ble_flash_crc16_compute
+                0x0000000000000000       0x48 _build/ble_flash.o
+ .text.ble_flash_word_write
+                0x0000000000000000       0x5c _build/ble_flash.o
+ .text.ble_flash_page_write
+                0x0000000000000000      0x1c4 _build/ble_flash.o
+ .text.ble_flash_page_read
+                0x0000000000000000       0x94 _build/ble_flash.o
+ .text.ble_flash_page_addr
+                0x0000000000000000       0x14 _build/ble_flash.o
+ .text.ble_flash_on_radio_active_evt
+                0x0000000000000000        0xc _build/ble_flash.o
+ .text          0x0000000000000000        0x0 _build/nrf_delay.o
+ .data          0x0000000000000000        0x0 _build/nrf_delay.o
+ .bss           0x0000000000000000        0x0 _build/nrf_delay.o
+ .text          0x0000000000000000        0x0 _build/nrf_drv_common.o
+ .data          0x0000000000000000        0x0 _build/nrf_drv_common.o
+ .bss           0x0000000000000000        0x0 _build/nrf_drv_common.o
+ .text          0x0000000000000000        0x0 _build/nrf_drv_uart.o
+ .data          0x0000000000000000        0x0 _build/nrf_drv_uart.o
+ .bss           0x0000000000000000        0x0 _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_uninit
+                0x0000000000000000       0xb4 _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_rx_disable
+                0x0000000000000000       0x18 _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_errorsrc_get
+                0x0000000000000000       0x1c _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_tx_abort
+                0x0000000000000000       0x3c _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_rx_abort
+                0x0000000000000000       0x1c _build/nrf_drv_uart.o
+ .text          0x0000000000000000        0x0 _build/nrf_soc.o
+ .data          0x0000000000000000        0x0 _build/nrf_soc.o
+ .bss           0x0000000000000000        0x0 _build/nrf_soc.o
+ .text.sd_nvic_DisableIRQ
+                0x0000000000000000       0x18 _build/nrf_soc.o
+ .text.sd_nvic_GetPendingIRQ
+                0x0000000000000000       0x2c _build/nrf_soc.o
+ .text.sd_nvic_SetPendingIRQ
+                0x0000000000000000       0x1c _build/nrf_soc.o
+ .text.sd_nvic_ClearPendingIRQ
+                0x0000000000000000       0x1c _build/nrf_soc.o
+ .text.sd_nvic_SetPriority
+                0x0000000000000000       0x68 _build/nrf_soc.o
+ .text.sd_nvic_GetPriority
+                0x0000000000000000       0x44 _build/nrf_soc.o
+ .text.sd_nvic_SystemReset
+                0x0000000000000000       0x18 _build/nrf_soc.o
+ .text.sd_nvic_critical_region_enter
+                0x0000000000000000       0x1c _build/nrf_soc.o
+ .text.sd_nvic_critical_region_exit
+                0x0000000000000000       0x1c _build/nrf_soc.o
+ .bss.m_in_critical_region
+                0x0000000000000000        0x1 _build/nrf_soc.o
+ .text          0x0000000000000000        0x0 _build/pstorage_nosd.o
+ .data          0x0000000000000000        0x0 _build/pstorage_nosd.o
+ .bss           0x0000000000000000        0x0 _build/pstorage_nosd.o
+ .text          0x0000000000000000        0x0 _build/client_handling.o
+ .data          0x0000000000000000        0x0 _build/client_handling.o
+ .bss           0x0000000000000000        0x0 _build/client_handling.o
+ .text.client_handling_count
+                0x0000000000000000        0xc _build/client_handling.o
+ .text          0x0000000000000000        0x0 _build/main.o
+ .data          0x0000000000000000        0x0 _build/main.o
+ .bss           0x0000000000000000        0x0 _build/main.o
+ .text          0x0000000000000000        0x0 _build/ble_advdata.o
+ .data          0x0000000000000000        0x0 _build/ble_advdata.o
+ .bss           0x0000000000000000        0x0 _build/ble_advdata.o
+ .text.uuid_list_sized_encode
+                0x0000000000000000       0xe4 _build/ble_advdata.o
+ .text.name_encode
+                0x0000000000000000       0x8c _build/ble_advdata.o
+ .text.adv_data_encode
+                0x0000000000000000      0x538 _build/ble_advdata.o
+ .text.ble_advdata_set
+                0x0000000000000000      0x4ec _build/ble_advdata.o
+ .comment       0x0000000000000000       0x81 _build/ble_advdata.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_advdata.o
+ .text          0x0000000000000000        0x0 _build/ble_db_discovery.o
+ .data          0x0000000000000000        0x0 _build/ble_db_discovery.o
+ .bss           0x0000000000000000        0x0 _build/ble_db_discovery.o
+ .text.ble_db_discovery_close
+                0x0000000000000000       0x20 _build/ble_db_discovery.o
+ .text          0x0000000000000000        0x0 _build/ble_srv_common.o
+ .data          0x0000000000000000        0x0 _build/ble_srv_common.o
+ .bss           0x0000000000000000        0x0 _build/ble_srv_common.o
+ .text.ble_srv_report_ref_encode
+                0x0000000000000000        0xc _build/ble_srv_common.o
+ .text.ble_srv_ascii_to_utf8
+                0x0000000000000000       0x14 _build/ble_srv_common.o
+ .text.characteristic_add
+                0x0000000000000000      0x36c _build/ble_srv_common.o
+ .rodata.characteristic_add
+                0x0000000000000000       0x78 _build/ble_srv_common.o
+ .text.descriptor_add
+                0x0000000000000000      0x170 _build/ble_srv_common.o
+ .rodata.descriptor_add
+                0x0000000000000000       0x30 _build/ble_srv_common.o
+ .comment       0x0000000000000000       0x81 _build/ble_srv_common.o
+ .ARM.attributes
+                0x0000000000000000       0x31 _build/ble_srv_common.o
+ .text          0x0000000000000000        0x0 _build/device_manager_central.o
+ .data          0x0000000000000000        0x0 _build/device_manager_central.o
+ .bss           0x0000000000000000        0x0 _build/device_manager_central.o
+ .text.dm_security_status_req
+                0x0000000000000000       0x7c _build/device_manager_central.o
+ .text.dm_whitelist_create
+                0x0000000000000000      0x160 _build/device_manager_central.o
+ .text.dm_device_add
+                0x0000000000000000        0x8 _build/device_manager_central.o
+ .text.dm_device_delete
+                0x0000000000000000       0xc4 _build/device_manager_central.o
+ .text.dm_device_delete_all
+                0x0000000000000000       0xb0 _build/device_manager_central.o
+ .text.dm_service_context_set
+                0x0000000000000000       0xc8 _build/device_manager_central.o
+ .text.dm_service_context_get
+                0x0000000000000000       0xd0 _build/device_manager_central.o
+ .text.dm_service_context_delete
+                0x0000000000000000       0x5c _build/device_manager_central.o
+ .text.dm_application_context_set
+                0x0000000000000000        0x8 _build/device_manager_central.o
+ .text.dm_application_context_get
+                0x0000000000000000        0x8 _build/device_manager_central.o
+ .text.dm_application_context_delete
+                0x0000000000000000        0x8 _build/device_manager_central.o
+ .text.dm_application_instance_set
+                0x0000000000000000       0x3c _build/device_manager_central.o
+ .text.dm_handle_initialize
+                0x0000000000000000       0x1c _build/device_manager_central.o
+ .text.dm_peer_addr_set
+                0x0000000000000000       0xb4 _build/device_manager_central.o
+ .text.dm_peer_addr_get
+                0x0000000000000000       0x84 _build/device_manager_central.o
+ .text.dm_distributed_keys_get
+                0x0000000000000000       0xc4 _build/device_manager_central.o
+ .bss.m_local_id_info
+                0x0000000000000000       0x18 _build/device_manager_central.o
+ .rodata.m_context_init_len
+                0x0000000000000000        0x4 _build/device_manager_central.o
+ .text          0x0000000000000000        0x0 _build/system_nrf51.o
+ .data          0x0000000000000000        0x0 _build/system_nrf51.o
+ .bss           0x0000000000000000        0x0 _build/system_nrf51.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0x10 _build/system_nrf51.o
+ .data.SystemCoreClock
+                0x0000000000000000        0x4 _build/system_nrf51.o
+ .text          0x0000000000000000        0x0 _build/softdevice_handler.o
+ .data          0x0000000000000000        0x0 _build/softdevice_handler.o
+ .bss           0x0000000000000000        0x0 _build/softdevice_handler.o
+ .text.softdevice_handler_isEnabled
+                0x0000000000000000        0xc _build/softdevice_handler.o
+ .text.softdevice_handler_sd_disable
+                0x0000000000000000       0x18 _build/softdevice_handler.o
+ .data          0x0000000000000000        0x0 _build/gcc_startup_nrf51.o
+ .bss           0x0000000000000000        0x0 _build/gcc_startup_nrf51.o
+ .ARM.extab     0x0000000000000000        0x0 _build/gcc_startup_nrf51.o
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcmp.o)
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcmp.o)
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcmp.o)
+ .text          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-strlen.o)
+ .text.strlen   0x0000000000000000        0xe /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-strlen.o)
+ .debug_frame   0x0000000000000000       0x20 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-strlen.o)
+ .text          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+ .jcr           0x0000000000000000        0x4 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+ .text          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+ .data          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+ .bss           0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000040000 xr
+RAM              0x0000000020000000 0x0000000000008000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a
+LOAD _build/app_ble_gap_sec_keys.o
+LOAD _build/app_ble_user_mem.o
+LOAD _build/app_mw_ble.o
+LOAD _build/app_mw_ble_gap.o
+LOAD _build/app_mw_ble_gattc.o
+LOAD _build/app_mw_ble_gatts.o
+LOAD _build/app_mw_ble_l2cap.o
+LOAD _build/app_mw_nrf_soc.o
+LOAD _build/ble_enable.o
+LOAD _build/ble_event.o
+LOAD _build/ble_evt_tx_complete.o
+LOAD _build/ble_evt_user_mem_release.o
+LOAD _build/ble_evt_user_mem_request.o
+LOAD _build/ble_gap_address_get.o
+LOAD _build/ble_gap_address_set.o
+LOAD _build/ble_gap_adv_data_set.o
+LOAD _build/ble_gap_adv_start.o
+LOAD _build/ble_gap_adv_stop.o
+LOAD _build/ble_gap_appearance_get.o
+LOAD _build/ble_gap_appearance_set.o
+LOAD _build/ble_gap_auth_key_reply.o
+LOAD _build/ble_gap_authenticate.o
+LOAD _build/ble_gap_conn_param_update.o
+LOAD _build/ble_gap_conn_sec_get.o
+LOAD _build/ble_gap_connect.o
+LOAD _build/ble_gap_connect_cancel.o
+LOAD _build/ble_gap_device_name_get.o
+LOAD _build/ble_gap_device_name_set.o
+LOAD _build/ble_gap_disconnect.o
+LOAD _build/ble_gap_encrypt.o
+LOAD _build/ble_gap_evt_adv_report.o
+LOAD _build/ble_gap_evt_auth_key_request.o
+LOAD _build/ble_gap_evt_auth_status.o
+LOAD _build/ble_gap_evt_conn_param_update.o
+LOAD _build/ble_gap_evt_conn_param_update_request.o
+LOAD _build/ble_gap_evt_conn_sec_update.o
+LOAD _build/ble_gap_evt_connected.o
+LOAD _build/ble_gap_evt_disconnected.o
+LOAD _build/ble_gap_evt_passkey_display.o
+LOAD _build/ble_gap_evt_rssi_changed.o
+LOAD _build/ble_gap_evt_scan_req_report.o
+LOAD _build/ble_gap_evt_sec_info_request.o
+LOAD _build/ble_gap_evt_sec_params_request.o
+LOAD _build/ble_gap_evt_sec_request.o
+LOAD _build/ble_gap_evt_timeout.o
+LOAD _build/ble_gap_ppcp_get.o
+LOAD _build/ble_gap_ppcp_set.o
+LOAD _build/ble_gap_rssi_get.o
+LOAD _build/ble_gap_rssi_start.o
+LOAD _build/ble_gap_rssi_stop.o
+LOAD _build/ble_gap_scan_start.o
+LOAD _build/ble_gap_scan_stop.o
+LOAD _build/ble_gap_sec_info_reply.o
+LOAD _build/ble_gap_sec_params_reply.o
+LOAD _build/ble_gap_struct_serialization.o
+LOAD _build/ble_gap_tx_power_set.o
+LOAD _build/ble_gattc_char_value_by_uuid_read.o
+LOAD _build/ble_gattc_char_values_read.o
+LOAD _build/ble_gattc_characteristics_discover.o
+LOAD _build/ble_gattc_descriptors_discover.o
+LOAD _build/ble_gattc_evt_char_disc_rsp.o
+LOAD _build/ble_gattc_evt_char_val_by_uuid_read_rsp.o
+LOAD _build/ble_gattc_evt_char_vals_read_rsp.o
+LOAD _build/ble_gattc_evt_desc_disc_rsp.o
+LOAD _build/ble_gattc_evt_hvx.o
+LOAD _build/ble_gattc_evt_prim_srvc_disc_rsp.o
+LOAD _build/ble_gattc_evt_read_rsp.o
+LOAD _build/ble_gattc_evt_rel_disc_rsp.o
+LOAD _build/ble_gattc_evt_timeout.o
+LOAD _build/ble_gattc_evt_write_rsp.o
+LOAD _build/ble_gattc_hv_confirm.o
+LOAD _build/ble_gattc_primary_services_discover.o
+LOAD _build/ble_gattc_read.o
+LOAD _build/ble_gattc_relationships_discover.o
+LOAD _build/ble_gattc_struct_serialization.o
+LOAD _build/ble_gattc_write.o
+LOAD _build/ble_gatts_characteristic_add.o
+LOAD _build/ble_gatts_descriptor_add.o
+LOAD _build/ble_gatts_evt_hvc.o
+LOAD _build/ble_gatts_evt_rw_authorize_request.o
+LOAD _build/ble_gatts_evt_sc_confirm.o
+LOAD _build/ble_gatts_evt_sys_attr_missing.o
+LOAD _build/ble_gatts_evt_timeout.o
+LOAD _build/ble_gatts_evt_write.o
+LOAD _build/ble_gatts_hvx.o
+LOAD _build/ble_gatts_include_add.o
+LOAD _build/ble_gatts_rw_authorize_reply.o
+LOAD _build/ble_gatts_service_add.o
+LOAD _build/ble_gatts_service_changed.o
+LOAD _build/ble_gatts_struct_serialization.o
+LOAD _build/ble_gatts_sys_attr_get.o
+LOAD _build/ble_gatts_sys_attr_set.o
+LOAD _build/ble_gatts_value_get.o
+LOAD _build/ble_gatts_value_set.o
+LOAD _build/ble_l2cap_cid_register.o
+LOAD _build/ble_l2cap_cid_unregister.o
+LOAD _build/ble_l2cap_evt_rx.o
+LOAD _build/ble_l2cap_tx.o
+LOAD _build/ble_opt_get.o
+LOAD _build/ble_opt_set.o
+LOAD _build/ble_serialization.o
+LOAD _build/ble_struct_serialization.o
+LOAD _build/ble_tx_buffer_count_get.o
+LOAD _build/ble_user_mem_reply.o
+LOAD _build/ble_uuid_decode.o
+LOAD _build/ble_uuid_encode.o
+LOAD _build/ble_uuid_vs_add.o
+LOAD _build/ble_version_get.o
+LOAD _build/cond_field_serialization.o
+LOAD _build/power_system_off.o
+LOAD _build/ser_app_hal_nrf51.o
+LOAD _build/ser_app_power_system_off.o
+LOAD _build/ser_hal_transport.o
+LOAD _build/ser_phy_hci.o
+LOAD _build/ser_phy_hci_slip.o
+LOAD _build/ser_sd_transport.o
+LOAD _build/ser_softdevice_handler.o
+LOAD _build/temp_get.o
+LOAD _build/app_error.o
+LOAD _build/app_mailbox.o
+LOAD _build/app_scheduler.o
+LOAD _build/app_timer.o
+LOAD _build/app_util_platform.o
+LOAD _build/crc16.o
+LOAD _build/nrf_assert.o
+LOAD _build/app_uart.o
+LOAD _build/ble_flash.o
+LOAD _build/nrf_delay.o
+LOAD _build/nrf_drv_common.o
+LOAD _build/nrf_drv_uart.o
+LOAD _build/nrf_soc.o
+LOAD _build/pstorage_nosd.o
+LOAD _build/client_handling.o
+LOAD _build/main.o
+LOAD _build/ble_advdata.o
+LOAD _build/ble_db_discovery.o
+LOAD _build/ble_srv_common.o
+LOAD _build/device_manager_central.o
+LOAD _build/system_nrf51.o
+LOAD _build/softdevice_handler.o
+LOAD _build/gcc_startup_nrf51.o
+START GROUP
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a
+END GROUP
+START GROUP
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a
+END GROUP
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+START GROUP
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a
+LOAD /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a
+END GROUP
+
+.fs_data_out    0x0000000000000000        0x0
+                0x0000000000000000                PROVIDE (__start_fs_data, .)
+ *(fs_data)
+                0x0000000000000000                PROVIDE (__stop_fs_data, .)
+
+.text           0x0000000000000000     0x9060
+ *(.Vectors)
+ .Vectors       0x0000000000000000       0xc0 _build/gcc_startup_nrf51.o
+                0x0000000000000000                __Vectors
+ *(.text*)
+ .text          0x00000000000000c0       0x60 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+ .text          0x0000000000000120       0x78 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+                0x0000000000000120                _mainCRTStartup
+                0x0000000000000120                _start
+ .text.exit     0x0000000000000198       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-exit.o)
+                0x0000000000000198                exit
+ .text.__libc_init_array
+                0x00000000000001c4       0x4c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-init.o)
+                0x00000000000001c4                __libc_init_array
+ .text.memset   0x0000000000000210       0x10 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memset.o)
+                0x0000000000000210                memset
+ .text._exit    0x0000000000000220        0x4 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+                0x0000000000000220                _exit
+ .text.app_ble_gap_sec_context_create
+                0x0000000000000224       0x34 _build/app_ble_gap_sec_keys.o
+                0x0000000000000224                app_ble_gap_sec_context_create
+ .text.app_ble_gap_sec_context_destroy
+                0x0000000000000258       0x30 _build/app_ble_gap_sec_keys.o
+                0x0000000000000258                app_ble_gap_sec_context_destroy
+ .text.app_ble_gap_sec_context_find
+                0x0000000000000288       0x30 _build/app_ble_gap_sec_keys.o
+                0x0000000000000288                app_ble_gap_sec_context_find
+ .text.app_ble_user_mem_context_destroy
+                0x00000000000002b8       0x70 _build/app_ble_user_mem.o
+                0x00000000000002b8                app_ble_user_mem_context_destroy
+ .text.app_ble_user_mem_context_find
+                0x0000000000000328       0xa0 _build/app_ble_user_mem.o
+                0x0000000000000328                app_ble_user_mem_context_find
+ .text.uuid_vs_add_rsp_dec
+                0x00000000000003c8       0x24 _build/app_mw_ble.o
+ .text.enable_rsp_dec
+                0x00000000000003ec       0x1c _build/app_mw_ble.o
+ .text.sd_ble_uuid_vs_add
+                0x0000000000000408       0x5c _build/app_mw_ble.o
+                0x0000000000000408                sd_ble_uuid_vs_add
+ .text.sd_ble_enable
+                0x0000000000000464       0x58 _build/app_mw_ble.o
+                0x0000000000000464                sd_ble_enable
+ .text.gap_sec_params_reply_rsp_dec
+                0x00000000000004bc       0x44 _build/app_mw_ble_gap.o
+ .text.gap_authenticate_rsp_dec
+                0x0000000000000500       0x20 _build/app_mw_ble_gap.o
+ .text.gap_scan_stop_rsp_dec
+                0x0000000000000520       0x20 _build/app_mw_ble_gap.o
+ .text.gap_connect_rsp_dec
+                0x0000000000000540       0x20 _build/app_mw_ble_gap.o
+ .text.gap_scan_start_rsp_dec
+                0x0000000000000560       0x20 _build/app_mw_ble_gap.o
+ .text.gap_encrypt_rsp_dec
+                0x0000000000000580       0x20 _build/app_mw_ble_gap.o
+ .text.sd_ble_gap_sec_params_reply
+                0x00000000000005a0       0xa4 _build/app_mw_ble_gap.o
+                0x00000000000005a0                sd_ble_gap_sec_params_reply
+ .text.sd_ble_gap_authenticate
+                0x0000000000000644       0x58 _build/app_mw_ble_gap.o
+                0x0000000000000644                sd_ble_gap_authenticate
+ .text.sd_ble_gap_scan_stop
+                0x000000000000069c       0x50 _build/app_mw_ble_gap.o
+                0x000000000000069c                sd_ble_gap_scan_stop
+ .text.sd_ble_gap_connect
+                0x00000000000006ec       0x5c _build/app_mw_ble_gap.o
+                0x00000000000006ec                sd_ble_gap_connect
+ .text.sd_ble_gap_scan_start
+                0x0000000000000748       0x54 _build/app_mw_ble_gap.o
+                0x0000000000000748                sd_ble_gap_scan_start
+ .text.sd_ble_gap_encrypt
+                0x000000000000079c       0x5c _build/app_mw_ble_gap.o
+                0x000000000000079c                sd_ble_gap_encrypt
+ .text.gattc_primary_services_discover_rsp_dec
+                0x00000000000007f8       0x1c _build/app_mw_ble_gattc.o
+ .text.gattc_characteristics_discover_rsp_dec
+                0x0000000000000814       0x1c _build/app_mw_ble_gattc.o
+ .text.gattc_descriptors_discover_rsp_dec
+                0x0000000000000830       0x1c _build/app_mw_ble_gattc.o
+ .text.gattc_write_rsp_dec
+                0x000000000000084c       0x1c _build/app_mw_ble_gattc.o
+ .text.sd_ble_gattc_primary_services_discover
+                0x0000000000000868       0x5c _build/app_mw_ble_gattc.o
+                0x0000000000000868                sd_ble_gattc_primary_services_discover
+ .text.sd_ble_gattc_characteristics_discover
+                0x00000000000008c4       0x58 _build/app_mw_ble_gattc.o
+                0x00000000000008c4                sd_ble_gattc_characteristics_discover
+ .text.sd_ble_gattc_descriptors_discover
+                0x000000000000091c       0x58 _build/app_mw_ble_gattc.o
+                0x000000000000091c                sd_ble_gattc_descriptors_discover
+ .text.sd_ble_gattc_write
+                0x0000000000000974       0x58 _build/app_mw_ble_gattc.o
+                0x0000000000000974                sd_ble_gattc_write
+ .text.gatts_sys_attr_set_rsp_dec
+                0x00000000000009cc       0x1c _build/app_mw_ble_gatts.o
+ .text.gatts_sys_attr_get_rsp_dec
+                0x00000000000009e8       0x28 _build/app_mw_ble_gatts.o
+ .text.sd_ble_gatts_sys_attr_set
+                0x0000000000000a10       0x68 _build/app_mw_ble_gatts.o
+                0x0000000000000a10                sd_ble_gatts_sys_attr_set
+ .text.sd_ble_gatts_sys_attr_get
+                0x0000000000000a78       0x74 _build/app_mw_ble_gatts.o
+                0x0000000000000a78                sd_ble_gatts_sys_attr_get
+ .text.ble_enable_req_enc
+                0x0000000000000aec       0x44 _build/ble_enable.o
+                0x0000000000000aec                ble_enable_req_enc
+ .text.ble_enable_rsp_dec
+                0x0000000000000b30        0xc _build/ble_enable.o
+                0x0000000000000b30                ble_enable_rsp_dec
+ .text.ble_event_dec
+                0x0000000000000b3c      0x1c8 _build/ble_event.o
+                0x0000000000000b3c                ble_event_dec
+ .text.ble_evt_tx_complete_dec
+                0x0000000000000d04       0x74 _build/ble_evt_tx_complete.o
+                0x0000000000000d04                ble_evt_tx_complete_dec
+ .text.ble_evt_user_mem_release_dec
+                0x0000000000000d78       0xb0 _build/ble_evt_user_mem_release.o
+                0x0000000000000d78                ble_evt_user_mem_release_dec
+ .text.ble_evt_user_mem_request_dec
+                0x0000000000000e28       0x64 _build/ble_evt_user_mem_request.o
+                0x0000000000000e28                ble_evt_user_mem_request_dec
+ .text.ble_gap_authenticate_req_enc
+                0x0000000000000e8c       0x60 _build/ble_gap_authenticate.o
+                0x0000000000000e8c                ble_gap_authenticate_req_enc
+ .text.ble_gap_authenticate_rsp_dec
+                0x0000000000000eec        0xc _build/ble_gap_authenticate.o
+                0x0000000000000eec                ble_gap_authenticate_rsp_dec
+ .text.ble_gap_connect_req_enc
+                0x0000000000000ef8       0x94 _build/ble_gap_connect.o
+                0x0000000000000ef8                ble_gap_connect_req_enc
+ .text.ble_gap_connect_rsp_dec
+                0x0000000000000f8c        0xc _build/ble_gap_connect.o
+                0x0000000000000f8c                ble_gap_connect_rsp_dec
+ .text.ble_gap_encrypt_req_enc
+                0x0000000000000f98       0xa8 _build/ble_gap_encrypt.o
+                0x0000000000000f98                ble_gap_encrypt_req_enc
+ .text.ble_gap_encrypt_rsp_dec
+                0x0000000000001040        0xc _build/ble_gap_encrypt.o
+                0x0000000000001040                ble_gap_encrypt_rsp_dec
+ .text.ble_gap_evt_adv_report_dec
+                0x000000000000104c       0xd8 _build/ble_gap_evt_adv_report.o
+                0x000000000000104c                ble_gap_evt_adv_report_dec
+ .text.ble_gap_evt_auth_key_request_dec
+                0x0000000000001124       0x70 _build/ble_gap_evt_auth_key_request.o
+                0x0000000000001124                ble_gap_evt_auth_key_request_dec
+ .text.ble_gap_evt_auth_status_dec
+                0x0000000000001194       0x9c _build/ble_gap_evt_auth_status.o
+                0x0000000000001194                ble_gap_evt_auth_status_dec
+ .text.ble_gap_evt_conn_param_update_dec
+                0x0000000000001230       0x9c _build/ble_gap_evt_conn_param_update.o
+                0x0000000000001230                ble_gap_evt_conn_param_update_dec
+ .text.ble_gap_evt_conn_param_update_request_dec
+                0x00000000000012cc       0x9c _build/ble_gap_evt_conn_param_update_request.o
+                0x00000000000012cc                ble_gap_evt_conn_param_update_request_dec
+ .text.ble_gap_evt_conn_sec_update_dec
+                0x0000000000001368       0x98 _build/ble_gap_evt_conn_sec_update.o
+                0x0000000000001368                ble_gap_evt_conn_sec_update_dec
+ .text.ble_gap_evt_connected_dec
+                0x0000000000001400       0x70 _build/ble_gap_evt_connected.o
+                0x0000000000001400                ble_gap_evt_connected_dec
+ .text.ble_gap_evt_disconnected_dec
+                0x0000000000001470       0x70 _build/ble_gap_evt_disconnected.o
+                0x0000000000001470                ble_gap_evt_disconnected_dec
+ .text.ble_gap_evt_passkey_display_dec
+                0x00000000000014e0       0x74 _build/ble_gap_evt_passkey_display.o
+                0x00000000000014e0                ble_gap_evt_passkey_display_dec
+ .text.ble_gap_evt_rssi_changed_dec
+                0x0000000000001554       0x70 _build/ble_gap_evt_rssi_changed.o
+                0x0000000000001554                ble_gap_evt_rssi_changed_dec
+ .text.ble_gap_evt_scan_req_report_dec
+                0x00000000000015c4       0x84 _build/ble_gap_evt_scan_req_report.o
+                0x00000000000015c4                ble_gap_evt_scan_req_report_dec
+ .text.ble_gap_evt_sec_info_request_dec
+                0x0000000000001648       0x74 _build/ble_gap_evt_sec_info_request.o
+                0x0000000000001648                ble_gap_evt_sec_info_request_dec
+ .text.ble_gap_evt_sec_params_request_dec
+                0x00000000000016bc       0x78 _build/ble_gap_evt_sec_params_request.o
+                0x00000000000016bc                ble_gap_evt_sec_params_request_dec
+ .text.ble_gap_evt_sec_request_dec
+                0x0000000000001734       0x70 _build/ble_gap_evt_sec_request.o
+                0x0000000000001734                ble_gap_evt_sec_request_dec
+ .text.ble_gap_evt_timeout_dec
+                0x00000000000017a4       0x60 _build/ble_gap_evt_timeout.o
+                0x00000000000017a4                ble_gap_evt_timeout_dec
+ .text.ble_gap_scan_start_req_enc
+                0x0000000000001804       0x50 _build/ble_gap_scan_start.o
+                0x0000000000001804                ble_gap_scan_start_req_enc
+ .text.ble_gap_scan_start_rsp_dec
+                0x0000000000001854        0xc _build/ble_gap_scan_start.o
+                0x0000000000001854                ble_gap_scan_start_rsp_dec
+ .text.ble_gap_scan_stop_req_enc
+                0x0000000000001860       0x34 _build/ble_gap_scan_stop.o
+                0x0000000000001860                ble_gap_scan_stop_req_enc
+ .text.ble_gap_scan_stop_rsp_dec
+                0x0000000000001894        0xc _build/ble_gap_scan_stop.o
+                0x0000000000001894                ble_gap_scan_stop_rsp_dec
+ .text.ble_gap_sec_params_reply_req_enc
+                0x00000000000018a0       0xa4 _build/ble_gap_sec_params_reply.o
+                0x00000000000018a0                ble_gap_sec_params_reply_req_enc
+ .text.ble_gap_sec_params_reply_rsp_dec
+                0x0000000000001944       0x64 _build/ble_gap_sec_params_reply.o
+                0x0000000000001944                ble_gap_sec_params_reply_rsp_dec
+ .text.ble_gap_irk_enc
+                0x00000000000019a8       0x28 _build/ble_gap_struct_serialization.o
+                0x00000000000019a8                ble_gap_irk_enc
+ .text.ble_gap_addr_enc
+                0x00000000000019d0       0x34 _build/ble_gap_struct_serialization.o
+                0x00000000000019d0                ble_gap_addr_enc
+ .text.ble_gap_addr_dec
+                0x0000000000001a04       0x28 _build/ble_gap_struct_serialization.o
+                0x0000000000001a04                ble_gap_addr_dec
+ .text.ble_gap_sign_info_enc
+                0x0000000000001a2c       0x28 _build/ble_gap_struct_serialization.o
+                0x0000000000001a2c                ble_gap_sign_info_enc
+ .text.ble_gap_sign_info_dec
+                0x0000000000001a54       0x28 _build/ble_gap_struct_serialization.o
+                0x0000000000001a54                ble_gap_sign_info_dec
+ .text.ble_gap_id_key_t_dec
+                0x0000000000001a7c       0x58 _build/ble_gap_struct_serialization.o
+                0x0000000000001a7c                ble_gap_id_key_t_dec
+ .text.ble_gap_whitelist_t_enc
+                0x0000000000001ad4       0xd4 _build/ble_gap_struct_serialization.o
+                0x0000000000001ad4                ble_gap_whitelist_t_enc
+ .text.ble_gap_enc_key_t_enc
+                0x0000000000001ba8       0x8c _build/ble_gap_struct_serialization.o
+                0x0000000000001ba8                ble_gap_enc_key_t_enc
+ .text.ble_gap_id_key_t_enc
+                0x0000000000001c34       0x64 _build/ble_gap_struct_serialization.o
+                0x0000000000001c34                ble_gap_id_key_t_enc
+ .text.ble_gap_enc_key_t_dec
+                0x0000000000001c98       0x8c _build/ble_gap_struct_serialization.o
+                0x0000000000001c98                ble_gap_enc_key_t_dec
+ .text.ble_gap_evt_auth_status_t_dec
+                0x0000000000001d24      0x190 _build/ble_gap_struct_serialization.o
+                0x0000000000001d24                ble_gap_evt_auth_status_t_dec
+ .text.ble_gap_evt_sec_info_request_t_dec
+                0x0000000000001eb4       0x98 _build/ble_gap_struct_serialization.o
+                0x0000000000001eb4                ble_gap_evt_sec_info_request_t_dec
+ .text.ble_gap_evt_connected_t_dec
+                0x0000000000001f4c       0xd0 _build/ble_gap_struct_serialization.o
+                0x0000000000001f4c                ble_gap_evt_connected_t_dec
+ .text.ble_gap_sec_params_t_enc
+                0x000000000000201c       0xd4 _build/ble_gap_struct_serialization.o
+                0x000000000000201c                ble_gap_sec_params_t_enc
+ .text.ble_gap_enable_params_t_enc
+                0x00000000000020f0       0x1c _build/ble_gap_struct_serialization.o
+                0x00000000000020f0                ble_gap_enable_params_t_enc
+ .text.ble_gap_evt_sec_params_request_t_dec
+                0x000000000000210c      0x120 _build/ble_gap_struct_serialization.o
+                0x000000000000210c                ble_gap_evt_sec_params_request_t_dec
+ .text.ble_gap_conn_params_t_enc
+                0x000000000000222c       0x44 _build/ble_gap_struct_serialization.o
+                0x000000000000222c                ble_gap_conn_params_t_enc
+ .text.ble_gap_scan_params_t_enc
+                0x0000000000002270       0x90 _build/ble_gap_struct_serialization.o
+                0x0000000000002270                ble_gap_scan_params_t_enc
+ .text.ble_gap_sec_keyset_t_enc
+                0x0000000000002300       0xb0 _build/ble_gap_struct_serialization.o
+                0x0000000000002300                ble_gap_sec_keyset_t_enc
+ .text.ble_gap_sec_keyset_t_dec
+                0x00000000000023b0       0xb8 _build/ble_gap_struct_serialization.o
+                0x00000000000023b0                ble_gap_sec_keyset_t_dec
+ .text.ble_gap_evt_sec_request_t_dec
+                0x0000000000002468       0x44 _build/ble_gap_struct_serialization.o
+                0x0000000000002468                ble_gap_evt_sec_request_t_dec
+ .text.ble_gattc_characteristics_discover_req_enc
+                0x00000000000024ac       0x58 _build/ble_gattc_characteristics_discover.o
+                0x00000000000024ac                ble_gattc_characteristics_discover_req_enc
+ .text.ble_gattc_characteristics_discover_rsp_dec
+                0x0000000000002504        0xc _build/ble_gattc_characteristics_discover.o
+                0x0000000000002504                ble_gattc_characteristics_discover_rsp_dec
+ .text.ble_gattc_descriptors_discover_req_enc
+                0x0000000000002510       0x54 _build/ble_gattc_descriptors_discover.o
+                0x0000000000002510                ble_gattc_descriptors_discover_req_enc
+ .text.ble_gattc_descriptors_discover_rsp_dec
+                0x0000000000002564        0xc _build/ble_gattc_descriptors_discover.o
+                0x0000000000002564                ble_gattc_descriptors_discover_rsp_dec
+ .text.ble_gattc_evt_char_disc_rsp_dec
+                0x0000000000002570      0x1cc _build/ble_gattc_evt_char_disc_rsp.o
+                0x0000000000002570                ble_gattc_evt_char_disc_rsp_dec
+ .text.ble_gattc_evt_char_val_by_uuid_read_rsp_dec
+                0x000000000000273c       0xb0 _build/ble_gattc_evt_char_val_by_uuid_read_rsp.o
+                0x000000000000273c                ble_gattc_evt_char_val_by_uuid_read_rsp_dec
+ .text.ble_gattc_evt_char_vals_read_rsp_dec
+                0x00000000000027ec       0x84 _build/ble_gattc_evt_char_vals_read_rsp.o
+                0x00000000000027ec                ble_gattc_evt_char_vals_read_rsp_dec
+ .text.ble_gattc_evt_desc_disc_rsp_dec
+                0x0000000000002870      0x104 _build/ble_gattc_evt_desc_disc_rsp.o
+                0x0000000000002870                ble_gattc_evt_desc_disc_rsp_dec
+ .text.ble_gattc_evt_hvx_dec
+                0x0000000000002974       0xdc _build/ble_gattc_evt_hvx.o
+                0x0000000000002974                ble_gattc_evt_hvx_dec
+ .text.ble_gattc_evt_prim_srvc_disc_rsp_dec
+                0x0000000000002a50      0x104 _build/ble_gattc_evt_prim_srvc_disc_rsp.o
+                0x0000000000002a50                ble_gattc_evt_prim_srvc_disc_rsp_dec
+ .text.ble_gattc_evt_read_rsp_dec
+                0x0000000000002b54       0xdc _build/ble_gattc_evt_read_rsp.o
+                0x0000000000002b54                ble_gattc_evt_read_rsp_dec
+ .text.ble_gattc_evt_rel_disc_rsp_dec
+                0x0000000000002c30       0x98 _build/ble_gattc_evt_rel_disc_rsp.o
+                0x0000000000002c30                ble_gattc_evt_rel_disc_rsp_dec
+ .text.ble_gattc_evt_timeout_dec
+                0x0000000000002cc8       0x74 _build/ble_gattc_evt_timeout.o
+                0x0000000000002cc8                ble_gattc_evt_timeout_dec
+ .text.ble_gattc_evt_write_rsp_dec
+                0x0000000000002d3c       0xe8 _build/ble_gattc_evt_write_rsp.o
+                0x0000000000002d3c                ble_gattc_evt_write_rsp_dec
+ .text.ble_gattc_primary_services_discover_req_enc
+                0x0000000000002e24       0x5c _build/ble_gattc_primary_services_discover.o
+                0x0000000000002e24                ble_gattc_primary_services_discover_req_enc
+ .text.ble_gattc_primary_services_discover_rsp_dec
+                0x0000000000002e80        0xc _build/ble_gattc_primary_services_discover.o
+                0x0000000000002e80                ble_gattc_primary_services_discover_rsp_dec
+ .text.ble_gattc_evt_char_val_by_uuid_read_rsp_t_dec
+                0x0000000000002e8c      0x10c _build/ble_gattc_struct_serialization.o
+                0x0000000000002e8c                ble_gattc_evt_char_val_by_uuid_read_rsp_t_dec
+ .text.ble_gattc_evt_char_vals_read_rsp_t_dec
+                0x0000000000002f98       0x3c _build/ble_gattc_struct_serialization.o
+                0x0000000000002f98                ble_gattc_evt_char_vals_read_rsp_t_dec
+ .text.ble_gattc_evt_rel_disc_rsp_t_dec
+                0x0000000000002fd4       0x8c _build/ble_gattc_struct_serialization.o
+                0x0000000000002fd4                ble_gattc_evt_rel_disc_rsp_t_dec
+ .text.ble_gattc_write_req_enc
+                0x0000000000003060       0x98 _build/ble_gattc_write.o
+                0x0000000000003060                ble_gattc_write_req_enc
+ .text.ble_gattc_write_rsp_dec
+                0x00000000000030f8        0xc _build/ble_gattc_write.o
+                0x00000000000030f8                ble_gattc_write_rsp_dec
+ .text.ble_gatts_evt_hvc_dec
+                0x0000000000003104       0x70 _build/ble_gatts_evt_hvc.o
+                0x0000000000003104                ble_gatts_evt_hvc_dec
+ .text.ble_gatts_evt_rw_authorize_request_dec
+                0x0000000000003174       0xc4 _build/ble_gatts_evt_rw_authorize_request.o
+                0x0000000000003174                ble_gatts_evt_rw_authorize_request_dec
+ .text.ble_gatts_evt_sc_confirm_dec
+                0x0000000000003238       0x54 _build/ble_gatts_evt_sc_confirm.o
+                0x0000000000003238                ble_gatts_evt_sc_confirm_dec
+ .text.ble_gatts_evt_sys_attr_missing_dec
+                0x000000000000328c       0x70 _build/ble_gatts_evt_sys_attr_missing.o
+                0x000000000000328c                ble_gatts_evt_sys_attr_missing_dec
+ .text.ble_gatts_evt_timeout_dec
+                0x00000000000032fc       0x70 _build/ble_gatts_evt_timeout.o
+                0x00000000000032fc                ble_gatts_evt_timeout_dec
+ .text.ble_gatts_evt_write_dec
+                0x000000000000336c       0xbc _build/ble_gatts_evt_write.o
+                0x000000000000336c                ble_gatts_evt_write_dec
+ .text.ble_gatts_evt_write_t_dec
+                0x0000000000003428      0x140 _build/ble_gatts_struct_serialization.o
+                0x0000000000003428                ble_gatts_evt_write_t_dec
+ .text.ble_gatts_evt_read_t_dec
+                0x0000000000003568       0xd8 _build/ble_gatts_struct_serialization.o
+                0x0000000000003568                ble_gatts_evt_read_t_dec
+ .text.ble_gatts_evt_rw_authorize_request_t_dec
+                0x0000000000003640       0xa4 _build/ble_gatts_struct_serialization.o
+                0x0000000000003640                ble_gatts_evt_rw_authorize_request_t_dec
+ .text.ble_gatts_enable_params_t_enc
+                0x00000000000036e4       0x1c _build/ble_gatts_struct_serialization.o
+                0x00000000000036e4                ble_gatts_enable_params_t_enc
+ .text.ble_gatts_sys_attr_get_req_enc
+                0x0000000000003700       0x7c _build/ble_gatts_sys_attr_get.o
+                0x0000000000003700                ble_gatts_sys_attr_get_req_enc
+ .text.ble_gatts_sys_attr_get_rsp_dec
+                0x000000000000377c       0xa4 _build/ble_gatts_sys_attr_get.o
+                0x000000000000377c                ble_gatts_sys_attr_get_rsp_dec
+ .text.ble_gatts_sys_attr_set_req_enc
+                0x0000000000003820       0x8c _build/ble_gatts_sys_attr_set.o
+                0x0000000000003820                ble_gatts_sys_attr_set_req_enc
+ .text.ble_gatts_sys_attr_set_rsp_dec
+                0x00000000000038ac        0xc _build/ble_gatts_sys_attr_set.o
+                0x00000000000038ac                ble_gatts_sys_attr_set_rsp_dec
+ .text.ble_l2cap_evt_rx_dec
+                0x00000000000038b8       0x80 _build/ble_l2cap_evt_rx.o
+                0x00000000000038b8                ble_l2cap_evt_rx_dec
+ .text.ser_ble_cmd_rsp_result_code_dec
+                0x0000000000003938       0x4c _build/ble_serialization.o
+                0x0000000000003938                ser_ble_cmd_rsp_result_code_dec
+ .text.ser_ble_cmd_rsp_dec
+                0x0000000000003984       0x40 _build/ble_serialization.o
+                0x0000000000003984                ser_ble_cmd_rsp_dec
+ .text.uint32_t_enc
+                0x00000000000039c4       0x38 _build/ble_serialization.o
+                0x00000000000039c4                uint32_t_enc
+ .text.uint16_t_enc
+                0x00000000000039fc       0x20 _build/ble_serialization.o
+                0x00000000000039fc                uint16_t_enc
+ .text.uint16_t_dec
+                0x0000000000003a1c       0x24 _build/ble_serialization.o
+                0x0000000000003a1c                uint16_t_dec
+ .text.uint16_dec
+                0x0000000000003a40       0x20 _build/ble_serialization.o
+                0x0000000000003a40                uint16_dec
+ .text.uint8_t_enc
+                0x0000000000003a60       0x1c _build/ble_serialization.o
+                0x0000000000003a60                uint8_t_enc
+ .text.uint8_t_dec
+                0x0000000000003a7c       0x1c _build/ble_serialization.o
+                0x0000000000003a7c                uint8_t_dec
+ .text.uint8_dec
+                0x0000000000003a98       0x18 _build/ble_serialization.o
+                0x0000000000003a98                uint8_dec
+ .text.int8_dec
+                0x0000000000003ab0       0x18 _build/ble_serialization.o
+                0x0000000000003ab0                int8_dec
+ .text.len16data_dec
+                0x0000000000003ac8       0x88 _build/ble_serialization.o
+                0x0000000000003ac8                len16data_dec
+ .text.uint8_vector_dec
+                0x0000000000003b50       0x34 _build/ble_serialization.o
+                0x0000000000003b50                uint8_vector_dec
+ .text.ble_uuid_t_dec
+                0x0000000000003b84       0x30 _build/ble_struct_serialization.o
+                0x0000000000003b84                ble_uuid_t_dec
+ .text.ble_uuid128_t_enc
+                0x0000000000003bb4       0x28 _build/ble_struct_serialization.o
+                0x0000000000003bb4                ble_uuid128_t_enc
+ .text.ble_l2cap_evt_rx_t_dec
+                0x0000000000003bdc       0xa4 _build/ble_struct_serialization.o
+                0x0000000000003bdc                ble_l2cap_evt_rx_t_dec
+ .text.ble_enable_params_t_enc
+                0x0000000000003c80       0x34 _build/ble_struct_serialization.o
+                0x0000000000003c80                ble_enable_params_t_enc
+ .text.ble_uuid_vs_add_req_enc
+                0x0000000000003cb4       0x70 _build/ble_uuid_vs_add.o
+                0x0000000000003cb4                ble_uuid_vs_add_req_enc
+ .text.ble_uuid_vs_add_rsp_dec
+                0x0000000000003d24       0x60 _build/ble_uuid_vs_add.o
+                0x0000000000003d24                ble_uuid_vs_add_rsp_dec
+ .text.cond_field_enc
+                0x0000000000003d84       0x34 _build/cond_field_serialization.o
+                0x0000000000003d84                cond_field_enc
+ .text.cond_field_dec
+                0x0000000000003db8       0x60 _build/cond_field_serialization.o
+                0x0000000000003db8                cond_field_dec
+ .text.ser_app_hal_hw_init
+                0x0000000000003e18       0x38 _build/ser_app_hal_nrf51.o
+                0x0000000000003e18                ser_app_hal_hw_init
+ .text.ser_app_hal_delay
+                0x0000000000003e50        0x8 _build/ser_app_hal_nrf51.o
+                0x0000000000003e50                ser_app_hal_delay
+ .text.ser_app_hal_nrf_reset_pin_clear
+                0x0000000000003e58       0x14 _build/ser_app_hal_nrf51.o
+                0x0000000000003e58                ser_app_hal_nrf_reset_pin_clear
+ .text.ser_app_hal_nrf_reset_pin_set
+                0x0000000000003e6c       0x10 _build/ser_app_hal_nrf51.o
+                0x0000000000003e6c                ser_app_hal_nrf_reset_pin_set
+ .text.ser_app_hal_nrf_evt_irq_priority_set
+                0x0000000000003e7c       0x20 _build/ser_app_hal_nrf51.o
+                0x0000000000003e7c                ser_app_hal_nrf_evt_irq_priority_set
+ .text.ser_app_hal_nrf_evt_pending
+                0x0000000000003e9c       0x14 _build/ser_app_hal_nrf51.o
+                0x0000000000003e9c                ser_app_hal_nrf_evt_pending
+ .text.ser_app_power_system_off_get
+                0x0000000000003eb0        0xc _build/ser_app_power_system_off.o
+                0x0000000000003eb0                ser_app_power_system_off_get
+ .text.ser_app_power_system_off_enter
+                0x0000000000003ebc       0x10 _build/ser_app_power_system_off.o
+                0x0000000000003ebc                ser_app_power_system_off_enter
+ .text.phy_events_handler
+                0x0000000000003ecc      0x220 _build/ser_hal_transport.o
+ .text.ser_hal_transport_open
+                0x00000000000040ec       0x50 _build/ser_hal_transport.o
+                0x00000000000040ec                ser_hal_transport_open
+ .text.ser_hal_transport_rx_pkt_free
+                0x000000000000413c       0x60 _build/ser_hal_transport.o
+                0x000000000000413c                ser_hal_transport_rx_pkt_free
+ .text.ser_hal_transport_tx_pkt_alloc
+                0x000000000000419c       0x3c _build/ser_hal_transport.o
+                0x000000000000419c                ser_hal_transport_tx_pkt_alloc
+ .text.ser_hal_transport_tx_pkt_send
+                0x00000000000041d8       0x60 _build/ser_hal_transport.o
+                0x00000000000041d8                ser_hal_transport_tx_pkt_send
+ .text.hci_pkt_send
+                0x0000000000004238       0xa8 _build/ser_phy_hci.o
+ .text.hci_rx_fsm
+                0x00000000000042e0      0x20c _build/ser_phy_hci.o
+ .text.hci_tx_fsm
+                0x00000000000044ec      0x2d0 _build/ser_phy_hci.o
+ .text.hci_slip_event_handler
+                0x00000000000047bc      0x14c _build/ser_phy_hci.o
+ .text.TIMER2_IRQHandler
+                0x0000000000004908       0x94 _build/ser_phy_hci.o
+                0x0000000000004908                TIMER2_IRQHandler
+ .text.ser_phy_interrupts_enable
+                0x000000000000499c       0xf0 _build/ser_phy_hci.o
+                0x000000000000499c                ser_phy_interrupts_enable
+ .text.ser_phy_interrupts_disable
+                0x0000000000004a8c       0x20 _build/ser_phy_hci.o
+                0x0000000000004a8c                ser_phy_interrupts_disable
+ .text.ser_phy_rx_buf_set
+                0x0000000000004aac       0x80 _build/ser_phy_hci.o
+                0x0000000000004aac                ser_phy_rx_buf_set
+ .text.ser_phy_tx_pkt_send
+                0x0000000000004b2c       0x84 _build/ser_phy_hci.o
+                0x0000000000004b2c                ser_phy_tx_pkt_send
+ .text.ser_phy_open
+                0x0000000000004bb0       0xe4 _build/ser_phy_hci.o
+                0x0000000000004bb0                ser_phy_open
+ .text.ser_phy_hci_tx_byte
+                0x0000000000004c94      0x240 _build/ser_phy_hci_slip.o
+ .text.ser_phy_uart_evt_callback
+                0x0000000000004ed4      0x20c _build/ser_phy_hci_slip.o
+ .text.ser_phy_hci_slip_tx_pkt_send
+                0x00000000000050e0       0x80 _build/ser_phy_hci_slip.o
+                0x00000000000050e0                ser_phy_hci_slip_tx_pkt_send
+ .text.ser_phy_hci_slip_rx_buf_free
+                0x0000000000005160       0x44 _build/ser_phy_hci_slip.o
+                0x0000000000005160                ser_phy_hci_slip_rx_buf_free
+ .text.ser_phy_hci_slip_open
+                0x00000000000051a4       0x50 _build/ser_phy_hci_slip.o
+                0x00000000000051a4                ser_phy_hci_slip_open
+ .text.ser_sd_transport_hal_handler
+                0x00000000000051f4       0xd4 _build/ser_sd_transport.o
+ .text.ser_sd_transport_open
+                0x00000000000052c8       0x40 _build/ser_sd_transport.o
+                0x00000000000052c8                ser_sd_transport_open
+ .text.ser_sd_transport_is_busy
+                0x0000000000005308        0xc _build/ser_sd_transport.o
+                0x0000000000005308                ser_sd_transport_is_busy
+ .text.ser_sd_transport_tx_alloc
+                0x0000000000005314       0x1c _build/ser_sd_transport.o
+                0x0000000000005314                ser_sd_transport_tx_alloc
+ .text.ser_sd_transport_rx_free
+                0x0000000000005330        0xc _build/ser_sd_transport.o
+                0x0000000000005330                ser_sd_transport_rx_free
+ .text.ser_sd_transport_cmd_write
+                0x000000000000533c       0x58 _build/ser_sd_transport.o
+                0x000000000000533c                ser_sd_transport_cmd_write
+ .text.os_rsp_set_handler
+                0x0000000000005394        0x4 _build/ser_softdevice_handler.o
+                0x0000000000005394                os_rsp_set_handler
+ .text.ser_sd_rsp_wait
+                0x0000000000005398       0x10 _build/ser_softdevice_handler.o
+ .text.ser_softdevice_evt_handler
+                0x00000000000053a8       0x54 _build/ser_softdevice_handler.o
+ .text.sd_evt_get
+                0x00000000000053fc        0x4 _build/ser_softdevice_handler.o
+                0x00000000000053fc                sd_evt_get
+ .text.sd_ble_evt_get
+                0x0000000000005400       0x2c _build/ser_softdevice_handler.o
+                0x0000000000005400                sd_ble_evt_get
+ .text.sd_softdevice_enable
+                0x000000000000542c       0x58 _build/ser_softdevice_handler.o
+                0x000000000000542c                sd_softdevice_enable
+ .text.app_error_handler
+                0x0000000000005484       0x18 _build/app_error.o
+                0x0000000000005484                app_error_handler
+ .text.app_mailbox_create
+                0x000000000000549c       0x18 _build/app_mailbox.o
+                0x000000000000549c                app_mailbox_create
+ .text.app_mailbox_put
+                0x00000000000054b4       0x78 _build/app_mailbox.o
+                0x00000000000054b4                app_mailbox_put
+ .text.app_mailbox_get
+                0x000000000000552c       0x5c _build/app_mailbox.o
+                0x000000000000552c                app_mailbox_get
+ .text.app_mailbox_length_get
+                0x0000000000005588        0x8 _build/app_mailbox.o
+                0x0000000000005588                app_mailbox_length_get
+ .text.rtc1_stop
+                0x0000000000005590       0x7c _build/app_timer.o
+ .text.RTC1_IRQHandler
+                0x000000000000560c       0xe8 _build/app_timer.o
+                0x000000000000560c                RTC1_IRQHandler
+ .text.SWI0_IRQHandler
+                0x00000000000056f4      0x458 _build/app_timer.o
+                0x00000000000056f4                SWI0_IRQHandler
+ .text.critical_region_enter
+                0x0000000000005b4c       0x10 _build/app_util_platform.o
+                0x0000000000005b4c                critical_region_enter
+ .text.critical_region_exit
+                0x0000000000005b5c       0x14 _build/app_util_platform.o
+                0x0000000000005b5c                critical_region_exit
+ .text.crc16_compute
+                0x0000000000005b70       0x40 _build/crc16.o
+                0x0000000000005b70                crc16_compute
+ .text.uart_event_handler
+                0x0000000000005bb0       0x6c _build/app_uart.o
+                0x0000000000005bb0                uart_event_handler
+ .text.app_uart_init
+                0x0000000000005c1c       0x88 _build/app_uart.o
+                0x0000000000005c1c                app_uart_init
+ .text.app_uart_put
+                0x0000000000005ca4       0x28 _build/app_uart.o
+                0x0000000000005ca4                app_uart_put
+ .text.ble_flash_block_write
+                0x0000000000005ccc       0x8c _build/ble_flash.o
+                0x0000000000005ccc                ble_flash_block_write
+ .text.ble_flash_page_erase
+                0x0000000000005d58       0x54 _build/ble_flash.o
+                0x0000000000005d58                ble_flash_page_erase
+ .text.nrf_delay_ms
+                0x0000000000005dac       0x3c _build/nrf_delay.o
+                0x0000000000005dac                nrf_delay_ms
+ .text.nrf_drv_common_irq_enable
+                0x0000000000005de8       0x7c _build/nrf_drv_common.o
+                0x0000000000005de8                nrf_drv_common_irq_enable
+ .text.nrf_drv_uart_init
+                0x0000000000005e64      0x110 _build/nrf_drv_uart.o
+                0x0000000000005e64                nrf_drv_uart_init
+ .text.nrf_drv_uart_tx
+                0x0000000000005f74       0xb4 _build/nrf_drv_uart.o
+                0x0000000000005f74                nrf_drv_uart_tx
+ .text.nrf_drv_uart_rx
+                0x0000000000006028      0x104 _build/nrf_drv_uart.o
+                0x0000000000006028                nrf_drv_uart_rx
+ .text.nrf_drv_uart_rx_enable
+                0x000000000000612c       0x2c _build/nrf_drv_uart.o
+                0x000000000000612c                nrf_drv_uart_rx_enable
+ .text.UART0_IRQHandler
+                0x0000000000006158      0x164 _build/nrf_drv_uart.o
+                0x0000000000006158                UART0_IRQHandler
+ .text.sd_nvic_EnableIRQ
+                0x00000000000062bc       0x18 _build/nrf_soc.o
+                0x00000000000062bc                sd_nvic_EnableIRQ
+ .text.sd_app_evt_wait
+                0x00000000000062d4        0x8 _build/nrf_soc.o
+                0x00000000000062d4                sd_app_evt_wait
+ .text.pstorage_init
+                0x00000000000062dc       0x54 _build/pstorage_nosd.o
+                0x00000000000062dc                pstorage_init
+ .text.pstorage_register
+                0x0000000000006330       0xdc _build/pstorage_nosd.o
+                0x0000000000006330                pstorage_register
+ .text.pstorage_block_identifier_get
+                0x000000000000640c       0x50 _build/pstorage_nosd.o
+                0x000000000000640c                pstorage_block_identifier_get
+ .text.pstorage_store
+                0x000000000000645c       0x98 _build/pstorage_nosd.o
+                0x000000000000645c                pstorage_store
+ .text.pstorage_update
+                0x00000000000064f4      0x1b4 _build/pstorage_nosd.o
+                0x00000000000064f4                pstorage_update
+ .text.pstorage_load
+                0x00000000000066a8       0xa0 _build/pstorage_nosd.o
+                0x00000000000066a8                pstorage_load
+ .text.pstorage_clear
+                0x0000000000006748       0xa0 _build/pstorage_nosd.o
+                0x0000000000006748                pstorage_clear
+ .text.pstorage_sys_event_handler
+                0x00000000000067e8        0x4 _build/pstorage_nosd.o
+                0x00000000000067e8                pstorage_sys_event_handler
+ .text.pstorage_access_status_get
+                0x00000000000067ec        0xc _build/pstorage_nosd.o
+                0x00000000000067ec                pstorage_access_status_get
+ .text.db_discovery_evt_handler
+                0x00000000000067f8      0x10c _build/client_handling.o
+ .text.client_handling_dm_event_handler
+                0x0000000000006904       0x64 _build/client_handling.o
+                0x0000000000006904                client_handling_dm_event_handler
+ .text.client_handling_ble_evt_handler
+                0x0000000000006968      0x1ac _build/client_handling.o
+                0x0000000000006968                client_handling_ble_evt_handler
+ .text.client_handling_init
+                0x0000000000006b14       0xb4 _build/client_handling.o
+                0x0000000000006b14                client_handling_init
+ .text.client_handling_create
+                0x0000000000006bc8       0x70 _build/client_handling.o
+                0x0000000000006bc8                client_handling_create
+ .text.client_handling_destroy
+                0x0000000000006c38       0x74 _build/client_handling.o
+                0x0000000000006c38                client_handling_destroy
+ .text.ble_evt_dispatch
+                0x0000000000006cac       0x9c _build/main.o
+ .text.sys_evt_dispatch
+                0x0000000000006d48       0x5c _build/main.o
+ .text.device_manager_event_handler
+                0x0000000000006da4      0x11c _build/main.o
+ .text.assert_nrf_callback
+                0x0000000000006ec0       0x14 _build/main.o
+                0x0000000000006ec0                assert_nrf_callback
+ .text.startup.main
+                0x0000000000006ed4      0x1ac _build/main.o
+                0x0000000000006ed4                main
+ .text.discovery_complete_evt_trigger
+                0x0000000000007080       0xfc _build/ble_db_discovery.o
+ .text.descriptors_discover
+                0x000000000000717c       0xb4 _build/ble_db_discovery.o
+ .text.on_srv_disc_completion
+                0x0000000000007230      0x11c _build/ble_db_discovery.o
+ .text.ble_db_discovery_init
+                0x000000000000734c       0x20 _build/ble_db_discovery.o
+                0x000000000000734c                ble_db_discovery_init
+ .text.ble_db_discovery_evt_register
+                0x000000000000736c       0x54 _build/ble_db_discovery.o
+                0x000000000000736c                ble_db_discovery_evt_register
+ .text.ble_db_discovery_start
+                0x00000000000073c0       0x6c _build/ble_db_discovery.o
+                0x00000000000073c0                ble_db_discovery_start
+ .text.ble_db_discovery_on_ble_evt
+                0x000000000000742c      0x62c _build/ble_db_discovery.o
+                0x000000000000742c                ble_db_discovery_on_ble_evt
+ .text.storage_operation_dummy_handler
+                0x0000000000007a58        0x4 _build/device_manager_central.o
+ .text.no_service_context_store
+                0x0000000000007a5c        0x4 _build/device_manager_central.o
+ .text.gattc_context_store
+                0x0000000000007a60        0x4 _build/device_manager_central.o
+ .text.no_service_context_load
+                0x0000000000007a64        0x4 _build/device_manager_central.o
+ .text.gattc_context_load
+                0x0000000000007a68        0x4 _build/device_manager_central.o
+ .text.no_service_context_apply
+                0x0000000000007a6c        0x4 _build/device_manager_central.o
+ .text.gattc_context_apply
+                0x0000000000007a70        0x4 _build/device_manager_central.o
+ .text.gatts_context_apply
+                0x0000000000007a74       0x58 _build/device_manager_central.o
+ .text.gatts_context_store
+                0x0000000000007acc       0xbc _build/device_manager_central.o
+ .text.gatts_context_load
+                0x0000000000007b88       0x38 _build/device_manager_central.o
+ .text.dm_pstorage_cb_handler
+                0x0000000000007bc0      0x160 _build/device_manager_central.o
+ .text.gattsc_context_load
+                0x0000000000007d20       0x38 _build/device_manager_central.o
+ .text.gattsc_context_apply
+                0x0000000000007d58       0x58 _build/device_manager_central.o
+ .text.gattsc_context_store
+                0x0000000000007db0       0xbc _build/device_manager_central.o
+ .text.initiate_security_request
+                0x0000000000007e6c       0x68 _build/device_manager_central.o
+                0x0000000000007e6c                initiate_security_request
+ .text.dm_init  0x0000000000007ed4      0x134 _build/device_manager_central.o
+                0x0000000000007ed4                dm_init
+ .text.dm_register
+                0x0000000000008008       0x5c _build/device_manager_central.o
+                0x0000000000008008                dm_register
+ .text.dm_security_setup_req
+                0x0000000000008064      0x16c _build/device_manager_central.o
+                0x0000000000008064                dm_security_setup_req
+ .text.dm_ble_evt_handler
+                0x00000000000081d0      0x798 _build/device_manager_central.o
+                0x00000000000081d0                dm_ble_evt_handler
+ .text.SystemInit
+                0x0000000000008968       0x8c _build/system_nrf51.o
+                0x0000000000008968                SystemInit
+ .text.softdevice_assertion_handler
+                0x00000000000089f4        0xc _build/softdevice_handler.o
+                0x00000000000089f4                softdevice_assertion_handler
+ .text.intern_softdevice_events_execute
+                0x0000000000008a00       0xc4 _build/softdevice_handler.o
+                0x0000000000008a00                intern_softdevice_events_execute
+ .text.softdevice_handler_init
+                0x0000000000008ac4       0x4c _build/softdevice_handler.o
+                0x0000000000008ac4                softdevice_handler_init
+ .text.softdevice_ble_evt_handler_set
+                0x0000000000008b10       0x14 _build/softdevice_handler.o
+                0x0000000000008b10                softdevice_ble_evt_handler_set
+ .text.softdevice_sys_evt_handler_set
+                0x0000000000008b24       0x14 _build/softdevice_handler.o
+                0x0000000000008b24                softdevice_sys_evt_handler_set
+ .text.SWI2_IRQHandler
+                0x0000000000008b38       0x28 _build/softdevice_handler.o
+                0x0000000000008b38                SWI2_IRQHandler
+ .text          0x0000000000008b60       0x54 _build/gcc_startup_nrf51.o
+                0x0000000000008b60                Reset_Handler
+                0x0000000000008ba8                NMI_Handler
+                0x0000000000008baa                HardFault_Handler
+                0x0000000000008bac                SVC_Handler
+                0x0000000000008bae                PendSV_Handler
+                0x0000000000008bb0                SysTick_Handler
+                0x0000000000008bb2                SPI0_TWI0_IRQHandler
+                0x0000000000008bb2                RTC0_IRQHandler
+                0x0000000000008bb2                GPIOTE_IRQHandler
+                0x0000000000008bb2                POWER_CLOCK_IRQHandler
+                0x0000000000008bb2                RADIO_IRQHandler
+                0x0000000000008bb2                LPCOMP_IRQHandler
+                0x0000000000008bb2                SWI4_IRQHandler
+                0x0000000000008bb2                TEMP_IRQHandler
+                0x0000000000008bb2                QDEC_IRQHandler
+                0x0000000000008bb2                SWI5_IRQHandler
+                0x0000000000008bb2                TIMER0_IRQHandler
+                0x0000000000008bb2                TIMER1_IRQHandler
+                0x0000000000008bb2                ECB_IRQHandler
+                0x0000000000008bb2                Default_Handler
+                0x0000000000008bb2                ADC_IRQHandler
+                0x0000000000008bb2                SWI3_IRQHandler
+                0x0000000000008bb2                CCM_AAR_IRQHandler
+                0x0000000000008bb2                WDT_IRQHandler
+                0x0000000000008bb2                RNG_IRQHandler
+                0x0000000000008bb2                SPI1_TWI1_IRQHandler
+                0x0000000000008bb2                SWI1_IRQHandler
+ .text          0x0000000000008bb4       0x9c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+                0x0000000000008bb4                __udivsi3
+                0x0000000000008bb4                __aeabi_uidiv
+                0x0000000000008c3c                __aeabi_uidivmod
+ .text          0x0000000000008c50        0x4 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_dvmd_tls.o)
+                0x0000000000008c50                __aeabi_ldiv0
+                0x0000000000008c50                __aeabi_idiv0
+ .text.memcmp   0x0000000000008c54       0x1e /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcmp.o)
+                0x0000000000008c54                memcmp
+ .text.memcpy   0x0000000000008c72       0x12 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcpy-stub.o)
+                0x0000000000008c72                memcpy
+ *(.init)
+ .init          0x0000000000008c84        0x4 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+                0x0000000000008c84                _init
+ .init          0x0000000000008c88        0x8 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+ *(.fini)
+ .fini          0x0000000000008c90        0x4 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+                0x0000000000008c90                _fini
+ .fini          0x0000000000008c94        0x8 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.str1.1
+                0x0000000000008c9c        0x2 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-impure.o)
+ *fill*         0x0000000000008c9e        0x2 
+ .rodata._global_impure_ptr
+                0x0000000000008ca0        0x4 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-impure.o)
+                0x0000000000008ca0                _global_impure_ptr
+ .rodata.ble_event_dec
+                0x0000000000008ca4      0x1c4 _build/ble_event.o
+ .rodata.phy_events_handler
+                0x0000000000008e68       0x1c _build/ser_hal_transport.o
+ .rodata.hci_tx_fsm
+                0x0000000000008e84       0x18 _build/ser_phy_hci.o
+ .rodata.tx_evt_queue
+                0x0000000000008e9c        0xc _build/ser_phy_hci.o
+                0x0000000000008e9c                tx_evt_queue
+ .rodata.rx_evt_queue
+                0x0000000000008ea8        0xc _build/ser_phy_hci.o
+                0x0000000000008ea8                rx_evt_queue
+ .rodata.comm_params
+                0x0000000000008eb4        0xc _build/ser_phy_hci_slip.o
+ .rodata.sd_ble_evt_mailbox
+                0x0000000000008ec0        0xc _build/ser_softdevice_handler.o
+                0x0000000000008ec0                sd_ble_evt_mailbox
+ .rodata        0x0000000000008ecc       0x20 _build/app_uart.o
+ .rodata.m_default_config
+                0x0000000000008eec       0x20 _build/nrf_drv_uart.o
+ .rodata        0x0000000000008f0c       0x24 _build/client_handling.o
+ .rodata.device_manager_event_handler
+                0x0000000000008f30       0x4c _build/main.o
+ .rodata.m_connection_param
+                0x0000000000008f7c        0x8 _build/main.o
+ .rodata.str1.4
+                0x0000000000008f84        0xc _build/main.o
+ .rodata.m_scan_param
+                0x0000000000008f90       0x10 _build/main.o
+ .rodata.ble_db_discovery_on_ble_evt
+                0x0000000000008fa0       0x90 _build/ble_db_discovery.o
+ .rodata.m_service_context_apply
+                0x0000000000009030       0x10 _build/device_manager_central.o
+                0x0000000000009030                m_service_context_apply
+ .rodata.m_service_context_store
+                0x0000000000009040       0x10 _build/device_manager_central.o
+                0x0000000000009040                m_service_context_store
+ .rodata.m_service_context_load
+                0x0000000000009050       0x10 _build/device_manager_central.o
+                0x0000000000009050                m_service_context_load
+ *(.eh_frame*)
+ .eh_frame      0x0000000000009060        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+                0x0000000000009060                . = ALIGN (0x4)
+
+.glue_7         0x0000000000009060        0x0
+ .glue_7        0x0000000000000000        0x0 linker stubs
+
+.glue_7t        0x0000000000009060        0x0
+ .glue_7t       0x0000000000000000        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000009060        0x0
+ .vfp11_veneer  0x0000000000000000        0x0 linker stubs
+
+.v4_bx          0x0000000000009060        0x0
+ .v4_bx         0x0000000000000000        0x0 linker stubs
+
+.iplt           0x0000000000009060        0x0
+ .iplt          0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+
+.ARM.extab      0x0000000000009060        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000000000009060                . = ALIGN (0x4)
+                0x0000000000009060                __exidx_start = .
+
+.ARM.exidx      0x0000000000009060        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000000000009060        0x8 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.exidx     0x0000000000009068        0x0 _build/gcc_startup_nrf51.o
+                                          0x8 (size before relaxing)
+                0x0000000000009068                . = ALIGN (0x4)
+                0x0000000000009068                __exidx_end = .
+                0x0000000000009068                __etext = .
+
+.rel.dyn        0x0000000000009068        0x0
+ .rel.iplt      0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+
+.data           0x0000000020000000       0x6c load address 0x0000000000009068
+                0x0000000020000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.impure_data
+                0x0000000020000000       0x60 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-impure.o)
+ .data.m_tx_fsm_idle_flag
+                0x0000000020000060        0x1 _build/ser_phy_hci.o
+ .data.m_rx_fsm_idle_flag
+                0x0000000020000061        0x1 _build/ser_phy_hci.o
+ .data.m_hci_timer_enabled_flag
+                0x0000000020000062        0x1 _build/ser_phy_hci.o
+ .data.m_hci_global_enable_flag
+                0x0000000020000063        0x1 _build/ser_phy_hci.o
+                0x0000000020000064                . = ALIGN (0x4)
+                0x0000000020000064                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x0000000020000064                PROVIDE (__preinit_array_end, .)
+                0x0000000020000064                . = ALIGN (0x4)
+                0x0000000020000064                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x0000000020000064        0x4 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+                0x0000000020000068                PROVIDE (__init_array_end, .)
+                0x0000000020000068                . = ALIGN (0x4)
+                0x0000000020000068                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x0000000020000068        0x4 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+                0x000000002000006c                PROVIDE (__fini_array_end, .)
+ *(.jcr)
+ .jcr           0x000000002000006c        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+                0x000000002000006c                . = ALIGN (0x4)
+                0x000000002000006c                __data_end__ = .
+
+.igot.plt       0x000000002000006c        0x0 load address 0x00000000000090d4
+ .igot.plt      0x0000000000000000        0x0 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+
+.bss            0x000000002000006c     0x1250 load address 0x00000000000090d4
+                0x000000002000006c                . = ALIGN (0x4)
+                0x000000002000006c                __bss_start__ = .
+ *(.bss*)
+ .bss           0x000000002000006c       0x1c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+ .bss.mp_out_params
+                0x0000000020000088        0xc _build/app_mw_ble.o
+ .bss.m_output_params
+                0x0000000020000094        0x8 _build/app_mw_ble_gap.o
+ .bss.mp_out_params
+                0x000000002000009c        0xc _build/app_mw_ble_gatts.o
+ .bss.m_power_system_off
+                0x00000000200000a8        0x1 _build/ser_app_power_system_off.o
+ *fill*         0x00000000200000a9        0x3 
+ .bss.m_events_handler
+                0x00000000200000ac        0x4 _build/ser_hal_transport.o
+ .bss.m_rx_state
+                0x00000000200000b0        0x1 _build/ser_hal_transport.o
+ *fill*         0x00000000200000b1        0x3 
+ .bss.m_tx_buffer
+                0x00000000200000b4      0x180 _build/ser_hal_transport.o
+ .bss.m_rx_buffer
+                0x0000000020000234      0x180 _build/ser_hal_transport.o
+ .bss.m_tx_state
+                0x00000000200003b4        0x1 _build/ser_hal_transport.o
+ *fill*         0x00000000200003b5        0x3 
+ .bss.mailbox_items_rx_evt_queue
+                0x00000000200003b8      0x140 _build/ser_phy_hci.o
+ .bss.m_hci_rx_fsm_state
+                0x00000000200004f8        0x1 _build/ser_phy_hci.o
+ *fill*         0x00000000200004f9        0x3 
+ .bss.m_packet_ack_number
+                0x00000000200004fc        0x4 _build/ser_phy_hci.o
+ .bss.mailbox_items_tx_evt_queue
+                0x0000000020000500      0x140 _build/ser_phy_hci.o
+ .bss.m_tx_retry_count
+                0x0000000020000640        0x4 _build/ser_phy_hci.o
+ .bss.m_p_rx_buffer
+                0x0000000020000644        0x4 _build/ser_phy_hci.o
+ .bss.m_tx_packet_crc
+                0x0000000020000648        0x4 _build/ser_phy_hci.o
+ .bss.m_hci_timout_pending_flag
+                0x000000002000064c        0x1 _build/ser_phy_hci.o
+ .bss.m_hci_tx_fsm_state
+                0x000000002000064d        0x1 _build/ser_phy_hci.o
+ *fill*         0x000000002000064e        0x2 
+ .bss.mailbox_cb_tx_evt_queue
+                0x0000000020000650        0x4 _build/ser_phy_hci.o
+ .bss.m_ser_phy_callback
+                0x0000000020000654        0x4 _build/ser_phy_hci.o
+ .bss.m_tx_payload_length
+                0x0000000020000658        0x2 _build/ser_phy_hci.o
+ .bss.m_rx_packet_length
+                0x000000002000065a        0x2 _build/ser_phy_hci.o
+ .bss.m_p_rx_packet
+                0x000000002000065c        0x4 _build/ser_phy_hci.o
+ .bss.m_buffer_reqested_flag
+                0x0000000020000660        0x1 _build/ser_phy_hci.o
+ *fill*         0x0000000020000661        0x3 
+ .bss.m_packet_seq_number
+                0x0000000020000664        0x4 _build/ser_phy_hci.o
+ .bss.m_tx_ack_packet
+                0x0000000020000668        0x4 _build/ser_phy_hci.o
+ .bss.mailbox_cb_rx_evt_queue
+                0x000000002000066c        0x4 _build/ser_phy_hci.o
+ .bss.m_p_tx_payload
+                0x0000000020000670        0x4 _build/ser_phy_hci.o
+ .bss.m_tx_packet_header
+                0x0000000020000674        0x4 _build/ser_phy_hci.o
+ .bss.m_big_buffer
+                0x0000000020000678      0x188 _build/ser_phy_hci_slip.o
+ .bss.mp_buffer
+                0x0000000020000800        0x4 _build/ser_phy_hci_slip.o
+ .bss.rx_sync.5566
+                0x0000000020000804        0x1 _build/ser_phy_hci_slip.o
+ *fill*         0x0000000020000805        0x3 
+ .bss.m_rx_index
+                0x0000000020000808        0x4 _build/ser_phy_hci_slip.o
+ .bss.m_rx_escape
+                0x000000002000080c        0x1 _build/ser_phy_hci_slip.o
+ *fill*         0x000000002000080d        0x3 
+ .bss.m_payload_pending
+                0x0000000020000810        0x8 _build/ser_phy_hci_slip.o
+ .bss.header.5544
+                0x0000000020000818        0x1 _build/ser_phy_hci_slip.o
+ *fill*         0x0000000020000819        0x3 
+ .bss.m_header_pending
+                0x000000002000081c        0x8 _build/ser_phy_hci_slip.o
+ .bss.m_rx_byte
+                0x0000000020000824        0x1 _build/ser_phy_hci_slip.o
+ *fill*         0x0000000020000825        0x3 
+ .bss.m_crc     0x0000000020000828        0x8 _build/ser_phy_hci_slip.o
+ .bss.m_tx_index
+                0x0000000020000830        0x4 _build/ser_phy_hci_slip.o
+ .bss.m_payload
+                0x0000000020000834        0x8 _build/ser_phy_hci_slip.o
+ .bss.m_small_buffer
+                0x000000002000083c        0x4 _build/ser_phy_hci_slip.o
+ .bss.big_buff_in_use.5568
+                0x0000000020000840        0x1 _build/ser_phy_hci_slip.o
+ *fill*         0x0000000020000841        0x3 
+ .bss.mp_big_buffer
+                0x0000000020000844        0x4 _build/ser_phy_hci_slip.o
+ .bss.mp_small_buffer
+                0x0000000020000848        0x4 _build/ser_phy_hci_slip.o
+ .bss.crc.5546  0x000000002000084c        0x1 _build/ser_phy_hci_slip.o
+ *fill*         0x000000002000084d        0x3 
+ .bss.mp_data   0x0000000020000850        0x4 _build/ser_phy_hci_slip.o
+ .bss.payload.5545
+                0x0000000020000854        0x1 _build/ser_phy_hci_slip.o
+ .bss.m_tx_busy
+                0x0000000020000855        0x1 _build/ser_phy_hci_slip.o
+ *fill*         0x0000000020000856        0x2 
+ .bss.m_ser_phy_hci_slip_event_handler
+                0x0000000020000858        0x4 _build/ser_phy_hci_slip.o
+ .bss.m_other_side_active
+                0x000000002000085c        0x1 _build/ser_phy_hci_slip.o
+ .bss.m_tx_escape
+                0x000000002000085d        0x1 _build/ser_phy_hci_slip.o
+ *fill*         0x000000002000085e        0x2 
+ .bss.m_crc_pending
+                0x0000000020000860        0x8 _build/ser_phy_hci_slip.o
+ .bss.packet_end.5548
+                0x0000000020000868        0x1 _build/ser_phy_hci_slip.o
+ .bss.ack_end.5547
+                0x0000000020000869        0x1 _build/ser_phy_hci_slip.o
+ *fill*         0x000000002000086a        0x2 
+ .bss.m_ser_phy_hci_slip_event
+                0x000000002000086c        0xc _build/ser_phy_hci_slip.o
+ .bss.m_header  0x0000000020000878        0x8 _build/ser_phy_hci_slip.o
+ .bss.m_rsp_wait
+                0x0000000020000880        0x1 _build/ser_sd_transport.o
+ *fill*         0x0000000020000881        0x3 
+ .bss.m_os_rsp_wait_handler
+                0x0000000020000884        0x4 _build/ser_sd_transport.o
+ .bss.m_rsp_dec_handler
+                0x0000000020000888        0x4 _build/ser_sd_transport.o
+ .bss.m_evt_handler
+                0x000000002000088c        0x4 _build/ser_sd_transport.o
+ .bss.m_os_rsp_set_handler
+                0x0000000020000890        0x4 _build/ser_sd_transport.o
+ .bss.m_rx_notify_handler
+                0x0000000020000894        0x4 _build/ser_sd_transport.o
+ .bss.m_return_value
+                0x0000000020000898        0x4 _build/ser_sd_transport.o
+ .bss.m_ot_rsp_wait_handler
+                0x000000002000089c        0x4 _build/ser_sd_transport.o
+ .bss.mailbox_items_sd_ble_evt_mailbox
+                0x00000000200008a0      0x17c _build/ser_softdevice_handler.o
+ .bss.mailbox_cb_sd_ble_evt_mailbox
+                0x0000000020000a1c        0x4 _build/ser_softdevice_handler.o
+ .bss.m_ticks_latest
+                0x0000000020000a20        0x4 _build/app_timer.o
+ .bss.mp_timer_id_head
+                0x0000000020000a24        0x4 _build/app_timer.o
+ .bss.m_evt_schedule_func
+                0x0000000020000a28        0x4 _build/app_timer.o
+ .bss.m_user_array_size
+                0x0000000020000a2c        0x1 _build/app_timer.o
+ *fill*         0x0000000020000a2d        0x3 
+ .bss.mp_users  0x0000000020000a30        0x4 _build/app_timer.o
+ .bss.m_ticks_elapsed_q_read_ind
+                0x0000000020000a34        0x1 _build/app_timer.o
+ .bss.m_ticks_elapsed_q_write_ind
+                0x0000000020000a35        0x1 _build/app_timer.o
+ .bss.m_rtc1_reset
+                0x0000000020000a36        0x1 _build/app_timer.o
+ *fill*         0x0000000020000a37        0x1 
+ .bss.m_ticks_elapsed
+                0x0000000020000a38        0x8 _build/app_timer.o
+ .bss.m_rtc1_running
+                0x0000000020000a40        0x1 _build/app_timer.o
+ *fill*         0x0000000020000a41        0x3 
+ .bss.m_in_critical_region
+                0x0000000020000a44        0x4 _build/app_util_platform.o
+ .bss.tx_buffer
+                0x0000000020000a48        0x4 _build/app_uart.o
+ .bss.m_event_handler
+                0x0000000020000a4c        0x4 _build/app_uart.o
+ .bss.rx_buffer
+                0x0000000020000a50        0x4 _build/app_uart.o
+ .bss.rx_done   0x0000000020000a54        0x1 _build/app_uart.o
+ .bss.m_radio_active
+                0x0000000020000a55        0x1 _build/ble_flash.o
+ *fill*         0x0000000020000a56        0x2 
+ .bss.m_cb      0x0000000020000a58       0x18 _build/nrf_drv_uart.o
+ .bss.m_app_table
+                0x0000000020000a70       0x10 _build/pstorage_nosd.o
+ .bss.m_next_app_instance
+                0x0000000020000a80        0x4 _build/pstorage_nosd.o
+ .bss.m_module_initialized
+                0x0000000020000a84        0x1 _build/pstorage_nosd.o
+ *fill*         0x0000000020000a85        0x3 
+ .bss.m_next_page_addr
+                0x0000000020000a88        0x4 _build/pstorage_nosd.o
+ .bss.m_base_uuid_type
+                0x0000000020000a8c        0x1 _build/client_handling.o
+ .bss.m_client_count
+                0x0000000020000a8d        0x1 _build/client_handling.o
+ *fill*         0x0000000020000a8e        0x2 
+ .bss.m_client  0x0000000020000a90      0x410 _build/client_handling.o
+ .bss.m_dm_app_id
+                0x0000000020000ea0        0x1 _build/main.o
+ .bss.m_peer_count
+                0x0000000020000ea1        0x1 _build/main.o
+ *fill*         0x0000000020000ea2        0x2 
+ .bss.BLE_EVT_BUFFER.7856
+                0x0000000020000ea4       0x48 _build/main.o
+ .bss.m_memory_access_in_progress
+                0x0000000020000eec        0x1 _build/main.o
+ *fill*         0x0000000020000eed        0x3 
+ .bss.m_pending_user_evts
+                0x0000000020000ef0       0x88 _build/ble_db_discovery.o
+ .bss.m_pending_usr_evt_index
+                0x0000000020000f78        0x4 _build/ble_db_discovery.o
+ .bss.m_registered_handlers
+                0x0000000020000f7c       0x10 _build/ble_db_discovery.o
+ .bss.m_initialized
+                0x0000000020000f8c        0x1 _build/ble_db_discovery.o
+ *fill*         0x0000000020000f8d        0x3 
+ .bss.m_num_of_handlers_reg
+                0x0000000020000f90        0x4 _build/ble_db_discovery.o
+ .bss.m_module_initialized
+                0x0000000020000f94        0x1 _build/device_manager_central.o
+ *fill*         0x0000000020000f95        0x3 
+ .bss.m_connection_table
+                0x0000000020000f98       0x60 _build/device_manager_central.o
+ .bss.m_peer_table
+                0x0000000020000ff8       0xc0 _build/device_manager_central.o
+ .bss.m_storage_handle
+                0x00000000200010b8        0x8 _build/device_manager_central.o
+ .bss.m_bond_table
+                0x00000000200010c0       0xe0 _build/device_manager_central.o
+ .bss.m_gatts_table
+                0x00000000200011a0       0x60 _build/device_manager_central.o
+ .bss.m_peer_addr_update
+                0x0000000020001200        0x4 _build/device_manager_central.o
+ .bss.m_application_table
+                0x0000000020001204        0xc _build/device_manager_central.o
+ .bss.m_softdevice_enabled
+                0x0000000020001210        0x1 _build/softdevice_handler.o
+ *fill*         0x0000000020001211        0x1 
+ .bss.m_ble_evt_buffer_size
+                0x0000000020001212        0x2 _build/softdevice_handler.o
+ .bss.mp_ble_evt_buffer
+                0x0000000020001214        0x4 _build/softdevice_handler.o
+ .bss.m_sys_evt_handler
+                0x0000000020001218        0x4 _build/softdevice_handler.o
+ .bss.m_ble_evt_handler
+                0x000000002000121c        0x4 _build/softdevice_handler.o
+ .bss.m_evt_schedule_func
+                0x0000000020001220        0x4 _build/softdevice_handler.o
+ *(COMMON)
+ COMMON         0x0000000020001224       0x38 _build/app_ble_gap_sec_keys.o
+                0x0000000020001224                m_app_keys_table
+ COMMON         0x000000002000125c       0x60 _build/app_ble_user_mem.o
+                0x000000002000125c                m_app_user_mem_table
+                0x00000000200012bc                . = ALIGN (0x4)
+                0x00000000200012bc                __bss_end__ = .
+
+.heap           0x00000000200012c0      0x800
+                0x00000000200012c0                __end__ = .
+                0x00000000200012c0                end = __end__
+ *(.heap*)
+ .heap          0x00000000200012c0      0x800 _build/gcc_startup_nrf51.o
+                0x00000000200012c0                __HeapBase
+                0x0000000020001ac0                __HeapLimit = .
+
+.stack_dummy    0x00000000200012c0      0x800
+ *(.stack*)
+ .stack         0x00000000200012c0      0x800 _build/gcc_startup_nrf51.o
+                0x0000000020008000                __StackTop = (ORIGIN (RAM) + 0x8000)
+                0x0000000020007800                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x0000000020008000                PROVIDE (__stack, __StackTop)
+                0x0000000000000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(_build/nrf51422_xxac_s120.out elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x28
+ .ARM.attributes
+                0x0000000000000000       0x1e /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x1b /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.attributes
+                0x0000000000000065       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000091       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000000000bd       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000000e9       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000115       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000141       0x31 _build/app_ble_gap_sec_keys.o
+ .ARM.attributes
+                0x0000000000000172       0x31 _build/app_ble_user_mem.o
+ .ARM.attributes
+                0x00000000000001a3       0x31 _build/app_mw_ble.o
+ .ARM.attributes
+                0x00000000000001d4       0x31 _build/app_mw_ble_gap.o
+ .ARM.attributes
+                0x0000000000000205       0x31 _build/app_mw_ble_gattc.o
+ .ARM.attributes
+                0x0000000000000236       0x31 _build/app_mw_ble_gatts.o
+ .ARM.attributes
+                0x0000000000000267       0x31 _build/ble_enable.o
+ .ARM.attributes
+                0x0000000000000298       0x31 _build/ble_event.o
+ .ARM.attributes
+                0x00000000000002c9       0x31 _build/ble_evt_tx_complete.o
+ .ARM.attributes
+                0x00000000000002fa       0x31 _build/ble_evt_user_mem_release.o
+ .ARM.attributes
+                0x000000000000032b       0x31 _build/ble_evt_user_mem_request.o
+ .ARM.attributes
+                0x000000000000035c       0x31 _build/ble_gap_authenticate.o
+ .ARM.attributes
+                0x000000000000038d       0x31 _build/ble_gap_connect.o
+ .ARM.attributes
+                0x00000000000003be       0x31 _build/ble_gap_encrypt.o
+ .ARM.attributes
+                0x00000000000003ef       0x31 _build/ble_gap_evt_adv_report.o
+ .ARM.attributes
+                0x0000000000000420       0x31 _build/ble_gap_evt_auth_key_request.o
+ .ARM.attributes
+                0x0000000000000451       0x31 _build/ble_gap_evt_auth_status.o
+ .ARM.attributes
+                0x0000000000000482       0x31 _build/ble_gap_evt_conn_param_update.o
+ .ARM.attributes
+                0x00000000000004b3       0x31 _build/ble_gap_evt_conn_param_update_request.o
+ .ARM.attributes
+                0x00000000000004e4       0x31 _build/ble_gap_evt_conn_sec_update.o
+ .ARM.attributes
+                0x0000000000000515       0x31 _build/ble_gap_evt_connected.o
+ .ARM.attributes
+                0x0000000000000546       0x31 _build/ble_gap_evt_disconnected.o
+ .ARM.attributes
+                0x0000000000000577       0x31 _build/ble_gap_evt_passkey_display.o
+ .ARM.attributes
+                0x00000000000005a8       0x31 _build/ble_gap_evt_rssi_changed.o
+ .ARM.attributes
+                0x00000000000005d9       0x31 _build/ble_gap_evt_scan_req_report.o
+ .ARM.attributes
+                0x000000000000060a       0x31 _build/ble_gap_evt_sec_info_request.o
+ .ARM.attributes
+                0x000000000000063b       0x31 _build/ble_gap_evt_sec_params_request.o
+ .ARM.attributes
+                0x000000000000066c       0x31 _build/ble_gap_evt_sec_request.o
+ .ARM.attributes
+                0x000000000000069d       0x31 _build/ble_gap_evt_timeout.o
+ .ARM.attributes
+                0x00000000000006ce       0x31 _build/ble_gap_scan_start.o
+ .ARM.attributes
+                0x00000000000006ff       0x31 _build/ble_gap_scan_stop.o
+ .ARM.attributes
+                0x0000000000000730       0x31 _build/ble_gap_sec_params_reply.o
+ .ARM.attributes
+                0x0000000000000761       0x31 _build/ble_gap_struct_serialization.o
+ .ARM.attributes
+                0x0000000000000792       0x31 _build/ble_gattc_characteristics_discover.o
+ .ARM.attributes
+                0x00000000000007c3       0x31 _build/ble_gattc_descriptors_discover.o
+ .ARM.attributes
+                0x00000000000007f4       0x31 _build/ble_gattc_evt_char_disc_rsp.o
+ .ARM.attributes
+                0x0000000000000825       0x31 _build/ble_gattc_evt_char_val_by_uuid_read_rsp.o
+ .ARM.attributes
+                0x0000000000000856       0x31 _build/ble_gattc_evt_char_vals_read_rsp.o
+ .ARM.attributes
+                0x0000000000000887       0x31 _build/ble_gattc_evt_desc_disc_rsp.o
+ .ARM.attributes
+                0x00000000000008b8       0x31 _build/ble_gattc_evt_hvx.o
+ .ARM.attributes
+                0x00000000000008e9       0x31 _build/ble_gattc_evt_prim_srvc_disc_rsp.o
+ .ARM.attributes
+                0x000000000000091a       0x31 _build/ble_gattc_evt_read_rsp.o
+ .ARM.attributes
+                0x000000000000094b       0x31 _build/ble_gattc_evt_rel_disc_rsp.o
+ .ARM.attributes
+                0x000000000000097c       0x31 _build/ble_gattc_evt_timeout.o
+ .ARM.attributes
+                0x00000000000009ad       0x31 _build/ble_gattc_evt_write_rsp.o
+ .ARM.attributes
+                0x00000000000009de       0x31 _build/ble_gattc_primary_services_discover.o
+ .ARM.attributes
+                0x0000000000000a0f       0x31 _build/ble_gattc_struct_serialization.o
+ .ARM.attributes
+                0x0000000000000a40       0x31 _build/ble_gattc_write.o
+ .ARM.attributes
+                0x0000000000000a71       0x31 _build/ble_gatts_evt_hvc.o
+ .ARM.attributes
+                0x0000000000000aa2       0x31 _build/ble_gatts_evt_rw_authorize_request.o
+ .ARM.attributes
+                0x0000000000000ad3       0x31 _build/ble_gatts_evt_sc_confirm.o
+ .ARM.attributes
+                0x0000000000000b04       0x31 _build/ble_gatts_evt_sys_attr_missing.o
+ .ARM.attributes
+                0x0000000000000b35       0x31 _build/ble_gatts_evt_timeout.o
+ .ARM.attributes
+                0x0000000000000b66       0x31 _build/ble_gatts_evt_write.o
+ .ARM.attributes
+                0x0000000000000b97       0x31 _build/ble_gatts_struct_serialization.o
+ .ARM.attributes
+                0x0000000000000bc8       0x31 _build/ble_gatts_sys_attr_get.o
+ .ARM.attributes
+                0x0000000000000bf9       0x31 _build/ble_gatts_sys_attr_set.o
+ .ARM.attributes
+                0x0000000000000c2a       0x31 _build/ble_l2cap_evt_rx.o
+ .ARM.attributes
+                0x0000000000000c5b       0x31 _build/ble_serialization.o
+ .ARM.attributes
+                0x0000000000000c8c       0x31 _build/ble_struct_serialization.o
+ .ARM.attributes
+                0x0000000000000cbd       0x31 _build/ble_uuid_vs_add.o
+ .ARM.attributes
+                0x0000000000000cee       0x31 _build/cond_field_serialization.o
+ .ARM.attributes
+                0x0000000000000d1f       0x31 _build/ser_app_hal_nrf51.o
+ .ARM.attributes
+                0x0000000000000d50       0x31 _build/ser_app_power_system_off.o
+ .ARM.attributes
+                0x0000000000000d81       0x31 _build/ser_hal_transport.o
+ .ARM.attributes
+                0x0000000000000db2       0x31 _build/ser_phy_hci.o
+ .ARM.attributes
+                0x0000000000000de3       0x31 _build/ser_phy_hci_slip.o
+ .ARM.attributes
+                0x0000000000000e14       0x31 _build/ser_sd_transport.o
+ .ARM.attributes
+                0x0000000000000e45       0x31 _build/ser_softdevice_handler.o
+ .ARM.attributes
+                0x0000000000000e76       0x31 _build/app_error.o
+ .ARM.attributes
+                0x0000000000000ea7       0x31 _build/app_mailbox.o
+ .ARM.attributes
+                0x0000000000000ed8       0x31 _build/app_timer.o
+ .ARM.attributes
+                0x0000000000000f09       0x31 _build/app_util_platform.o
+ .ARM.attributes
+                0x0000000000000f3a       0x31 _build/crc16.o
+ .ARM.attributes
+                0x0000000000000f6b       0x31 _build/app_uart.o
+ .ARM.attributes
+                0x0000000000000f9c       0x31 _build/ble_flash.o
+ .ARM.attributes
+                0x0000000000000fcd       0x31 _build/nrf_delay.o
+ .ARM.attributes
+                0x0000000000000ffe       0x31 _build/nrf_drv_common.o
+ .ARM.attributes
+                0x000000000000102f       0x31 _build/nrf_drv_uart.o
+ .ARM.attributes
+                0x0000000000001060       0x31 _build/nrf_soc.o
+ .ARM.attributes
+                0x0000000000001091       0x31 _build/pstorage_nosd.o
+ .ARM.attributes
+                0x00000000000010c2       0x31 _build/client_handling.o
+ .ARM.attributes
+                0x00000000000010f3       0x31 _build/main.o
+ .ARM.attributes
+                0x0000000000001124       0x31 _build/ble_db_discovery.o
+ .ARM.attributes
+                0x0000000000001155       0x31 _build/device_manager_central.o
+ .ARM.attributes
+                0x0000000000001186       0x31 _build/system_nrf51.o
+ .ARM.attributes
+                0x00000000000011b7       0x31 _build/softdevice_handler.o
+ .ARM.attributes
+                0x00000000000011e8       0x1b _build/gcc_startup_nrf51.o
+ .ARM.attributes
+                0x0000000000001203       0x1e /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000001221       0x1e /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000000000000123f       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x000000000000126b       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000000000001297       0x1e /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+
+.comment        0x0000000000000000       0x80
+ .comment       0x0000000000000000       0x80 _build/app_ble_gap_sec_keys.o
+                                         0x81 (size before relaxing)
+ .comment       0x0000000000000000       0x81 _build/app_ble_user_mem.o
+ .comment       0x0000000000000000       0x81 _build/app_mw_ble.o
+ .comment       0x0000000000000000       0x81 _build/app_mw_ble_gap.o
+ .comment       0x0000000000000000       0x81 _build/app_mw_ble_gattc.o
+ .comment       0x0000000000000000       0x81 _build/app_mw_ble_gatts.o
+ .comment       0x0000000000000000       0x81 _build/ble_enable.o
+ .comment       0x0000000000000000       0x81 _build/ble_event.o
+ .comment       0x0000000000000000       0x81 _build/ble_evt_tx_complete.o
+ .comment       0x0000000000000000       0x81 _build/ble_evt_user_mem_release.o
+ .comment       0x0000000000000000       0x81 _build/ble_evt_user_mem_request.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_authenticate.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_connect.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_encrypt.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_evt_adv_report.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_evt_auth_key_request.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_evt_auth_status.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_evt_conn_param_update.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_evt_conn_param_update_request.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_evt_conn_sec_update.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_evt_connected.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_evt_disconnected.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_evt_passkey_display.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_evt_rssi_changed.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_evt_scan_req_report.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_evt_sec_info_request.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_evt_sec_params_request.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_evt_sec_request.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_evt_timeout.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_scan_start.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_scan_stop.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_sec_params_reply.o
+ .comment       0x0000000000000000       0x81 _build/ble_gap_struct_serialization.o
+ .comment       0x0000000000000000       0x81 _build/ble_gattc_characteristics_discover.o
+ .comment       0x0000000000000000       0x81 _build/ble_gattc_descriptors_discover.o
+ .comment       0x0000000000000000       0x81 _build/ble_gattc_evt_char_disc_rsp.o
+ .comment       0x0000000000000000       0x81 _build/ble_gattc_evt_char_val_by_uuid_read_rsp.o
+ .comment       0x0000000000000000       0x81 _build/ble_gattc_evt_char_vals_read_rsp.o
+ .comment       0x0000000000000000       0x81 _build/ble_gattc_evt_desc_disc_rsp.o
+ .comment       0x0000000000000000       0x81 _build/ble_gattc_evt_hvx.o
+ .comment       0x0000000000000000       0x81 _build/ble_gattc_evt_prim_srvc_disc_rsp.o
+ .comment       0x0000000000000000       0x81 _build/ble_gattc_evt_read_rsp.o
+ .comment       0x0000000000000000       0x81 _build/ble_gattc_evt_rel_disc_rsp.o
+ .comment       0x0000000000000000       0x81 _build/ble_gattc_evt_timeout.o
+ .comment       0x0000000000000000       0x81 _build/ble_gattc_evt_write_rsp.o
+ .comment       0x0000000000000000       0x81 _build/ble_gattc_primary_services_discover.o
+ .comment       0x0000000000000000       0x81 _build/ble_gattc_struct_serialization.o
+ .comment       0x0000000000000000       0x81 _build/ble_gattc_write.o
+ .comment       0x0000000000000000       0x81 _build/ble_gatts_evt_hvc.o
+ .comment       0x0000000000000000       0x81 _build/ble_gatts_evt_rw_authorize_request.o
+ .comment       0x0000000000000000       0x81 _build/ble_gatts_evt_sc_confirm.o
+ .comment       0x0000000000000000       0x81 _build/ble_gatts_evt_sys_attr_missing.o
+ .comment       0x0000000000000000       0x81 _build/ble_gatts_evt_timeout.o
+ .comment       0x0000000000000000       0x81 _build/ble_gatts_evt_write.o
+ .comment       0x0000000000000000       0x81 _build/ble_gatts_struct_serialization.o
+ .comment       0x0000000000000000       0x81 _build/ble_gatts_sys_attr_get.o
+ .comment       0x0000000000000000       0x81 _build/ble_gatts_sys_attr_set.o
+ .comment       0x0000000000000000       0x81 _build/ble_l2cap_evt_rx.o
+ .comment       0x0000000000000000       0x81 _build/ble_serialization.o
+ .comment       0x0000000000000000       0x81 _build/ble_struct_serialization.o
+ .comment       0x0000000000000000       0x81 _build/ble_uuid_vs_add.o
+ .comment       0x0000000000000000       0x81 _build/cond_field_serialization.o
+ .comment       0x0000000000000000       0x81 _build/ser_app_hal_nrf51.o
+ .comment       0x0000000000000000       0x81 _build/ser_app_power_system_off.o
+ .comment       0x0000000000000000       0x81 _build/ser_hal_transport.o
+ .comment       0x0000000000000000       0x81 _build/ser_phy_hci.o
+ .comment       0x0000000000000000       0x81 _build/ser_phy_hci_slip.o
+ .comment       0x0000000000000000       0x81 _build/ser_sd_transport.o
+ .comment       0x0000000000000000       0x81 _build/ser_softdevice_handler.o
+ .comment       0x0000000000000000       0x81 _build/app_error.o
+ .comment       0x0000000000000000       0x81 _build/app_mailbox.o
+ .comment       0x0000000000000000       0x81 _build/app_timer.o
+ .comment       0x0000000000000000       0x81 _build/app_util_platform.o
+ .comment       0x0000000000000000       0x81 _build/crc16.o
+ .comment       0x0000000000000000       0x81 _build/app_uart.o
+ .comment       0x0000000000000000       0x81 _build/ble_flash.o
+ .comment       0x0000000000000000       0x81 _build/nrf_delay.o
+ .comment       0x0000000000000000       0x81 _build/nrf_drv_common.o
+ .comment       0x0000000000000000       0x81 _build/nrf_drv_uart.o
+ .comment       0x0000000000000000       0x81 _build/nrf_soc.o
+ .comment       0x0000000000000000       0x81 _build/pstorage_nosd.o
+ .comment       0x0000000000000000       0x81 _build/client_handling.o
+ .comment       0x0000000000000000       0x81 _build/main.o
+ .comment       0x0000000000000000       0x81 _build/ble_db_discovery.o
+ .comment       0x0000000000000000       0x81 _build/device_manager_central.o
+ .comment       0x0000000000000000       0x81 _build/system_nrf51.o
+ .comment       0x0000000000000000       0x81 _build/softdevice_handler.o
+
+.debug_frame    0x0000000000000000      0x108
+ .debug_frame   0x0000000000000000       0x28 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000028       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-init.o)
+ .debug_frame   0x0000000000000054       0x20 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000074       0x20 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .debug_frame   0x0000000000000094       0x20 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000000000000b4       0x2c /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcmp.o)
+ .debug_frame   0x00000000000000e0       0x28 /home/abhiarora/eclipse/Arduino/hardware/tools/gcc-arm-none-eabi-4.8.3-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc_s.a(lib_a-memcpy-stub.o)

@@ -1,0 +1,14 @@
+#ifndef _VIDEO_H_
+#define _VIDEO_H_
+
+#define DEFAULT_PIX_WIDTH			800
+#define DEFAULT_PIX_HEIGHT			600
+
+#define DEFAULT_PIX_FORMAT			V4L2_PIX_FMT_MJPEG
+
+#define DISPLAY_MESSAGE
+#define DISPLAY_ERROR_MESSAGE
+#define QUEUE_BEFORE_STREAMING_ON
+
+
+#endif

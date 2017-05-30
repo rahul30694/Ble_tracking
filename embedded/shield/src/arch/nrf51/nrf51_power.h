@@ -1,0 +1,115 @@
+#ifndef _NRF51_POWER_H_
+#define _NRF51_POWER_H_
+
+#include "nrf.h"
+
+#include <stdbool.h>
+#include <stdint.h>
+#include <stddef.h>
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+
+enum nrf51_power_task_e {
+	NRF51_POWER_TASK_CONSTLAT	=	offsetof(NRF_POWER_Type, TASKS_CONSTLAT),
+	NRF51_POWER_TASK_LOWPWR		=	offsetof(NRF_POWER_Type, TASKS_LOWPWR),
+};
+
+enum nrf51_power_event_e {
+	NRF51_POWER_EVENT_POFWARN	=	offsetof(NRF_POWER_Type, EVENTS_POFWARN),
+};
+
+enum nrf51_power_int_mask_e {
+	NRF51_POWER_INT_POFWARN		=	POWER_INTENSET_POFWARN_Msk,
+};
+
+enum nrf51_power_rst_reasons_e {
+	NRF51_POWER_RST_PIN			=	POWER_RESETREAS_RESETPIN_Msk,
+	NRF51_POWER_RST_DOG			=	POWER_RESETREAS_DOG_Msk,
+	NRF51_POWER_RST_SREQ		=	POWER_RESETREAS_SREQ_Msk,
+	NRF51_POWER_RST_LOCKUP		=	POWER_RESETREAS_LOCKUP_Msk,
+	NRF51_POWER_RST_OFF			=	POWER_RESETREAS_OFF_Msk,
+	NRF51_POWER_RST_LPCMP		=	POWER_RESETREAS_LPCOMP_Msk,
+	NRF51_POWER_RST_DIF			=	POWER_RESETREAS_DIF_Msk,
+};
+
+enum nrf51_power_ramstatus_e {
+	NRF51_POWER_RAMSTATUS_0		=	POWER_RAMSTATUS_RAMBLOCK0_Msk,
+	NRF51_POWER_RAMSTATUS_1		=	POWER_RAMSTATUS_RAMBLOCK1_Msk,
+	NRF51_POWER_RAMSTATUS_2		=	POWER_RAMSTATUS_RAMBLOCK2_Msk,
+	NRF51_POWER_RAMSTATUS_3		=	POWER_RAMSTATUS_RAMBLOCK3_Msk,
+};
+
+enum nrf51_power_sys_mode_e {
+	NRF51_POWER_SYS_OFF			=	POWER_SYSTEMOFF_SYSTEMOFF_Enter << POWER_SYSTEMOFF_SYSTEMOFF_Pos, 
+};
+
+enum nrf51_power_failure_e {
+	NRF51_POWER_FAILURE_DISABLED	=	POWER_POFCON_POF_Disabled,
+	NRF51_POWER_FAILURE_THRES_2_1	=	(POWER_POFCON_THRESHOLD_V21 << POWER_POFCON_THRESHOLD_Pos) | 
+						(POWER_POFCON_POF_Enabled << POWER_POFCON_POF_Pos),
+	NRF51_POWER_FAILURE_THRES_2_3	=	(POWER_POFCON_THRESHOLD_V23 << POWER_POFCON_THRESHOLD_Pos) | 
+						(POWER_POFCON_POF_Enabled << POWER_POFCON_POF_Pos),
+	NRF51_POWER_FAILURE_THRES_2_5	=	(POWER_POFCON_THRESHOLD_V25 << POWER_POFCON_THRESHOLD_Pos) | 
+						(POWER_POFCON_POF_Enabled << POWER_POFCON_POF_Pos),
+	NRF51_POWER_FAILURE_THRES_2_7	=	(POWER_POFCON_THRESHOLD_V27 << POWER_POFCON_THRESHOLD_Pos) | 
+						(POWER_POFCON_POF_Enabled << POWER_POFCON_POF_Pos),
+
+};
+
+
+enum nrf51_power_onram_e {
+	NRF51_POWER_ONRAM_ON_0		=	POWER_RAMON_ONRAM0_RAM0On << POWER_RAMON_ONRAM0_Pos,
+	NRF51_POWER_ONRAM_OFF_0		=	POWER_RAMON_ONRAM0_RAM0Off << POWER_RAMON_ONRAM0_Pos,
+
+	NRF51_POWER_ONRAM_ON_1		=	POWER_RAMON_ONRAM1_RAM1On << POWER_RAMON_ONRAM1_Pos,
+	NRF51_POWER_ONRAM_OFF_1		=	POWER_RAMON_ONRAM1_RAM1Off << POWER_RAMON_ONRAM1_Pos,
+
+	NRF51_POWER_ONRAM_ON_2		=	POWER_RAMONB_ONRAM2_RAM2On << POWER_RAMONB_ONRAM2_Pos,
+	NRF51_POWER_ONRAM_OFF_2		=	POWER_RAMONB_ONRAM2_RAM2Off << POWER_RAMONB_ONRAM2_Pos,
+
+	NRF51_POWER_ONRAM_ON_3		=	POWER_RAMONB_ONRAM3_RAM3On << POWER_RAMONB_ONRAM3_Pos,
+	NRF51_POWER_ONRAM_OFF_3		=	POWER_RAMONB_ONRAM3_RAM3Off << POWER_RAMONB_ONRAM3_Pos,
+};
+
+
+enum nrf51_power_offram_e {
+	NRF51_POWER_OFFRAM_ON_0		=	POWER_RAMON_OFFRAM0_RAM0On << POWER_RAMON_OFFRAM0_Pos,
+	NRF51_POWER_OFFRAM_OFF_0	=	POWER_RAMON_OFFRAM0_RAM0Off << POWER_RAMON_OFFRAM0_Pos,
+
+	NRF51_POWER_OFFRAM_ON_1		=	POWER_RAMON_OFFRAM1_RAM1On << POWER_RAMON_OFFRAM1_Pos,
+	NRF51_POWER_OFFRAM_OFF_1	=	POWER_RAMON_OFFRAM1_RAM1Off << POWER_RAMON_OFFRAM1_Pos,
+
+	NRF51_POWER_OFFRAM_ON_2		=	POWER_RAMONB_OFFRAM2_RAM2On << POWER_RAMONB_OFFRAM2_Pos,
+	NRF51_POWER_OFFRAM_OFF_2	=	POWER_RAMONB_OFFRAM2_RAM2Off << POWER_RAMONB_OFFRAM2_Pos,
+
+	NRF51_POWER_OFFRAM_ON_3		=	POWER_RAMONB_OFFRAM3_RAM3On << POWER_RAMONB_OFFRAM3_Pos,
+	NRF51_POWER_OFFRAM_OFF_3	=	POWER_RAMONB_OFFRAM3_RAM3Off << POWER_RAMONB_OFFRAM3_Pos,
+};
+
+
+void nrf51_power_int_mask_set(enum nrf51_power_int_mask_e mask);
+void nrf51_power_int_mask_clear(enum nrf51_power_int_mask_e mask);
+bool nrf51_power_rst_reason_check(enum nrf51_power_rst_reasons_e reason);
+void nrf51_power_rst_reason_clear(enum nrf51_power_rst_reasons_e reason);
+bool nrf51_power_ram_check(enum nrf51_power_ramstatus_e ram);
+void nrf51_power_off_mode(void);
+
+void nrf51_power_failure_mode(enum nrf51_power_failure_e pf);
+
+void nrf51_power_set_retained_register(uint8_t value);
+uint8_t nrf51_power_get_retained_register(void);
+void nrf51_power_en_rst_dif(void);
+void nrf51_power_disable_rst_dif(void);
+void nrf51_power_en_dcdc(void);
+void nrf51_power_disable_dcdc(void);
+void nrf51_power_onram(uint32_t ram_mask);
+void nrf51_power_offram(uint32_t ram_mask);
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif
